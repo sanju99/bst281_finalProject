@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SOCS	PF12610.11	-	145	197	146	196	2	57	59.05	4.8e-16	7.3e-20	Suppressor of cytokine signalling
+SH2	PF00017.27	CL0541	381	459	382	436	2	57	34.78	1.4e-08	2.2e-12	SH2 domain
+SOCS_box	PF07525.19	CL0642	480	515	481	515	2	38	34.26	2.5e-08	3.8e-12	SOCS box

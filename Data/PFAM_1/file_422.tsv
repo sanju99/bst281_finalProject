@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+eIF3g	PF12353.11	CL0511	56	175	59	175	4	125	145.03	1.5e-42	1.6e-46	Eukaryotic translation initiation factor 3 subunit G
+RRM_1	PF00076.25	CL0221	241	308	241	303	1	62	65.91	2.3e-18	2.4e-22	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

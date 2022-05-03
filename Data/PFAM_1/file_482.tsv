@@ -1,0 +1,12 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CH	PF00307.34	CL0188	120	236	121	234	2	106	85.43	3.0e-24	9.0e-28	Calponin homology (CH) domain
+CH	PF00307.34	CL0188	264	376	265	375	2	108	72.17	3.9e-20	1.2e-23	Calponin homology (CH) domain
+CH	PF00307.34	CL0188	394	504	396	502	3	107	63.10	2.6e-17	7.9e-21	Calponin homology (CH) domain
+CH	PF00307.34	CL0188	515	625	518	622	4	106	68.05	7.5e-19	2.3e-22	Calponin homology (CH) domain
+EF-hand_1	PF00036.35	CL0220	13	41	13	40	1	28	31.44	8.0e-08	2.4e-11	EF hand
+EF-hand_7	PF13499.9	CL0220	11	79	13	78	3	70	38.59	1.2e-09	3.7e-13	EF-hand domain pair
+EF-hand_5	PF13202.9	CL0220	14	39	14	36	1	23	21.13	0.00016	4.9e-08	EF hand
+EF-hand_5	PF13202.9	CL0220	59	79	62	76	9	23	16.33	0.0053	1.6e-06	EF hand
+EF-hand_6	PF13405.9	CL0220	13	43	13	39	1	27	23.31	3.8e-05	1.2e-08	EF-hand domain
+EF-hand_8	PF13833.9	CL0220	4	40	13	38	26	51	17.07	0.0039	1.2e-06	EF-hand domain pair
+EF-hand_8	PF13833.9	CL0220	52	78	56	76	29	49	16.82	0.0047	1.4e-06	EF-hand domain pair

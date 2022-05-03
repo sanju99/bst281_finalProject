@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+BTD	PF09270.13	CL0066	206	328	206	328	1	123	205.67	2.1e-61	3.1e-65	Beta-trefoil DNA-binding domain
+LAG1-DNAbind	PF09271.14	CL0073	48	178	48	178	1	151	162.10	1.5e-47	2.3e-51	LAG1, DNA binding
+TIG_SUH	PF20144.2	CL0159	354	444	354	444	1	94	109.11	1.0e-31	1.5e-35	TIG domain

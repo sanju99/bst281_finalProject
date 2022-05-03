@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+KH_1	PF00013.32	CL0007	180	242	181	241	2	65	39.12	5.2e-10	5.3e-14	KH domain
+KH_1	PF00013.32	CL0007	275	336	275	335	1	65	48.21	7.5e-13	7.7e-17	KH domain
+zf-C3HC4_3	PF13920.9	CL0229	596	646	598	645	3	49	40.23	2.4e-10	2.4e-14	Zinc finger, C3HC4 type (RING finger)

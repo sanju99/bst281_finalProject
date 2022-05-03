@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PI-PLC-X	PF00388.22	CL0384	322	465	322	465	1	145	217.65	4.9e-65	2.0e-68	Phosphatidylinositol-specific phospholipase C, X domain
+SH2	PF00017.27	CL0541	550	639	550	639	1	77	85.35	2.4e-24	9.8e-28	SH2 domain
+SH2	PF00017.27	CL0541	668	741	668	741	1	77	72.48	2.5e-20	1.0e-23	SH2 domain
+PI-PLC-Y	PF00387.22	CL0384	953	1068	953	1067	1	114	127.88	2.4e-37	9.8e-41	Phosphatidylinositol-specific phospholipase C, Y domain
+C2	PF00168.33	CL0154	1088	1193	1090	1187	3	95	55.27	7.2e-15	2.9e-18	C2 domain
+SH3_1	PF00018.31	CL0010	797	843	797	843	1	48	51.36	6.7e-14	2.7e-17	SH3 domain
+SH3_2	PF07653.20	CL0010	795	849	796	848	2	56	26.20	5.6e-06	2.3e-09	Variant SH3 domain

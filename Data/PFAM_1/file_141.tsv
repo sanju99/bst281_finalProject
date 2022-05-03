@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FIIND	PF13553.9	-	182	436	183	436	2	252	320.72	6.6e-96	6.8e-100	Function to find
+CARD	PF00619.24	CL0041	451	535	453	534	3	84	69.30	2.3e-19	2.3e-23	Caspase recruitment domain

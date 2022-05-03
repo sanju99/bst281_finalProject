@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AT_hook	PF02178.22	-	26	38	26	36	1	11	16.69	0.005	2.5e-07	AT hook motif
+AT_hook	PF02178.22	-	46	58	46	58	1	13	8.69	2	0.0001	AT hook motif
+AT_hook	PF02178.22	-	74	86	74	85	1	12	15.47	0.012	6.3e-07	AT hook motif

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Methyltr_RsmB-F	PF01189.20	CL0063	377	585	377	585	1	200	279.58	1.4e-83	2.2e-87	16S rRNA methyltransferase RsmB/F
+P120R	PF08062.14	-	623	644	623	644	1	22	26.34	6.4e-06	9.8e-10	P120R (NUC006) repeat
+P120R	PF08062.14	-	683	705	683	705	1	22	33.32	3.9e-08	6.0e-12	P120R (NUC006) repeat
+P120R	PF08062.14	-	749	768	749	768	1	22	27.01	3.9e-06	6.0e-10	P120R (NUC006) repeat
+Methyltr_RsmF_N	PF17125.8	CL0063	284	374	295	374	15	91	37.96	2.0e-09	3.0e-13	N-terminal domain of 16S rRNA methyltransferase RsmF

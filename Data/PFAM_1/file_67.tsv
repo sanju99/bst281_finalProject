@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Alpha-2-MRAP_C	PF06401.14	-	145	357	146	357	2	212	239.26	4.7e-71	4.8e-75	Alpha-2-macroglobulin RAP, C-terminal domain
+Alpha-2-MRAP_N	PF06400.14	-	17	132	18	130	2	122	146.36	4.4e-43	4.5e-47	Alpha-2-macroglobulin RAP, N-terminal domain

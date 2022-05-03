@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Qua1	PF16274.8	-	4	53	4	53	1	52	98.76	1.2e-28	1.9e-32	Qua1 domain
+Sam68-YY	PF16568.8	-	266	320	266	320	1	55	73.60	1.7e-20	2.6e-24	Tyrosine-rich domain of Sam68
+KH_1	PF00013.32	CL0007	57	120	59	116	3	52	27.33	2.5e-06	3.8e-10	KH domain

@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+tRNA_U5-meth_tr	PF05958.14	CL0063	395	589	401	588	166	351	61.61	6.9e-17	3.1e-20	tRNA (Uracil-5-)-methyltransferase
+Methyltransf_31	PF13847.9	CL0063	430	510	432	496	3	69	45.97	5.1e-12	2.3e-15	Methyltransferase domain
+Methyltransf_25	PF13649.9	CL0063	436	510	436	492	1	58	44.23	2.5e-11	1.1e-14	Methyltransferase domain
+PCMT	PF01135.22	CL0063	396	492	414	487	55	131	30.08	4.1e-07	1.9e-10	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+Methyltransf_11	PF08241.15	CL0063	437	499	437	494	1	56	31.29	2.7e-07	1.2e-10	Methyltransferase domain
+Cons_hypoth95	PF03602.18	CL0063	415	551	432	538	41	150	27.77	1.9e-06	8.8e-10	Conserved hypothetical protein 95
+MTS	PF05175.17	CL0063	411	512	427	486	30	87	26.58	4.3e-06	2.0e-09	Methyltransferase small domain
+Ubie_methyltran	PF01209.21	CL0063	419	496	426	492	41	110	23.93	2.4e-05	1.1e-08	ubiE/COQ5 methyltransferase family

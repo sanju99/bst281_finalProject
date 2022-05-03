@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CBS	PF00571.31	-	120	178	127	177	7	56	35.17	1.4e-08	7.1e-13	CBS domain
+CBS	PF00571.31	-	185	252	203	249	8	54	30.74	3.4e-07	1.7e-11	CBS domain
+CBS	PF00571.31	-	269	324	276	323	9	56	41.54	1.4e-10	7.3e-15	CBS domain

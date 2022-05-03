@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TNFR_c6	PF00020.21	CL0607	43	80	46	80	2	39	29.88	6.2e-07	3.2e-11	TNFR/NGFR cysteine-rich region
+TNFR_c6	PF00020.21	CL0607	83	124	83	124	1	39	37.12	3.4e-09	1.7e-13	TNFR/NGFR cysteine-rich region
+TNFR_c6	PF00020.21	CL0607	163	210	170	210	1	39	23.99	4.3e-05	2.2e-09	TNFR/NGFR cysteine-rich region

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PH_TFIIH	PF08567.14	CL0266	16	97	17	97	2	89	81.24	5.6e-23	5.7e-27	TFIIH p62 subunit, N-terminal domain
+BSD	PF03909.20	-	180	237	181	235	2	56	60.42	1.3e-16	1.3e-20	BSD domain

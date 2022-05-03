@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TAF4	PF05236.17	CL0012	834	1082	834	1081	1	272	259.87	3.8e-77	3.9e-81	Transcription initiation factor TFIID component TAF4 family
+TAFH	PF07531.17	-	592	683	592	682	1	89	136.51	2.5e-40	2.6e-44	NHR1 homology to TAF

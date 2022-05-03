@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+EF-hand_7	PF13499.9	CL0220	116	181	119	179	4	69	32.38	1.0e-07	2.7e-11	EF-hand domain pair
+EF-hand_1	PF00036.35	CL0220	185	213	186	212	2	28	25.46	6.5e-06	1.7e-09	EF hand
+EF-hand_6	PF13405.9	CL0220	185	218	186	212	2	28	29.40	4.2e-07	1.1e-10	EF-hand domain
+EF-hand_5	PF13202.9	CL0220	120	144	122	143	4	24	21.71	0.00011	2.7e-08	EF hand
+EF-hand_5	PF13202.9	CL0220	187	211	189	208	4	23	22.08	8.0e-05	2.0e-08	EF hand
+EF-hand_8	PF13833.9	CL0220	130	181	130	181	1	52	14.88	0.019	4.8e-06	EF-hand domain pair

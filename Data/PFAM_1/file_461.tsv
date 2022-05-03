@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HIT	PF01230.26	CL0265	24	121	24	120	1	97	109.23	1.4e-31	1.4e-35	HIT domain
+DcpS_C	PF11969.11	CL0265	16	122	17	117	2	101	75.10	6.3e-21	6.4e-25	Scavenger mRNA decapping enzyme C-term binding

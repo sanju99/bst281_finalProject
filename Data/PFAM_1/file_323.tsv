@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PUF	PF00806.22	CL0020	852	886	852	886	1	35	38.65	6.4e-10	3.3e-14	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	889	922	890	919	3	32	26.71	3.5e-06	1.8e-10	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	924	957	924	957	1	34	38.49	7.2e-10	3.7e-14	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	960	992	960	991	1	32	24.87	1.3e-05	6.8e-10	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	996	1030	996	1030	1	35	51.57	5.8e-14	3.0e-18	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	1032	1066	1035	1065	4	34	38.30	8.3e-10	4.2e-14	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	1068	1102	1068	1102	1	35	29.81	3.8e-07	1.9e-11	Pumilio-family RNA binding repeat
+PUF	PF00806.22	CL0020	1112	1145	1113	1144	3	34	30.61	2.1e-07	1.1e-11	Pumilio-family RNA binding repeat

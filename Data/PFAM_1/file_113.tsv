@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SET	PF00856.31	-	15	240	15	239	1	168	60.97	2.0e-16	2.0e-20	SET domain
+zf-MYND	PF01753.21	CL0175	49	87	49	87	1	40	40.43	2.4e-10	2.4e-14	MYND finger

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Nfu_N	PF08712.14	-	61	148	61	148	1	88	112.48	8.2e-33	8.3e-37	Scaffold protein Nfu/NifU N terminal
+NifU	PF01106.20	CL0232	173	239	173	239	1	67	88.13	3.4e-25	3.4e-29	NifU-like domain

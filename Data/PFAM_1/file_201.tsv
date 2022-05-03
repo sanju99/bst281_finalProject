@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Lectin_leg-like	PF03388.16	CL0004	52	278	53	277	2	229	338.03	2.4e-101	2.5e-105	Legume-like lectin family
+Bact_lectin	PF18483.4	CL0004	58	273	82	267	17	187	27.48	3.1e-06	3.1e-10	Bacterial lectin

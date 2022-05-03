@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FCH	PF00611.26	CL0145	23	99	24	98	2	78	60.95	1.2e-16	2.4e-20	Fes/CIP4, and EFC/F-BAR homology domain
+SH3_1	PF00018.31	CL0010	432	479	432	479	1	48	56.13	2.2e-15	4.4e-19	SH3 domain
+SH3_9	PF14604.9	CL0010	433	483	433	483	1	49	54.75	7.5e-15	1.5e-18	Variant SH3 domain
+SH3_2	PF07653.20	CL0010	430	485	430	483	1	55	30.60	2.4e-07	4.8e-11	Variant SH3 domain

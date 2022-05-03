@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Not1	PF04054.18	CL0020	1998	2357	1998	2357	1	369	506.08	5.5e-152	1.4e-155	CCR4-Not complex component, Not1
+CNOT1_CAF1_bind	PF16415.8	CL0020	1087	1313	1088	1311	2	223	313.72	6.0e-94	1.5e-97	CCR4-NOT transcription complex subunit 1 CAF1-binding domain
+CNOT1_TTP_bind	PF16417.8	CL0020	813	1004	816	1002	5	187	265.96	1.3e-79	3.2e-83	CCR4-NOT transcription complex subunit 1 TTP binding domain
+CNOT1_HEAT	PF16418.8	-	500	656	500	656	1	150	180.93	1.6e-53	4.1e-57	CCR4-NOT transcription complex subunit 1 HEAT repeat
+DUF3819	PF12842.10	-	1387	1534	1387	1534	1	144	179.21	4.5e-53	1.1e-56	CCR4-Not complex, Not1 subunit, domain of unknown function DUF3819

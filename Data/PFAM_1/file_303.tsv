@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HD	PF01966.25	CL0237	164	319	164	319	1	122	65.20	6.7e-18	1.0e-21	HD domain
+SAM_2	PF07647.20	CL0003	42	108	42	107	1	65	39.28	5.7e-10	8.7e-14	SAM domain (Sterile alpha motif)
+SAM_1	PF00536.33	CL0003	43	108	44	107	2	63	37.28	3.1e-09	4.7e-13	SAM domain (Sterile alpha motif)

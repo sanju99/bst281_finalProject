@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+G-patch	PF01585.26	CL0449	551	594	552	593	2	44	50.83	1.2e-13	2.4e-17	G-patch domain
+R3H	PF01424.25	-	602	662	605	660	5	58	43.61	2.3e-11	4.7e-15	R3H domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AhpC-TSA	PF00578.24	CL0172	65	198	65	197	1	123	127.26	3.4e-37	5.1e-41	AhpC/TSA family
+Redoxin	PF08534.13	CL0172	61	215	69	206	6	138	57.10	1.7e-15	2.7e-19	Redoxin
+1-cysPrx_C	PF10417.12	-	218	253	218	253	1	40	47.48	1.3e-12	1.9e-16	C-terminal domain of 1-Cys peroxiredoxin

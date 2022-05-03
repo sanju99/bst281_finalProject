@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Pkinase	PF00069.28	CL0016	64	325	67	325	4	264	230.22	2.9e-68	4.5e-72	Protein kinase domain
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	65	322	67	320	4	256	100.83	8.0e-29	1.2e-32	Protein tyrosine and serine/threonine kinase
+Kdo	PF06293.17	CL0016	75	219	134	208	92	166	26.27	4.7e-06	7.1e-10	Lipopolysaccharide kinase (Kdo/WaaP) family

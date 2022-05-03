@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	338	593	342	592	5	258	301.84	3.7e-90	5.7e-94	Protein tyrosine and serine/threonine kinase
+Pkinase	PF00069.28	CL0016	339	594	343	586	6	255	151.58	2.9e-44	4.4e-48	Protein kinase domain
+SH2	PF00017.27	CL0541	10	87	10	87	1	77	61.04	9.2e-17	1.4e-20	SH2 domain
+SH2	PF00017.27	CL0541	163	239	163	238	1	76	72.28	2.9e-20	4.4e-24	SH2 domain

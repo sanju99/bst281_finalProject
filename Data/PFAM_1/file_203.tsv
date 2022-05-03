@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Myb_DNA-bind_5	PF13873.9	CL0123	124	201	124	200	1	77	84.26	4.7e-24	7.1e-28	Myb/SANT-like DNA-binding domain
+Syntaxin_2	PF14523.9	CL0445	264	368	265	366	2	99	77.91	6.7e-22	1.0e-25	Syntaxin-like protein
+SNARE	PF05739.22	-	452	504	452	504	1	53	41.03	1.5e-10	2.3e-14	SNARE domain

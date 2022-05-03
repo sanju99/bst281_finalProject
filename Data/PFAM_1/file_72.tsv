@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FH2	PF02181.26	-	632	998	633	998	2	372	350.97	9.0e-105	1.4e-108	Formin Homology 2 Domain
+Drf_FH3	PF06367.19	CL0020	284	451	284	435	1	150	132.13	2.0e-38	3.1e-42	Diaphanous FH3 Domain
+Drf_GBD	PF06371.16	CL0020	27	173	29	155	3	122	42.24	6.5e-11	9.9e-15	Diaphanous GTPase-binding Domain
+Drf_GBD	PF06371.16	CL0020	202	281	223	281	134	192	48.90	5.9e-13	9.1e-17	Diaphanous GTPase-binding Domain

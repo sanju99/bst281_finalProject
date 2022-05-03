@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CLU	PF13236.9	-	356	576	356	576	1	225	278.78	4.0e-83	1.2e-86	Clustered mitochondria
+eIF3_p135	PF12807.10	-	766	948	767	948	2	172	185.27	1.0e-54	3.0e-58	Translation initiation factor eIF3 subunit 135
+TPR_12	PF13424.9	CL0020	977	1052	985	1047	10	72	36.98	3.4e-09	1.0e-12	Tetratricopeptide repeat
+TPR_12	PF13424.9	CL0020	1025	1091	1026	1088	9	71	32.31	9.8e-08	3.0e-11	Tetratricopeptide repeat
+TPR_12	PF13424.9	CL0020	1102	1178	1103	1177	2	76	38.68	1.0e-09	3.1e-13	Tetratricopeptide repeat
+CLU_N	PF15044.9	-	66	139	66	139	1	79	58.37	7.7e-16	2.3e-19	Mitochondrial function, CLU-N-term
+TPR_10	PF13374.9	CL0020	1019	1060	1020	1060	2	42	27.20	2.6e-06	8.1e-10	Tetratricopeptide repeat
+TPR_MalT	PF17874.4	CL0020	967	1103	978	1092	80	191	27.42	2.1e-06	6.5e-10	MalT-like TPR region

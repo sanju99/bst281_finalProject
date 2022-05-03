@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+GCP_C_terminal	PF04130.16	CL0540	716	1018	716	1016	1	302	138.76	2.8e-40	2.9e-44	Gamma tubulin complex component C-terminal
+GCP_N_terminal	PF17681.4	CL0540	271	713	271	605	1	266	87.00	1.9e-24	2.0e-28	Gamma tubulin complex component N-terminal

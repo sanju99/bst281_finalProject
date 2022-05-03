@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MutL_C	PF08676.14	-	676	822	678	822	5	146	105.63	1.9e-30	3.8e-34	MutL C terminal dimerisation domain
+DNA_mis_repair	PF01119.22	CL0329	248	363	265	359	21	114	79.52	1.6e-22	3.3e-26	DNA mismatch repair protein, C-terminal domain
+HATPase_c_3	PF13589.9	CL0025	33	161	34	140	2	112	45.94	5.5e-12	1.1e-15	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase

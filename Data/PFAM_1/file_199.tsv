@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Phe_ZIP	PF08916.14	-	22	78	22	78	1	57	68.57	6.0e-19	9.2e-23	Phenylalanine zipper
+SH2	PF00017.27	CL0541	417	494	417	494	1	77	47.06	2.1e-12	3.3e-16	SH2 domain
+PH	PF00169.32	CL0266	194	306	212	305	16	104	43.82	3.1e-11	4.8e-15	PH domain

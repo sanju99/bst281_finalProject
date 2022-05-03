@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Radical_SAM	PF04055.24	CL0036	43	208	44	203	2	155	56.86	3.6e-15	3.6e-19	Radical SAM superfamily
+HemN_C	PF06969.19	CL0123	346	414	349	413	4	65	40.82	1.8e-10	1.8e-14	HemN C-terminal domain

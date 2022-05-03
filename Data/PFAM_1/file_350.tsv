@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+NCOA_u2	PF16665.8	-	463	587	463	585	1	117	129.40	9.0e-38	3.7e-41	Unstructured region on nuclear receptor coactivator protein
+PAS_11	PF14598.9	CL0183	267	379	268	378	2	112	105.64	1.5e-30	6.3e-34	PAS domain
+DUF4927	PF16279.8	-	731	816	731	816	1	89	107.70	4.9e-31	2.0e-34	Domain of unknown function (DUF4927)
+DUF1518	PF07469.15	-	1281	1338	1281	1338	1	58	89.52	1.4e-25	5.9e-29	Nuclear receptor coactivator, DUF1518
+Nuc_rec_co-act	PF08815.13	-	1071	1117	1071	1117	1	49	83.96	5.2e-24	2.1e-27	Nuclear receptor coactivator
+SRC-1	PF08832.13	-	636	709	636	709	1	92	69.02	5.4e-19	2.2e-22	Steroid receptor coactivator
+PAS	PF00989.28	CL0183	115	215	119	175	6	62	29.79	5.2e-07	2.1e-10	PAS fold

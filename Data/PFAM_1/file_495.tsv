@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+VAS1_LD	PF05827.15	CL0721	264	405	265	405	2	140	127.44	4.8e-37	4.9e-41	V-type proton ATPase subunit S1, luminal domain
+Ac45-VOA1_TM	PF20520.1	-	420	458	420	458	1	39	69.09	2.0e-19	2.0e-23	V0 complex accessory subunit Ac45/VOA1 transmembrane domain

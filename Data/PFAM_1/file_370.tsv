@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ERG4_ERG24	PF01222.20	CL0115	183	615	201	615	19	432	536.65	4.2e-161	6.4e-165	Ergosterol biosynthesis ERG4/ERG24 family
+LBR_tudor	PF09465.13	CL0049	1	55	1	55	1	55	106.58	4.2e-31	6.4e-35	Lamin-B receptor of TUDOR domain
+DUF1295	PF06966.15	CL0115	449	606	476	560	108	181	26.56	4.1e-06	6.3e-10	Protein of unknown function (DUF1295)

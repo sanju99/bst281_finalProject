@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Integrin_alpha2	PF08441.15	CL0159	462	916	462	916	1	465	327.63	1.6e-97	3.3e-101	Integrin alpha
+FG-GAP	PF01839.26	CL0186	307	345	307	345	1	35	41.89	6.9e-11	1.4e-14	FG-GAP repeat
+FG-GAP	PF01839.26	CL0186	369	402	369	402	1	35	38.01	1.1e-09	2.3e-13	FG-GAP repeat
+FG-GAP_3	PF13517.9	CL0186	315	389	315	389	1	61	32.63	9.6e-08	2.0e-11	FG-GAP-like repeat

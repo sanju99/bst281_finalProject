@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_S13_N	PF08069.15	-	1	60	1	60	1	60	106.39	6.2e-31	6.3e-35	Ribosomal S13/S15 N-terminal domain
+Ribosomal_S15	PF00312.25	CL0600	70	149	75	146	5	78	51.00	1.4e-13	1.4e-17	Ribosomal protein S15

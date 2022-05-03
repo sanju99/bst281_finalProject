@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	1082	1341	1085	1339	4	257	297.65	7.0e-89	1.4e-92	Protein tyrosine and serine/threonine kinase
+Pkinase	PF00069.28	CL0016	1082	1342	1084	1337	3	258	130.61	7.1e-38	1.4e-41	Protein kinase domain
+TIG	PF01833.27	CL0159	569	674	569	661	1	73	21.46	0.00021	4.2e-08	IPT/TIG domain
+TIG	PF01833.27	CL0159	684	766	684	766	1	85	37.95	1.5e-09	3.0e-13	IPT/TIG domain
+Sema	PF01403.22	CL0186	323	504	343	502	16	177	68.76	5.9e-19	1.2e-22	Sema domain

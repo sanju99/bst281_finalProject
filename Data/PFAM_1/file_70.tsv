@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ACOX	PF01756.22	CL0087	479	658	480	652	2	174	211.54	7.0e-63	1.1e-66	Acyl-CoA oxidase
-Acyl-CoA_ox_N	PF14749.9	CL0544	15	133	15	133	1	125	114.97	3.3e-33	5.1e-37	Acyl-coenzyme A oxidase N-terminal
-Acyl-CoA_dh_M	PF02770.22	-	135	245	136	244	2	96	40.51	2.5e-10	3.8e-14	Acyl-CoA dehydrogenase, middle domain

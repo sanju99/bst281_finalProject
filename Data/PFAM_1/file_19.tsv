@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Peptidase_S8	PF00082.25	-	144	427	144	427	1	284	162.86	1.0e-47	1.6e-51	Subtilase family
-P_proprotein	PF01483.23	CL0202	484	570	484	569	1	85	99.11	1.2e-28	1.8e-32	Proprotein convertase P-domain
-S8_pro-domain	PF16470.8	CL0570	33	107	33	107	1	79	89.93	1.2e-25	1.9e-29	Peptidase S8 pro-domain

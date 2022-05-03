@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PDZ	PF00595.27	CL0466	626	707	633	706	10	81	30.71	3.2e-07	1.2e-10	PDZ domain
-PDZ	PF00595.27	CL0466	716	793	722	792	14	81	37.06	3.4e-09	1.2e-12	PDZ domain
-PDZ	PF00595.27	CL0466	1350	1426	1351	1424	2	80	42.03	9.5e-11	3.4e-14	PDZ domain
-Takusan	PF04822.16	-	128	213	130	213	3	85	108.77	1.0e-31	3.7e-35	Takusan
-PDZ_6	PF17820.4	CL0466	655	708	655	708	1	54	27.72	2.0e-06	7.2e-10	PDZ domain
-PDZ_6	PF17820.4	CL0466	739	794	741	787	3	46	34.25	1.8e-08	6.5e-12	PDZ domain
-dbPDZ_assoc	PF16610.8	-	1427	1498	1427	1486	1	60	91.72	2.7e-26	9.5e-30	Unstructured region between two PDZ domains on Dlg5
-Guanylate_kin	PF00625.24	CL0023	1771	1907	1775	1906	55	181	56.00	4.3e-15	1.5e-18	Guanylate kinase

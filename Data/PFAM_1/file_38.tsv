@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-FERM_M	PF00373.21	CL0632	99	210	103	210	5	116	72.81	3.1e-20	6.3e-24	FERM central domain
-FERM_N	PF09379.13	CL0072	21	84	21	83	1	63	71.64	3.8e-20	7.8e-24	FERM N-terminal domain
-FA	PF08736.14	-	309	352	309	351	1	43	53.94	1.4e-14	2.8e-18	FERM adjacent (FA)
-FERM_C	PF09380.13	CL0266	214	302	216	301	3	93	54.00	1.8e-14	3.7e-18	FERM C-terminal PH-like domain

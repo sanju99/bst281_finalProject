@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Cbl_N	PF02262.19	-	13	145	14	145	2	125	144.72	1.4e-42	4.2e-46	CBL proto-oncogene N-terminal domain 1
-Cbl_N3	PF02762.17	CL0541	234	319	234	319	1	86	140.75	1.0e-41	3.1e-45	CBL proto-oncogene N-terminus, SH2-like domain
-Cbl_N2	PF02761.17	CL0220	149	232	149	232	1	84	117.17	4.1e-34	1.2e-37	CBL proto-oncogene N-terminus, EF hand-like domain
-Prok-RING_4	PF14447.9	CL0229	351	398	351	394	1	41	44.39	1.2e-11	3.7e-15	Prokaryotic RING finger family 4
-zf-C3HC4_3	PF13920.9	CL0229	348	396	350	394	4	48	34.45	1.5e-08	4.6e-12	Zinc finger, C3HC4 type (RING finger)
-zf-C3HC4	PF00097.28	CL0229	351	389	351	389	1	41	24.42	2.1e-05	6.4e-09	Zinc finger, C3HC4 type (RING finger)

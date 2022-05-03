@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Mtf2_C	PF14061.9	CL0049	544	591	545	591	2	48	96.64	7.4e-28	1.1e-31	Polycomb-like MTF2 factor 2
-PHD	PF00628.32	CL0390	104	157	104	155	1	50	45.80	4.5e-12	6.9e-16	PHD-finger
-Tudor_2	PF18104.4	CL0049	49	84	49	84	1	35	51.62	5.8e-14	8.9e-18	Jumonji domain-containing protein 2A Tudor domain

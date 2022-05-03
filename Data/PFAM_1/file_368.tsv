@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Transposase_1	PF01359.21	CL0219	501	580	501	579	1	79	94.57	2.7e-27	5.5e-31	Transposase (partial DDE domain)
-SET	PF00856.31	-	150	263	150	262	1	168	61.12	1.8e-16	3.6e-20	SET domain
-HTH_48	PF17906.4	CL0123	348	397	348	397	1	50	54.29	1.2e-14	2.4e-18	HTH domain in Mos1 transposase
-Pre-SET	PF05033.19	-	29	131	47	131	21	110	46.71	4.5e-12	9.3e-16	Pre-SET motif

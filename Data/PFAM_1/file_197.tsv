@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-JmjC	PF02373.25	CL0029	175	291	175	291	1	114	144.69	1.6e-42	5.5e-46	JmjC domain, hydroxylase
-zf-HC5HC2H_2	PF13832.9	CL0390	773	884	774	884	2	109	116.17	8.3e-34	2.9e-37	PHD-zinc-finger like domain
-Tudor_2	PF18104.4	CL0049	902	936	902	936	1	35	55.96	2.6e-15	9.2e-19	Jumonji domain-containing protein 2A Tudor domain
-Tudor_2	PF18104.4	CL0049	960	994	960	994	1	35	59.04	2.8e-16	1.0e-19	Jumonji domain-containing protein 2A Tudor domain
-PHD_2	PF13831.9	CL0390	732	767	732	766	1	35	55.29	3.5e-15	1.2e-18	PHD-finger
-zf-HC5HC2H	PF13771.9	CL0390	795	885	795	884	1	89	54.43	1.2e-14	4.3e-18	PHD-like zinc-binding domain
-JmjN	PF02375.20	CL0029	15	49	15	49	1	34	51.04	9.6e-14	3.4e-17	jmjN domain

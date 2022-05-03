@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RCC1	PF00415.21	CL0186	103	152	103	152	1	50	60.82	1.5e-16	1.5e-20	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	155	204	156	203	2	49	43.30	4.5e-11	4.6e-15	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	207	280	207	280	1	50	42.40	8.6e-11	8.7e-15	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	284	334	285	334	3	50	33.77	4.2e-08	4.3e-12	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	85	116	96	116	10	30	25.69	7.7e-06	7.8e-10	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	139	168	139	168	1	30	33.84	2.1e-08	2.2e-12	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	267	296	267	295	1	29	29.96	3.5e-07	3.6e-11	Regulator of chromosome condensation (RCC1) repeat

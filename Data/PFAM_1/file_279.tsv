@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	724	1005	725	1005	2	259	337.86	3.8e-101	1.2e-104	Protein tyrosine and serine/threonine kinase
-RET_CLD1	PF17756.4	CL0159	29	154	29	153	1	123	163.78	2.3e-48	6.9e-52	RET Cadherin like domain 1
-RET_CLD3	PF17812.4	CL0159	265	379	265	379	1	116	161.02	1.2e-47	3.8e-51	RET Cadherin like domain 3
-RET_CLD4	PF17813.4	CL0159	404	507	405	506	2	104	154.36	1.0e-45	3.1e-49	RET Cadherin like domain 4
-Pkinase	PF00069.28	CL0016	724	1005	727	1002	4	259	148.57	2.4e-43	7.2e-47	Protein kinase domain
-Cadherin	PF00028.20	CL0159	172	262	173	256	2	88	41.96	1.1e-10	3.3e-14	Cadherin domain

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Y_phosphatase	PF00102.30	CL0031	933	1179	933	1178	1	234	246.84	2.2e-73	4.5e-77	Protein-tyrosine phosphatase
-FERM_M	PF00373.21	CL0632	104	220	106	220	3	116	77.71	9.4e-22	1.9e-25	FERM central domain
-FERM_N	PF09379.13	CL0072	25	88	25	87	1	63	77.71	4.9e-22	9.9e-26	FERM N-terminal domain
-FERM_C	PF09380.13	CL0266	224	309	224	306	1	90	32.55	9.0e-08	1.8e-11	FERM C-terminal PH-like domain

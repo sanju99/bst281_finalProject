@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DUF1899	PF08953.14	-	5	70	5	70	1	66	112.16	8.8e-33	1.8e-36	Domain of unknown function (DUF1899)
-WD40_4	PF16300.8	CL0186	345	387	345	387	1	44	71.07	5.5e-20	1.1e-23	Type of WD40 repeat
-WD40	PF00400.35	CL0186	73	111	79	110	8	37	23.32	8.9e-05	1.8e-08	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	122	161	124	161	3	38	15.80	0.021	4.3e-06	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	170	204	175	204	10	38	14.48	0.055	1.1e-05	WD domain, G-beta repeat

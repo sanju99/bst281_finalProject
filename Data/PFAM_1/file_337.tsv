@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RhoGEF	PF00621.23	-	1044	1232	1044	1232	1	183	143.01	1.2e-41	3.8e-45	RhoGEF domain
-Tiam_CC_Ex	PF18385.4	-	572	669	572	669	1	98	118.99	7.9e-35	2.4e-38	T-lymphoma invasion and metastasis CC-Ex domain
-PH	PF00169.32	CL0266	440	547	447	546	8	104	55.15	9.4e-15	2.9e-18	PH domain
-PH	PF00169.32	CL0266	1263	1395	1284	1394	17	104	34.77	2.0e-08	6.3e-12	PH domain
-RBD	PF02196.18	CL0072	766	839	767	839	2	69	58.82	4.0e-16	1.2e-19	Raf-like Ras-binding domain
-PH_9	PF15410.9	CL0266	436	547	449	547	13	121	34.62	1.9e-08	5.9e-12	Pleckstrin homology domain
-PDZ	PF00595.27	CL0466	845	925	856	918	10	73	32.35	9.9e-08	3.0e-11	PDZ domain

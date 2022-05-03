@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-BAR	PF03114.21	CL0145	9	254	19	253	5	238	250.69	1.6e-74	4.9e-78	BAR domain
-SH3_9	PF14604.9	CL0010	312	362	312	362	1	49	42.75	4.2e-11	1.3e-14	Variant SH3 domain
-BAR_2	PF10455.12	CL0145	107	254	117	251	153	286	40.29	2.2e-10	6.7e-14	Bin/amphiphysin/Rvs domain for vesicular trafficking
-SH3_1	PF00018.31	CL0010	311	358	311	357	1	47	31.45	1.1e-07	3.4e-11	SH3 domain
-SH3_2	PF07653.20	CL0010	309	364	310	362	2	55	27.93	1.6e-06	4.9e-10	Variant SH3 domain

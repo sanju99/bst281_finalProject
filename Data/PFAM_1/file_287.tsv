@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PDZ	PF00595.27	CL0466	17	110	20	109	4	81	71.06	8.3e-20	1.7e-23	PDZ domain
-PDZ_6	PF17820.4	CL0466	56	111	57	111	2	54	38.21	1.1e-09	2.2e-13	PDZ domain
-PDZ_2	PF13180.9	CL0466	36	120	48	116	9	76	33.11	5.8e-08	1.2e-11	PDZ domain
-Peptidase_M50	PF02163.25	CL0126	2	123	45	119	123	185	29.07	6.3e-07	1.3e-10	Peptidase family M50

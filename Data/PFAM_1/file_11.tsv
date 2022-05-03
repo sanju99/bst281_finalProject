@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RasGAP	PF00616.22	CL0409	938	1150	938	1150	1	208	196.47	4.8e-58	9.7e-62	GTPase-activator protein for Ras-like GTPase
-RasGAP_C	PF03836.18	-	1367	1499	1367	1498	1	135	131.67	2.1e-38	4.2e-42	RasGAP C-terminus
-CH	PF00307.34	CL0188	41	158	45	155	5	106	58.14	9.0e-16	1.8e-19	Calponin homology (CH) domain
-IQ	PF00612.30	CL0220	691	711	693	710	3	20	21.41	0.00015	3.0e-08	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	721	741	721	740	1	20	17.69	0.0023	4.7e-07	IQ calmodulin-binding motif

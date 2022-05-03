@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-WD40	PF00400.35	CL0186	160	197	164	197	6	38	23.99	5.5e-05	1.4e-08	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	211	253	226	252	11	37	23.74	6.5e-05	1.7e-08	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	256	294	259	294	4	38	20.66	0.00061	1.6e-07	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	339	377	340	377	2	38	39.46	7.0e-10	1.8e-13	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	381	428	382	428	2	38	25.00	2.6e-05	6.7e-09	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	432	470	434	470	3	38	40.31	3.8e-10	9.7e-14	WD domain, G-beta repeat
-ANAPC4_WD40	PF12894.10	CL0186	320	402	326	400	14	90	32.65	7.7e-08	2.0e-11	Anaphase-promoting complex subunit 4 WD40 domain
-LisH	PF08513.14	CL0561	6	32	6	32	1	27	36.14	4.3e-09	1.1e-12	LisH

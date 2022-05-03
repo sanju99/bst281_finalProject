@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RPN2_C	PF18004.4	-	786	925	786	921	1	156	153.94	3.3e-45	6.8e-49	26S proteasome regulatory subunit RPN2 C-terminal domain
-PC_rep	PF01851.25	CL0020	441	474	441	473	1	34	27.82	2.4e-06	4.8e-10	Proteasome/cyclosome repeat
-PC_rep	PF01851.25	CL0020	476	510	476	508	1	33	23.42	5.8e-05	1.2e-08	Proteasome/cyclosome repeat
-PC_rep	PF01851.25	CL0020	511	545	511	544	1	34	23.30	6.4e-05	1.3e-08	Proteasome/cyclosome repeat
-PC_rep	PF01851.25	CL0020	651	685	651	685	1	35	37.15	2.6e-09	5.3e-13	Proteasome/cyclosome repeat
-HEAT_2	PF13646.9	CL0020	599	692	601	690	3	86	52.19	6.6e-14	1.4e-17	HEAT repeats

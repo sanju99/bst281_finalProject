@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	380	634	383	634	4	264	213.07	5.0e-63	1.0e-66	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	380	627	382	622	3	250	140.31	7.2e-41	1.5e-44	Protein tyrosine and serine/threonine kinase
-C1_1	PF00130.25	CL0006	160	212	160	210	1	51	53.73	1.5e-14	3.0e-18	Phorbol esters/diacylglycerol binding domain (C1 domain)
-C1_1	PF00130.25	CL0006	232	284	232	283	1	52	61.96	4.0e-17	8.2e-21	Phorbol esters/diacylglycerol binding domain (C1 domain)
-Pkinase_C	PF00433.27	-	655	696	655	696	1	46	35.40	1.4e-08	2.9e-12	Protein kinase C terminal domain

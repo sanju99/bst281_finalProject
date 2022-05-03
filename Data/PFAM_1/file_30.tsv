@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-A_deamin	PF02137.21	CL0109	886	1215	886	1215	1	327	337.97	7.7e-101	1.6e-104	Adenosine-deaminase (editase) domain
-z-alpha	PF02295.20	CL0123	135	201	135	200	1	66	98.53	1.7e-28	3.5e-32	Adenosine deaminase z-alpha domain
-z-alpha	PF02295.20	CL0123	295	359	295	358	1	66	92.18	1.7e-26	3.4e-30	Adenosine deaminase z-alpha domain
-dsrm	PF00035.29	CL0196	504	569	504	567	1	65	45.24	1.2e-11	2.5e-15	Double-stranded RNA binding motif
-dsrm	PF00035.29	CL0196	615	680	615	680	1	67	35.73	1.1e-08	2.3e-12	Double-stranded RNA binding motif
-dsrm	PF00035.29	CL0196	727	792	729	792	3	67	35.40	1.4e-08	2.9e-12	Double-stranded RNA binding motif

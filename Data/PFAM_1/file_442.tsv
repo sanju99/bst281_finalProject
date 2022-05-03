@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RabGAP-TBC	PF00566.21	-	117	325	119	325	3	216	176.18	7.7e-52	2.0e-55	Rab-GTPase-TBC domain
-RUN	PF02759.22	-	563	717	563	716	1	140	122.21	1.7e-35	4.4e-39	RUN domain
-SH3_1	PF00018.31	CL0010	486	531	486	531	1	48	42.64	3.5e-11	9.0e-15	SH3 domain
-SH3_2	PF07653.20	CL0010	484	537	485	536	2	56	35.45	7.2e-09	1.8e-12	Variant SH3 domain
-SH3_9	PF14604.9	CL0010	487	535	487	535	1	49	32.58	6.2e-08	1.6e-11	Variant SH3 domain

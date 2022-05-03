@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-APEH_N	PF19283.2	-	9	289	41	286	32	268	135.59	1.8e-39	5.6e-43	Acylamino-acid-releasing enzyme, N-terminal domain
-Peptidase_S9	PF00326.24	CL0028	515	732	523	731	8	210	116.77	1.0e-33	3.1e-37	Prolyl oligopeptidase family
-Hydrolase_4	PF12146.11	CL0028	500	664	522	659	24	151	29.68	3.9e-07	1.2e-10	Serine aminopeptidase, S33
-Abhydrolase_1	PF00561.23	CL0028	501	631	501	614	1	107	34.35	2.0e-08	6.0e-12	alpha/beta hydrolase fold
-DLH	PF01738.21	CL0028	525	722	562	711	80	191	25.59	8.6e-06	2.6e-09	Dienelactone hydrolase family

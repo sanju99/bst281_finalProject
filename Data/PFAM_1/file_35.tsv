@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RhoGAP	PF00620.30	CL0409	282	431	282	430	1	148	166.95	2.7e-49	4.2e-53	RhoGAP domain
-C1_1	PF00130.25	CL0006	206	258	206	257	1	52	57.82	7.9e-16	1.2e-19	Phorbol esters/diacylglycerol binding domain (C1 domain)
-SH2	PF00017.27	CL0541	50	119	50	118	2	75	48.29	8.8e-13	1.3e-16	SH2 domain

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-bMERB_dom	PF12130.11	-	684	816	684	815	1	132	148.11	1.6e-43	3.3e-47	Bivalent Mical/EHBP Rab binding domain
-CH	PF00307.34	CL0188	2	109	5	107	4	107	86.25	1.7e-24	3.4e-28	Calponin homology (CH) domain
-CAMSAP_CH	PF11971.11	CL0188	12	89	16	88	5	84	37.06	2.3e-09	4.6e-13	CAMSAP CH domain
-LIM	PF00412.25	CL0167	164	221	164	218	1	54	27.62	2.7e-06	5.5e-10	LIM domain

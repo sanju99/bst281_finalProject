@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-zf-C2H2_4	PF13894.9	CL0361	307	330	307	329	1	23	21.09	0.0004	1.0e-07	C2H2-type zinc finger
-zf-C2H2_4	PF13894.9	CL0361	337	360	337	360	1	24	22.15	0.00018	4.7e-08	C2H2-type zinc finger
-zf-C2H2	PF00096.29	CL0361	279	301	279	301	1	23	18.37	0.0024	6.0e-07	Zinc finger, C2H2 type
-zf-C2H2	PF00096.29	CL0361	337	360	337	360	1	23	26.56	6.0e-06	1.5e-09	Zinc finger, C2H2 type
-zf-C2H2_6	PF13912.9	CL0361	190	213	190	210	2	22	12.48	0.13	3.2e-05	C2H2-type zinc finger
-zf-C2H2_6	PF13912.9	CL0361	337	362	337	361	2	26	14.25	0.035	8.9e-06	C2H2-type zinc finger

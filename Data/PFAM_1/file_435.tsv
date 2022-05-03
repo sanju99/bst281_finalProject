@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-LRR_8	PF13855.9	CL0022	56	112	59	112	8	61	48.64	5.3e-13	8.1e-17	Leucine rich repeat
-LRR_8	PF13855.9	CL0022	100	160	101	160	2	61	55.35	4.3e-15	6.5e-19	Leucine rich repeat
-LRR_8	PF13855.9	CL0022	192	250	193	249	2	59	30.58	2.3e-07	3.5e-11	Leucine rich repeat
-EGF	PF00008.30	CL0001	409	440	409	439	1	31	23.56	5.3e-05	8.1e-09	EGF-like domain

@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-UCH	PF00443.32	CL0125	185	712	185	712	1	278	235.29	1.0e-69	2.1e-73	Ubiquitin carboxyl-terminal hydrolase
-DUSP	PF06337.15	-	737	810	740	809	5	92	29.86	7.3e-07	1.5e-10	DUSP domain
-DUSP	PF06337.15	-	845	919	847	916	4	88	51.95	9.4e-14	1.9e-17	DUSP domain
-zf-UBP	PF02148.22	CL0229	61	126	61	122	1	60	59.88	2.5e-16	5.2e-20	Zn-finger in ubiquitin-hydrolases and other protein
-UCH_1	PF13423.9	CL0125	185	694	186	694	2	322	45.38	8.9e-12	1.8e-15	Ubiquitin carboxyl-terminal hydrolase

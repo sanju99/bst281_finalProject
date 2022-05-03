@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AdoHcyase	PF05221.20	CL0325	104	241	104	239	1	138	217.15	3.0e-64	6.1e-68	S-adenosyl-L-homocysteine hydrolase
-AdoHcyase	PF05221.20	CL0325	237	529	239	529	171	299	182.95	7.8e-54	1.6e-57	S-adenosyl-L-homocysteine hydrolase
-AdoHcyase_NAD	PF00670.24	CL0063	289	450	289	449	1	161	274.10	4.5e-82	9.1e-86	S-adenosyl-L-homocysteine hydrolase, NAD binding domain
-2-Hacid_dh_C	PF02826.22	CL0063	286	405	309	400	34	129	33.40	2.9e-08	5.8e-12	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
-IlvN	PF07991.15	CL0063	308	406	310	375	3	69	21.72	0.00013	2.6e-08	Acetohydroxy acid isomeroreductase, NADPH-binding domain

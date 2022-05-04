@@ -1,3 +1,1 @@
-# bst281_finalProject
-
-Final Project for BST 281, Spring 2022
+# Final Project for BST 281, Spring 2022

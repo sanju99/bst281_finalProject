@@ -7,3 +7,6 @@
 # Ignore compressed (huge) files
 *.gz
 *.zip
+
+# Ignore SQL databases
+*.sql

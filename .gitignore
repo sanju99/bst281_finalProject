@@ -5,5 +5,5 @@
 .ipynb_checkpoints
 
 # Ignore compressed (huge) files
-.gz
-.zip
+*.gz
+*.zip

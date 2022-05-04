@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 
 # get the databases of interactions
-virus_human = pd.read_csv("Data/virus_human.csv")
-human_human = pd.read_csv("Data/human_important_for_virus.csv")
+virus_human = pd.read_csv("Processed/virus_human.csv")
+human_human = pd.read_csv("Processed/human_important_for_virus.csv")
 
 # human proteins 
 prots_A = virus_human.loc[virus_human["Taxname A"] == "Homo sapiens"]["Protein A"].values

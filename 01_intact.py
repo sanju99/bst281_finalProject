@@ -96,6 +96,15 @@ virus_intact['Taxname B'] = virus_intact['Taxid B'].map(dict_for_taxa)
 virus_human = virus_intact.loc[(virus_intact["Taxname A"] == 'Homo sapiens') | (virus_intact["Taxname B"] == 'Homo sapiens')].reset_index(drop=True)
 print(f"{len(virus_human) / len(virus_intact)} proportion involves human proteins")
 
+# not sure why, but there are some other species in this dataset: human proteins interacting with proteins from other organisms
+interact_taxa = pd.Series(list(set(virus_human["Taxname A"]).union(virus_human["Taxname B"]))).dropna()
+interact_taxa = list(interact_taxa)
+
+keep_taxa = [name for name in interact_taxa if "virus" in name or "HIV" in name or "SARS" in name or "Homo sapiens" in name]
+drop_taxa = [name for name in interact_taxa if name not in keep_taxa]
+
+virus_human = virus_human.loc[(virus_human["Taxname A"].isin(keep_taxa)) & (virus_human["Taxname B"].isin(keep_taxa))].reset_index(drop=True)
+
 ## Some human-human interactions were found to be related to viral infection, which is why they're in this database. Keep them separately for now.
 
 human_human = virus_human.loc[(virus_human["Taxname A"] == 'Homo sapiens') & (virus_human["Taxname B"] == 'Homo sapiens')]
@@ -105,5 +114,5 @@ contains_viruses_indices = list(set(virus_human.index) - set(human_human.index))
 virus_human = virus_human.iloc[contains_viruses_indices, :]
 
 # save both files to CSVs
-virus_human.to_csv("Data/virus_human.csv", index=False)
-human_human.to_csv("Data/human_important_for_virus.csv", index=False)
+virus_human.to_csv("Processed/virus_human.csv", index=False)
+human_human.to_csv("Processed/human_important_for_virus.csv", index=False)

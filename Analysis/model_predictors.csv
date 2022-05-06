@@ -1,0 +1,182 @@
+Taxname,Species,Size(Mb),num_unique_interactions,num_publications
+Betacoronavirus England 1,Middle East respiratory syndrome-related coronavirus,0.030119,24,21
+Human betacoronavirus 2c EMC/2012,Middle East respiratory syndrome-related coronavirus,0.030119,4,3
+Middle East respiratory syndrome-related coronavirus,Middle East respiratory syndrome-related coronavirus,0.030119,3,3
+Severe acute respiratory syndrome-related coronavirus,Severe acute respiratory syndrome-related coronavirus,0.029274,40,67
+Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome-related coronavirus,0.029274,42,166
+SARS coronavirus GZ02,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
+Bat SARS CoV Rp3/2004,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
+Bat coronavirus RaTG13,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
+Bat SARS-like coronavirus WIV1,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
+SARS coronavirus HB,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
+Rabies virus ERA,Rabies lyssavirus,0.011916764705882352,2,2
+Human coronavirus 229E,Human coronavirus 229E,0.027317,8,5
+Influenza A virus (A/Puerto Rico/8/1934(H1N1)),Influenza A virus,0.04411631723104208,8,6
+Influenza A virus (A/Viet Nam/1203/2004(H5N1)),Influenza A virus,0.04411631723104208,3,1
+Influenza A virus (A/California/04/2009(H1N1)),Influenza A virus,0.04411631723104208,1,1
+Influenza A virus (A/Wilson-Smith/1933(H1N1)),Influenza A virus,0.04411631723104208,7,4
+Influenza A virus (A/Aichi/2/1968(H3N2)),Influenza A virus,0.04411631723104208,1,1
+Influenza A virus (A/New Caledonia/20/1999(H1N1)),Influenza A virus,0.04411631723104208,1,1
+Influenza A virus (A/Turkey/651242/2006(H5N1)),Influenza A virus,0.04411631723104208,1,1
+Influenza A virus (A/WSN/1933(H1N1)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/Victoria/3/1975(H3N2)),Influenza A virus,0.04411631723104208,1,1
+Influenza A virus (A/chicken/Scotland/1959(H5N1)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/chicken/Kurgan/3/2005(H5N1)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/Vietnam/1194/2004(H5N1)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/equine/Prague/1/1956(H7N7)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/chicken/Guangdong/6/97(H9N2)),Influenza A virus,0.04411631723104208,2,1
+Influenza A virus (A/Netherlands/602/2009(H1N1)),Influenza A virus,0.04411631723104208,1,1
+Zika virus,Zika virus,0.010891,1,1
+Enterovirus A71,Enterovirus A,0.007413,1,1
+Human coronavirus OC43,Betacoronavirus 1,0.04408891944469822,3,3
+Bovine coronavirus strain Quebec,Betacoronavirus 1,0.04408891944469822,1,1
+Human coronavirus NL63,Human coronavirus NL63,0.027553,5,10
+Nipah henipavirus,Nipah henipavirus,0.0182182,8,1
+Avian infectious bronchitis virus (strain Beaudette US),Avian coronavirus,0.024900555555555565,1,1
+Avian infectious bronchitis virus (strain Beaudette),Avian coronavirus,0.024900555555555565,2,2
+Herpesvirus saimiri (strain 488),Saimiriine gammaherpesvirus 2,0.11293,1,4
+Herpesvirus saimiri (strain 11),Saimiriine gammaherpesvirus 2,0.11293,1,1
+Human papillomavirus type 18,Alphapapillomavirus 7,0.007857,4,31
+human papillomavirus 39,Alphapapillomavirus 7,0.007857,3,2
+human papillomavirus 45,Alphapapillomavirus 7,0.007857,1,1
+Human adenovirus 5,Human mastadenovirus C,0.035836466666666664,15,23
+Human adenovirus 2,Human mastadenovirus C,0.035836466666666664,3,3
+Human gammaherpesvirus 8,Human gammaherpesvirus 8,0.137969,67,3
+Human herpesvirus 8 type M,Human gammaherpesvirus 8,0.137969,1,1
+Human herpesvirus 8 strain GK18,Human gammaherpesvirus 8,0.137969,4,4
+Hepatitis C virus (isolate Japanese),Hepacivirus C,0.009432273809523809,2,3
+Hepacivirus C,Hepacivirus C,0.009432273809523809,4,7
+Hepatitis C virus isolate HC-J4,Hepacivirus C,0.009432273809523809,3,4
+Hepatitis C virus isolate HCR6,Hepacivirus C,0.009432273809523809,1,1
+Hepatitis C virus JFH-1,Hepacivirus C,0.009432273809523809,15,31
+Hepatitis C virus (isolate H77),Hepacivirus C,0.009432273809523809,10,62
+Hepatitis C virus (isolate Con1),Hepacivirus C,0.009432273809523809,12,18
+Hepatitis C virus (isolate 1),Hepacivirus C,0.009432273809523809,2,2
+Hepatitis C virus subtype 1b,Hepacivirus C,0.009432273809523809,3,3
+Hepatitis C virus (isolate BK),Hepacivirus C,0.009432273809523809,2,2
+Hepatitis C virus (isolate Taiwan),Hepacivirus C,0.009432273809523809,5,3
+Hepatitis C virus isolate HC-J1,Hepacivirus C,0.009432273809523809,5,8
+Hepatitis C virus (isolate H),Hepacivirus C,0.009432273809523809,1,1
+Hepatitis C virus (isolate Glasgow),Hepacivirus C,0.009432273809523809,1,1
+Hepatitis C virus isolate HC-J6,Hepacivirus C,0.009432273809523809,1,1
+Human alphaherpesvirus 1 strain 17,Human alphaherpesvirus 1,0.15115183333333335,8,11
+Human alphaherpesvirus 1,Human alphaherpesvirus 1,0.15115183333333335,2,3
+Human alphaherpesvirus 1 strain KOS,Human alphaherpesvirus 1,0.15115183333333335,1,1
+Human alphaherpesvirus 1 strain F,Human alphaherpesvirus 1,0.15115183333333335,1,1
+Human herpesvirus 4 strain B95-8,Human gammaherpesvirus 4,0.17172820000000003,37,17
+Human gammaherpesvirus 4,Human gammaherpesvirus 4,0.17172820000000003,2,2
+Epstein-barr virus strain ag876,Human gammaherpesvirus 4,0.17172820000000003,1,1
+Avian sarcoma virus PR2257,Y73 sarcoma virus,0.005188,1,2
+Human immunodeficiency virus type 1 (CLONE 12),Human immunodeficiency virus 1,0.008959712328767123,3,8
+Human immunodeficiency virus 1,Human immunodeficiency virus 1,0.008959712328767123,6,5
+HIV-1 M:B_HXB2R,Human immunodeficiency virus 1,0.008959712328767123,13,11
+Human immunodeficiency virus type 1 (BRU ISOLATE),Human immunodeficiency virus 1,0.008959712328767123,4,4
+Human immunodeficiency virus type 1 BH10,Human immunodeficiency virus 1,0.008959712328767123,3,3
+HIV-1 M:B_MN,Human immunodeficiency virus 1,0.008959712328767123,1,1
+HIV-1 M:C_92BR025,Human immunodeficiency virus 1,0.008959712328767123,2,2
+HIV-1 M:B_ARV2/SF2,Human immunodeficiency virus 1,0.008959712328767123,1,1
+HIV-1 M:B_Lai,Human immunodeficiency virus 1,0.008959712328767123,1,1
+Human immunodeficiency virus type 1 (ELI ISOLATE),Human immunodeficiency virus 1,0.008959712328767123,1,1
+Human immunodeficiency virus type 1 (HXB3 ISOLATE),Human immunodeficiency virus 1,0.008959712328767123,1,1
+Human immunodeficiency virus type 1 (NEW YORK-5 ISOLATE),Human immunodeficiency virus 1,0.008959712328767123,3,1
+Human adenovirus 12,Human mastadenovirus A,0.033819999999999996,4,10
+Human betaherpesvirus 5,Human betaherpesvirus 5,0.23451149999999998,1,1
+Human herpesvirus 5 strain AD169,Human betaherpesvirus 5,0.23451149999999998,1,1
+Human herpesvirus 2 strain HG52,Human alphaherpesvirus 2,0.14119619047619048,1,1
+Human papillomavirus type 8,Betapapillomavirus 1,0.007533333333333334,3,8
+Human papillomavirus 5,Betapapillomavirus 1,0.007533333333333334,3,3
+Human papillomavirus 93,Betapapillomavirus 1,0.007533333333333334,1,1
+human papillomavirus 20,Betapapillomavirus 1,0.007533333333333334,1,1
+Macaca mulatta polyomavirus 1,Macaca mulatta polyomavirus 1,0.005243,4,39
+Human T-cell lymphotrophic virus type 1 (strain ATK),Primate T-lymphotropic virus 1,0.009028,1,1
+Human T-cell leukemia virus type I,Primate T-lymphotropic virus 1,0.009028,2,2
+Human T-cell lymphotrophic virus type 1 (Caribbean isolate),Primate T-lymphotropic virus 1,0.009028,3,1
+Human papillomavirus type 16,Alphapapillomavirus 9,0.038687667040358725,10,64
+human papillomavirus 33,Alphapapillomavirus 9,0.038687667040358725,4,3
+human papillomavirus 31,Alphapapillomavirus 9,0.038687667040358725,3,4
+human papillomavirus 58,Alphapapillomavirus 9,0.038687667040358725,1,1
+human papillomavirus 11,Alphapapillomavirus 10,0.043290086620263,8,24
+Human papillomavirus type 6b,Alphapapillomavirus 10,0.043290086620263,5,11
+Human papillomavirus type 6a,Alphapapillomavirus 10,0.043290086620263,2,1
+Human papillomavirus type 6,Alphapapillomavirus 10,0.043290086620263,1,1
+Marek's disease herpesvirus type 1 strain MD5,Gallid alphaherpesvirus 2,0.177874,1,1
+Human polyomavirus 1,Human polyomavirus 1,0.005147,1,1
+JC polyomavirus,Human polyomavirus 2,0.03470659778115809,2,2
+Human coronavirus HKU1 (isolate N5),Human coronavirus HKU1,0.029926,3,2
+Pipistrellus bat coronavirus HKU5,Pipistrellus bat coronavirus HKU5,0.030482,4,1
+Rousettus bat coronavirus HKU9,Rousettus bat coronavirus HKU9,0.029114,3,2
+Canine enteric coronavirus INSAVC-1,Alphacoronavirus 1,0.04408573344900017,1,1
+Porcine transmissible gastroenteritis coronavirus strain Purdue,Alphacoronavirus 1,0.04408573344900017,1,1
+Porcine respiratory coronavirus (STRAIN RM4),Alphacoronavirus 1,0.04408573344900017,1,1
+Murine hepatitis virus strain A59,Murine coronavirus,0.027075572916666662,3,4
+Semliki Forest virus,Semliki Forest virus,0.011314500000000002,2,1
+Suid alphaherpesvirus 1,Suid alphaherpesvirus 1,0.14225333333333334,2,2
+Equine herpesvirus type 1 (strain Kentucky A),Equid alphaherpesvirus 1,0.150224,2,3
+Equid alphaherpesvirus 1,Equid alphaherpesvirus 1,0.150224,4,3
+Equid herpesvirus type 2 strain 86/87,Equid gammaherpesvirus 2,0.184439,1,2
+Vaccinia virus Copenhagen,Vaccinia virus,0.18095623076923079,4,4
+Vaccinia virus WR,Vaccinia virus,0.18095623076923079,5,7
+Vaccinia virus,Vaccinia virus,0.18095623076923079,3,3
+Vaccinia virus L-IPV,Vaccinia virus,0.18095623076923079,1,2
+African swine fever virus,African swine fever virus,0.1847828547008547,1,1
+Papillomavirus sylvilagi (STRAIN KANSAS),Kappapapillomavirus 2,0.007868,1,1
+Bos taurus papillomavirus 2,Deltapapillomavirus 4,0.007945,1,1
+Deltapapillomavirus 4,Deltapapillomavirus 4,0.007945,5,17
+Human papillomavirus 3,Alphapapillomavirus 2,0.03682270408548755,2,3
+Human herpesvirus 6 (strain Uganda-1102),Human betaherpesvirus 6A,0.159378,1,1
+Human adenovirus B3,Human mastadenovirus B,0.03503314084507043,1,1
+Murine polyomavirus strain A3,Mus musculus polyomavirus 1,0.04374225361732728,1,1
+Mus musculus polyomavirus 1,Mus musculus polyomavirus 1,0.04374225361732728,2,2
+Murine adenovirus 1,Murine mastadenovirus A,0.030944,1,1
+Fowl aviadenovirus 1,Fowl aviadenovirus A,0.04380944444444444,1,1
+Human poliovirus 1 strain Sabin,Enterovirus C,0.00744,1,1
+Hog cholera virus (strain Alfort),Pestivirus C,0.046699432607337325,1,1
+Classical swine fever virus - Alfort/187,Pestivirus C,0.046699432607337325,1,1
+Classical swine fever virus - Brescia,Pestivirus C,0.046699432607337325,1,1
+Dengue virus 2 Thailand/NGS-C/1944,Dengue virus,0.03513857233409023,4,4
+Dengue virus 2,Dengue virus,0.03513857233409023,2,2
+Dengue virus 1,Dengue virus,0.03513857233409023,1,1
+Dengue virus 2 16681-PDK53,Dengue virus,0.03513857233409023,9,1
+Dengue virus 1 Nauru/West Pac/1974,Dengue virus,0.03513857233409023,1,1
+Bovine herpesvirus type 1.1,Bovine alphaherpesvirus 1,0.135301,1,1
+Bovine herpesvirus type 1.1 (strain Cooper),Bovine alphaherpesvirus 1,0.135301,1,2
+Bovine alphaherpesvirus 1,Bovine alphaherpesvirus 1,0.135301,1,1
+Bovine herpesvirus type 1.1 (strain Jura),Bovine alphaherpesvirus 1,0.135301,1,1
+Human respiratory syncytial virus A2,Human orthopneumovirus,0.015223500000000001,3,4
+Human orthopneumovirus,Human orthopneumovirus,0.015223500000000001,1,1
+Alkhumra hemorrhagic fever virus,Kyasanur Forest disease virus,0.010376,1,1
+Kunjin virus (STRAIN MRM61C),West Nile virus,0.0109955,2,1
+West Nile virus,West Nile virus,0.0109955,3,2
+Tick-borne encephalitis virus,Tick-borne encephalitis virus,0.008589333333333333,1,1
+Japanese encephalitis virus,Japanese encephalitis virus,0.010976,1,1
+Bovine gammaherpesvirus 4,Bovine gammaherpesvirus 4,0.108873,1,1
+Human papillomavirus type 1a,Mupapillomavirus 1,0.007815,4,5
+Human papillomavirus 9,Betapapillomavirus 2,0.0073858,3,2
+Human papillomavirus 37,Betapapillomavirus 2,0.0073858,1,1
+Human papillomavirus 38,Betapapillomavirus 2,0.0073858,1,1
+Human papillomavirus type 32,Alphapapillomavirus 1,0.044076887600438354,3,2
+Lymphocytic choriomeningitis virus (strain Armstrong),Lymphocytic choriomeningitis mammarenavirus,0.01033,1,1
+Vesicular stomatitis Indiana virus strain San Juan,Indiana vesiculovirus,0.011083,1,1
+Measles virus strain Ichinose-B95a,Measles morbillivirus,0.015894,1,1
+Bat coronavirus BM48-31/BGR/2008,Bat coronavirus BM48-31/BGR/2008,0.029276,1,1
+Hepatitis B virus,Hepatitis B virus,0.0032136666666666668,3,4
+Hepatitis B virus C/ayr human/Japan/Okamoto,Hepatitis B virus,0.0032136666666666668,1,1
+Hepatitis E virus (strain Burma),Orthohepevirus A,0.0070955,1,1
+Hepatitis E virus (strain Mexico),Orthohepevirus A,0.0070955,1,1
+Rous sarcoma virus (strain Schmidt-Ruppin A),Rous sarcoma virus,0.009392,1,1
+Rubella virus strain Therien,Rubivirus rubellae,0.009762,1,1
+Murid gammaherpesvirus 4,Murid gammaherpesvirus 4,0.119451,35,2
+"Ebola virus - Mayinga, Zaire, 1976",Zaire ebolavirus,0.018923000000000002,1,3
+Human T-lymphotropic virus 2,Primate T-lymphotropic virus 2,0.039140044573641695,5,1
+SFTS virus HB29,Dabie bandavirus,0.006843,2,1
+Human papillomavirus type 92,Betapapillomavirus 4,0.0074405,1,1
+Human papillomavirus 4,Gammapapillomavirus 1,0.0438736855871402,1,1
+Human papillomavirus type 96,Betapapillomavirus 5,0.007415,1,1
+Adeno-associated virus 2 Srivastava/1982,Adeno-associated dependoparvovirus A,0.04814702798104842,2,1
+Phlebovirus WCH/97/HN/China/2011,Phlebovirus WCH/97/HN/China/2011,0.010681000000000001,1,1
+Pangolin coronavirus,Pangolin coronavirus,0.029150572327044023,4,2
+Simian virus 5 (strain W3),Mammalian orthorubulavirus 5,0.04183610616929693,1,1
+Encephalomyocarditis virus,Cardiovirus A,0.04814702798104842,1,1
+Porcine enteric alphacoronavirus,Rhinolophus bat coronavirus HKU2,0.027165,1,1
+Murine cytomegalovirus (strain Smith),Murid betaherpesvirus 1,0.23034300000000002,1,1
+Bovine viral diarrhea virus 1-NADL,Pestivirus A,0.04814530296918196,1,1

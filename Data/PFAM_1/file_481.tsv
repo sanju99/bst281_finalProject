@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+VHS	PF00790.22	CL0009	9	150	12	150	4	141	106.05	1.5e-30	1.5e-34	VHS domain
+GAT	PF03127.17	-	213	289	213	289	1	77	60.21	1.9e-16	1.9e-20	GAT domain

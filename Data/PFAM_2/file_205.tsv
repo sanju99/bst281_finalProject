@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Spectrin	PF00435.24	-	293	403	293	402	1	104	56.79	2.8e-15	8.7e-19	Spectrin repeat
+Spectrin	PF00435.24	-	413	518	413	517	1	104	82.07	3.9e-23	1.2e-26	Spectrin repeat
+Spectrin	PF00435.24	-	528	639	529	639	2	105	62.72	4.1e-17	1.2e-20	Spectrin repeat
+Spectrin	PF00435.24	-	649	752	649	751	1	104	49.90	4.0e-13	1.2e-16	Spectrin repeat
+CH	PF00307.34	CL0188	50	155	51	154	2	108	86.32	1.6e-24	4.8e-28	Calponin homology (CH) domain
+CH	PF00307.34	CL0188	163	270	164	269	2	108	91.96	2.8e-26	8.5e-30	Calponin homology (CH) domain
+EFhand_Ca_insen	PF08726.13	CL0220	841	907	841	907	1	70	91.41	3.1e-26	9.4e-30	Ca2+ insensitive EF hand

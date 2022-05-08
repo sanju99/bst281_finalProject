@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+IHABP4_N	PF16174.8	-	16	162	16	162	1	152	184.12	2.3e-54	2.3e-58	Intracellular hyaluronan-binding protein 4 N-terminal
+IHABP4_N	PF16174.8	-	320	411	321	398	2	84	53.67	3.4e-14	3.5e-18	Intracellular hyaluronan-binding protein 4 N-terminal
+HABP4_PAI-RBP1	PF04774.18	-	212	316	212	315	1	115	74.03	1.6e-20	1.7e-24	Hyaluronan / mRNA binding family

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Peptidase_C12	PF01088.24	CL0125	8	209	8	209	1	211	234.88	8.6e-70	8.8e-74	Ubiquitin carboxyl-terminal hydrolase, family 1
+UCH_C	PF18031.4	CL0614	264	309	265	309	2	46	69.66	1.5e-19	1.5e-23	Ubiquitin carboxyl-terminal hydrolases

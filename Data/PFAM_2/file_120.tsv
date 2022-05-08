@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CARD_2	PF16739.8	CL0041	7	99	8	97	2	91	70.49	9.9e-20	3.5e-23	Caspase recruitment domain
+CARD_2	PF16739.8	CL0041	110	201	111	200	2	92	82.81	1.4e-23	5.0e-27	Caspase recruitment domain
+RIG-I_C-RD	PF11648.11	CL0080	903	1018	904	1017	2	116	123.54	5.3e-36	1.9e-39	C-terminal domain of RIG-I
+RIG-I_C	PF18119.4	-	536	692	537	692	2	139	96.83	1.1e-27	4.0e-31	RIG-I receptor C-terminal domain
+ResIII	PF04851.18	CL0023	305	493	306	491	2	169	72.83	3.5e-20	1.2e-23	Type III restriction enzyme, res subunit
+Helicase_C	PF00271.34	CL0023	699	826	706	825	8	110	71.87	5.6e-20	2.0e-23	Helicase conserved C-terminal domain
+DEAD	PF00270.32	CL0023	309	493	310	473	2	157	65.18	6.7e-18	2.4e-21	DEAD/DEAH box helicase
+CARD	PF00619.24	CL0041	115	200	116	199	2	84	49.88	2.6e-13	9.4e-17	Caspase recruitment domain

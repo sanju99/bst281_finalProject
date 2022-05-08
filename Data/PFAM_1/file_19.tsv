@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-BED	PF02892.18	CL0361	118	166	118	166	1	44	61.11	8.1e-17	8.2e-21	BED zinc finger
+zf-BED	PF02892.18	CL0361	288	336	288	336	1	44	58.70	4.5e-16	4.6e-20	BED zinc finger
+zf-BED	PF02892.18	CL0361	459	506	459	506	1	44	60.82	9.9e-17	1.0e-20	BED zinc finger
+zf-BED	PF02892.18	CL0361	561	609	561	609	1	44	56.25	2.7e-15	2.7e-19	BED zinc finger
+Dimer_Tnp_hAT	PF05699.17	-	1086	1164	1088	1163	5	85	30.69	2.2e-07	2.2e-11	hAT family C-terminal dimerisation region

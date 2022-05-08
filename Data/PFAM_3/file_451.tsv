@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+OB_NTP_bind	PF07717.19	CL0021	1213	1312	1213	1310	1	81	72.45	3.1e-20	1.1e-23	Oligonucleotide/oligosaccharide-binding (OB)-fold
+RWD	PF05773.25	CL0208	246	419	246	418	1	115	61.54	9.0e-17	3.2e-20	RWD domain
+HA2	PF04408.26	-	1036	1162	1039	1110	4	79	58.82	5.6e-16	2.0e-19	Helicase associated domain (HA2)
+Helicase_C	PF00271.34	CL0023	828	969	831	968	3	110	53.15	3.6e-14	1.3e-17	Helicase conserved C-terminal domain
+DEAD	PF00270.32	CL0023	548	709	551	705	6	171	42.54	6.0e-11	2.2e-14	DEAD/DEAH box helicase
+zf-CCCH_4	PF18044.4	CL0537	303	324	304	323	2	21	30.98	1.7e-07	6.0e-11	CCCH-type zinc finger
+zf-CCCH	PF00642.27	CL0537	301	325	303	323	4	25	29.13	7.0e-07	2.5e-10	Zinc finger C-x8-C-x5-C-x3-H type (and similar)

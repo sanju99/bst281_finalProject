@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PPARgamma_N	PF12577.11	-	31	108	31	108	1	84	112.74	1.0e-32	1.5e-36	PPAR gamma N-terminal region
+zf-C4	PF00105.21	CL0167	137	205	138	204	2	69	94.81	3.4e-27	5.2e-31	Zinc finger, C4 type (two domains)
+Hormone_recep	PF00104.33	-	300	486	321	485	24	211	56.04	4.2e-15	6.5e-19	Ligand-binding domain of nuclear hormone receptor

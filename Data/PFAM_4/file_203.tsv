@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PRC2_HTH_1	PF18118.4	CL0123	158	249	158	249	1	101	106.92	8.3e-31	1.7e-34	Polycomb repressive complex 2 tri-helical domain
+SET	PF00856.31	-	623	727	623	726	1	168	66.66	3.5e-18	7.2e-22	SET domain
+EZH2_WD-Binding	PF11616.11	-	39	68	39	68	1	30	60.66	1.1e-16	2.3e-20	WD repeat binding protein EZH2
+preSET_CXC	PF18264.4	-	559	590	559	590	1	32	40.34	3.4e-10	7.0e-14	CXC domain

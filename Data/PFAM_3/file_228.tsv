@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Exo_endo_phos	PF03372.26	CL0530	192	531	194	531	3	237	77.62	1.1e-21	1.7e-25	Endonuclease/Exonuclease/phosphatase family
+LRR_4	PF12799.10	CL0022	34	95	51	90	1	39	29.83	6.0e-07	9.1e-11	Leucine Rich repeats (2 copies)
+LRR_8	PF13855.9	CL0022	51	109	52	109	2	61	41.42	9.6e-11	1.5e-14	Leucine rich repeat

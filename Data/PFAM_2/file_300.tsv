@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SM-ATX	PF14438.9	CL0527	120	196	120	194	1	79	68.17	5.9e-19	9.0e-23	Ataxin 2 SM domain
+LsmAD	PF06741.16	-	264	332	264	332	1	72	62.34	4.9e-17	7.5e-21	LsmAD domain
+PAM2	PF07145.18	-	654	669	654	668	1	15	23.58	2.9e-05	4.4e-09	Ataxin-2 C-terminal region

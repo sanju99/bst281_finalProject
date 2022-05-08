@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+NTF2	PF02136.23	CL0051	11	133	11	133	1	120	112.76	1.5e-32	1.6e-36	Nuclear transport factor 2 (NTF2) domain
+RRM_1	PF00076.25	CL0221	342	406	342	397	1	58	49.13	4.0e-13	4.1e-17	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RecQ5	PF06959.14	-	625	827	625	827	1	203	363.55	3.7e-109	9.4e-113	RecQ helicase protein-like 5 (RecQ5)
+DEAD	PF00270.32	CL0023	31	203	31	200	1	174	75.20	5.7e-21	1.4e-24	DEAD/DEAH box helicase
+Helicase_C	PF00271.34	CL0023	243	354	259	353	16	110	46.15	5.4e-12	1.4e-15	Helicase conserved C-terminal domain
+RecQ_Zn_bind	PF16124.8	-	365	435	366	435	2	66	39.02	1.1e-09	2.7e-13	RecQ zinc-binding
+ResIII	PF04851.18	CL0023	13	199	31	197	21	169	23.20	6.2e-05	1.6e-08	Type III restriction enzyme, res subunit

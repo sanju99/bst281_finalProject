@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+dsrm	PF00035.29	CL0196	9	72	11	70	3	64	34.59	2.6e-08	3.9e-12	Double-stranded RNA binding motif
+dsrm	PF00035.29	CL0196	127	179	141	179	24	67	21.56	0.0003	4.6e-08	Double-stranded RNA binding motif
+dsrm	PF00035.29	CL0196	208	272	210	272	3	67	44.69	1.8e-11	2.7e-15	Double-stranded RNA binding motif
+dsrm	PF00035.29	CL0196	308	373	308	373	1	67	50.35	3.1e-13	4.7e-17	Double-stranded RNA binding motif
+Staufen_C	PF16482.8	CL0196	455	523	458	515	4	62	61.49	8.2e-17	1.3e-20	Staufen C-terminal domain

@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SH3_1	PF00018.31	CL0010	4	50	4	50	1	48	58.97	2.8e-16	7.2e-20	SH3 domain
+SH3_1	PF00018.31	CL0010	162	207	162	206	1	47	59.01	2.7e-16	7.0e-20	SH3 domain
+SH3_9	PF14604.9	CL0010	5	54	5	54	1	49	50.76	1.3e-13	3.4e-17	Variant SH3 domain
+SH3_9	PF14604.9	CL0010	163	211	163	211	1	49	56.13	2.8e-15	7.0e-19	Variant SH3 domain
+SH3_2	PF07653.20	CL0010	3	55	8	54	7	55	35.13	9.1e-09	2.3e-12	Variant SH3 domain
+SH3_2	PF07653.20	CL0010	160	213	160	212	1	56	55.20	4.9e-15	1.2e-18	Variant SH3 domain
+SH2	PF00017.27	CL0541	60	135	60	135	1	77	86.51	1.0e-24	2.7e-28	SH2 domain

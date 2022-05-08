@@ -1,0 +1,68 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ank_2	PF12796.10	CL0465	46	137	48	136	4	82	53.96	2.1e-14	8.6e-18	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	129	203	130	196	19	76	45.66	8.2e-12	3.3e-15	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	195	267	204	263	27	79	33.98	3.6e-08	1.5e-11	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	258	331	264	325	23	77	44.80	1.5e-11	6.2e-15	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	325	397	333	396	24	82	49.06	7.2e-13	2.9e-16	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	391	463	393	463	22	83	48.38	1.2e-12	4.7e-16	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	461	529	465	527	24	81	44.43	2.0e-11	8.1e-15	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	525	595	531	592	24	80	44.67	1.7e-11	6.8e-15	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	569	661	569	659	1	81	59.64	3.6e-16	1.5e-19	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	668	760	669	759	2	82	59.47	4.0e-16	1.6e-19	Ankyrin repeats (3 copies)
+Ank_2	PF12796.10	CL0465	756	821	759	815	23	72	28.35	2.1e-06	8.5e-10	Ankyrin repeats (3 copies)
+Ank	PF00023.33	CL0465	73	105	73	104	1	32	21.21	0.0003	1.2e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	106	138	107	136	2	31	28.56	1.4e-06	5.9e-10	Ankyrin repeat
+Ank	PF00023.33	CL0465	139	170	139	165	1	27	21.15	0.00032	1.3e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	234	268	235	259	2	26	20.99	0.00036	1.4e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	267	299	269	298	3	32	26.35	7.2e-06	2.9e-09	Ankyrin repeat
+Ank	PF00023.33	CL0465	300	332	300	326	1	27	15.93	0.014	5.8e-06	Ankyrin repeat
+Ank	PF00023.33	CL0465	333	365	333	357	1	25	15.44	0.02	8.2e-06	Ankyrin repeat
+Ank	PF00023.33	CL0465	366	397	369	396	4	31	19.21	0.0013	5.3e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	399	431	399	430	1	32	27.41	3.3e-06	1.4e-09	Ankyrin repeat
+Ank	PF00023.33	CL0465	432	464	433	463	2	32	20.18	0.00064	2.6e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	465	497	466	495	2	31	18.70	0.0019	7.7e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	498	530	499	529	2	32	23.79	4.6e-05	1.9e-08	Ankyrin repeat
+Ank	PF00023.33	CL0465	531	563	532	562	2	32	26.67	5.7e-06	2.3e-09	Ankyrin repeat
+Ank	PF00023.33	CL0465	564	596	565	593	2	30	23.75	4.8e-05	1.9e-08	Ankyrin repeat
+Ank	PF00023.33	CL0465	597	628	598	626	2	30	18.41	0.0023	9.5e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	630	662	630	661	1	32	24.06	3.8e-05	1.5e-08	Ankyrin repeat
+Ank	PF00023.33	CL0465	696	728	697	728	2	33	21.74	0.00021	8.4e-08	Ankyrin repeat
+Ank	PF00023.33	CL0465	729	761	729	760	1	32	22.96	8.5e-05	3.5e-08	Ankyrin repeat
+Ank	PF00023.33	CL0465	762	794	762	793	1	32	22.38	0.00013	5.3e-08	Ankyrin repeat
+Ank_4	PF13637.9	CL0465	41	94	45	94	5	55	25.00	2.2e-05	9.2e-09	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	77	127	77	127	4	55	30.77	3.5e-07	1.4e-10	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	107	160	108	160	2	55	38.32	1.5e-09	6.1e-13	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	202	255	203	255	2	55	32.51	1.0e-07	4.1e-11	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	269	321	270	321	3	55	40.91	2.3e-10	9.4e-14	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	334	387	335	387	2	55	32.70	8.7e-08	3.5e-11	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	367	420	367	420	1	55	42.12	9.6e-11	3.9e-14	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	402	452	402	449	3	51	37.70	2.3e-09	9.5e-13	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	433	486	434	486	2	55	36.65	5.0e-09	2.0e-12	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	466	519	468	516	3	52	24.13	4.2e-05	1.7e-08	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	532	585	533	585	2	55	31.96	1.5e-07	6.0e-11	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	598	651	599	651	2	55	32.92	7.4e-08	3.0e-11	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	632	684	633	684	3	55	37.24	3.3e-09	1.3e-12	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	665	717	668	717	5	55	34.71	2.0e-08	8.3e-12	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	697	750	698	750	2	55	31.95	1.5e-07	6.1e-11	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	730	783	731	783	2	55	38.47	1.3e-09	5.5e-13	Ankyrin repeats (many copies)
+Ank_4	PF13637.9	CL0465	763	815	764	812	2	51	24.02	4.6e-05	1.9e-08	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	60	114	61	114	2	56	29.35	7.9e-07	3.2e-10	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	93	137	93	136	1	45	27.20	3.8e-06	1.5e-09	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	126	180	126	180	1	56	33.49	4.0e-08	1.6e-11	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	261	306	270	306	18	54	32.60	7.6e-08	3.1e-11	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	386	440	386	440	1	56	42.50	5.9e-11	2.4e-14	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	452	505	454	505	3	55	30.45	3.6e-07	1.5e-10	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	551	605	551	605	1	56	36.98	3.2e-09	1.3e-12	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	617	671	617	671	1	56	30.92	2.5e-07	1.0e-10	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	682	736	685	736	5	55	33.01	5.6e-08	2.3e-11	Ankyrin repeats (many copies)
+Ank_5	PF13857.9	CL0465	749	803	749	803	1	56	33.18	5.0e-08	2.0e-11	Ankyrin repeats (many copies)
+Ank_3	PF13606.9	CL0465	106	135	107	135	2	31	18.11	0.0029	1.2e-06	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	366	395	367	395	2	31	17.54	0.0044	1.8e-06	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	399	428	399	426	1	29	21.80	0.00018	7.3e-08	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	465	494	466	492	2	29	19.79	0.00081	3.3e-07	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	630	659	630	659	1	31	19.66	0.0009	3.6e-07	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	729	758	730	758	2	31	20.44	0.0005	2.0e-07	Ankyrin repeat
+Ank_3	PF13606.9	CL0465	762	791	762	790	1	30	19.35	0.0011	4.6e-07	Ankyrin repeat
+UPA_2	PF17809.4	-	1308	1438	1308	1437	1	130	174.64	8.0e-52	3.3e-55	UPA domain
+ZU5	PF00791.23	CL0661	986	1083	986	1083	1	97	98.75	1.8e-28	7.2e-32	ZU5 domain
+Death	PF00531.25	CL0041	4091	4174	4093	4171	3	83	73.57	1.2e-20	4.9e-24	Death domain

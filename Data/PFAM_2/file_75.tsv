@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DnaJ_C	PF01556.21	-	164	323	164	323	1	149	151.14	2.4e-44	2.5e-48	DnaJ C terminal domain
+DnaJ	PF00226.34	CL0392	4	65	4	65	1	63	94.18	4.2e-27	4.3e-31	DnaJ domain

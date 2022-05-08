@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Pre-PUA	PF17832.4	CL0668	5	89	5	89	1	87	88.17	4.7e-25	4.8e-29	Pre-PUA-like domain
+PUA	PF01472.23	CL0178	93	170	94	170	2	74	74.25	6.3e-21	6.4e-25	PUA domain

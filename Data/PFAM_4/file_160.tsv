@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DED	PF01335.24	CL0041	3	84	3	84	1	82	80.65	7.1e-23	7.2e-27	Death effector domain
+DED	PF01335.24	CL0041	101	181	101	180	1	81	74.74	4.9e-21	5.0e-25	Death effector domain
+Peptidase_C14	PF00656.25	CL0093	233	475	233	474	1	205	134.65	4.7e-39	4.8e-43	Caspase domain

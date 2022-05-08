@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RIBIOP_C	PF04950.15	CL0575	488	775	488	775	1	292	416.05	8.8e-125	8.9e-129	40S ribosome biogenesis protein Tsr1 and BMS1 C-terminal
+AARP2CN	PF08142.15	-	228	308	229	308	2	86	75.83	2.3e-21	2.3e-25	AARP2CN (NUC121) domain

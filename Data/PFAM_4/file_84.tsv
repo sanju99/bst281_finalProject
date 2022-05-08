@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TUDOR	PF00567.27	CL0049	704	828	705	826	2	120	63.36	2.2e-17	3.3e-21	Tudor domain
+KH_1	PF00013.32	CL0007	609	673	611	671	3	64	42.70	4.0e-11	6.1e-15	KH domain

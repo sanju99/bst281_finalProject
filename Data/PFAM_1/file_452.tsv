@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+APG6	PF04111.15	-	264	445	264	445	1	179	254.15	7.8e-76	1.2e-79	Apg6 BARA domain
+APG6_N	PF17675.4	-	135	261	135	261	1	132	109.08	2.4e-31	3.6e-35	Apg6 coiled-coil region
+BH3	PF15285.9	-	105	129	105	129	1	25	60.99	6.7e-17	1.0e-20	Beclin-1 BH3 domain, Bcl-2-interacting

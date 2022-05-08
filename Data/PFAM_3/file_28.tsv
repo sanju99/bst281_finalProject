@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MHC_I	PF00129.21	CL0343	25	203	25	203	1	179	320.66	2.2e-96	3.4e-100	Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set	PF07654.18	CL0011	211	290	219	290	12	86	53.60	2.3e-14	3.6e-18	Immunoglobulin C1-set domain
+MHC_I_C	PF06623.14	-	337	362	337	362	1	26	52.50	3.2e-14	4.9e-18	MHC_I C-terminus

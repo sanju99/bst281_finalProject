@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-CCCH	PF00642.27	CL0537	13	39	14	38	2	26	28.98	7.9e-07	1.2e-10	Zinc finger C-x8-C-x5-C-x3-H type (and similar)
+zf-CCCH	PF00642.27	CL0537	149	175	150	174	2	26	26.36	5.2e-06	7.9e-10	Zinc finger C-x8-C-x5-C-x3-H type (and similar)
+RRM_1	PF00076.25	CL0221	82	141	87	140	16	69	21.78	0.00014	2.1e-08	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PPR_2	PF13041.9	CL0020	254	303	254	300	1	47	34.85	1.5e-08	3.0e-12	PPR repeat family
+PPR_3	PF13812.9	CL0020	277	344	282	341	6	59	28.01	1.8e-06	3.8e-10	Pentatricopeptide repeat domain
+PPR_3	PF13812.9	CL0020	345	384	353	379	34	60	17.39	0.0038	7.8e-07	Pentatricopeptide repeat domain
+PPR_long	PF17177.7	CL0020	251	389	261	380	16	136	31.72	9.6e-08	1.9e-11	Pentacotripeptide-repeat region of PRORP

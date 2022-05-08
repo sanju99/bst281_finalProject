@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+tRNA-synt_1	PF00133.25	CL0039	112	735	113	731	2	598	597.60	2.4e-179	3.6e-183	tRNA synthetases class I (I, L, M and V)
+Anticodon_1	PF08264.16	CL0258	779	932	779	927	1	147	108.16	4.0e-31	6.1e-35	Anticodon-binding domain of tRNA ligase
+tRNA-synt_1g	PF09334.14	CL0039	141	219	146	196	8	58	30.32	1.9e-07	2.9e-11	tRNA synthetases class I (M)

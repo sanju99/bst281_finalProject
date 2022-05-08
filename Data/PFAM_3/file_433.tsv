@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DNA_pol_A_exo1	PF01612.23	CL0219	288	456	289	455	2	175	170.27	3.6e-50	5.5e-54	3'-5' exonuclease
+PMC2NT	PF08066.15	-	44	133	44	133	1	92	77.88	7.8e-22	1.2e-25	PMC2NT (NUC016) domain
+HRDC	PF00570.26	CL0426	506	573	506	572	1	67	50.15	2.0e-13	3.1e-17	HRDC domain

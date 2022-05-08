@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+BLACT_WH	PF17778.4	CL0123	237	284	237	284	1	47	71.36	5.0e-20	5.1e-24	Beta-lactamase associated winged helix domain
+Lactamase_B	PF00753.30	CL0381	26	199	28	199	3	197	69.85	3.2e-19	3.2e-23	Metallo-beta-lactamase superfamily

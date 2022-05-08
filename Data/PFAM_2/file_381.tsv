@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MCM	PF00493.26	CL0023	460	683	461	683	2	224	331.99	1.3e-99	5.2e-103	MCM P-loop domain
+MCM_OB	PF17207.6	CL0021	293	422	294	420	2	124	125.73	1.0e-36	4.1e-40	MCM OB domain
+MCM_lid	PF17855.4	CL0671	718	802	718	802	1	87	97.80	4.0e-28	1.6e-31	MCM AAA-lid domain
+MCM2_N	PF12619.11	-	51	182	62	180	19	151	61.17	1.5e-16	6.2e-20	Mini-chromosome maintenance protein 2
+MCM_N	PF14551.9	-	196	287	197	286	2	104	53.30	3.9e-14	1.6e-17	MCM N-terminal domain
+Mg_chelatase	PF01078.24	CL0023	565	667	571	633	97	159	29.08	6.5e-07	2.6e-10	Magnesium chelatase, subunit ChlI
+AAA_5	PF07728.17	CL0023	518	657	518	634	1	124	26.17	7.2e-06	2.9e-09	AAA domain (dynein-related subfamily)

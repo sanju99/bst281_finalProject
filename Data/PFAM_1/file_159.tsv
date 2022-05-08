@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_L27e	PF01777.21	-	52	136	52	136	1	85	135.14	8.5e-40	8.6e-44	Ribosomal L27e protein family
+KOW	PF00467.32	CL0107	7	40	7	36	1	28	25.54	9.2e-06	9.4e-10	KOW motif

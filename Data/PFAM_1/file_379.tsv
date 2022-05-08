@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-C3HC4_3	PF13920.9	CL0229	434	485	436	484	3	49	50.09	2.0e-13	3.0e-17	Zinc finger, C3HC4 type (RING finger)
+SWIB	PF02201.21	-	26	101	29	95	4	68	35.84	5.7e-09	8.7e-13	SWIB/MDM2 domain
+zf-RanBP	PF00641.21	CL0167	299	328	300	327	2	29	36.11	3.1e-09	4.7e-13	Zn-finger in Ran binding protein and others

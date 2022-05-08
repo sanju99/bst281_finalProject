@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF913	PF06025.15	-	430	814	430	814	1	384	359.83	1.8e-107	5.4e-111	Domain of Unknown Function (DUF913)
+HECT	PF00632.28	CL0552	4067	4374	4069	4373	3	305	305.56	4.7e-91	1.4e-94	HECT-domain (ubiquitin-transferase)
+UBM	PF14377.9	-	2960	2992	2963	2990	4	31	38.07	7.3e-10	2.2e-13	Ubiquitin binding region
+UBM	PF14377.9	-	3009	3043	3011	3043	3	35	40.81	1.0e-10	3.1e-14	Ubiquitin binding region
+UBM	PF14377.9	-	3048	3083	3052	3082	5	34	27.89	1.2e-06	3.6e-10	Ubiquitin binding region
+DUF908	PF06012.15	-	88	368	90	367	3	357	95.08	6.3e-27	1.9e-30	Domain of Unknown Function (DUF908)
+WWE	PF02825.23	-	1616	1679	1617	1678	3	65	48.27	1.3e-12	3.9e-16	WWE domain
+UBA	PF00627.34	CL0214	1317	1352	1318	1352	2	37	29.19	6.7e-07	2.1e-10	UBA/TS-N domain

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Peptidase_M16	PF00675.23	CL0094	58	205	58	204	1	148	172.17	7.4e-51	7.6e-55	Insulinase (Peptidase family M16)
+Peptidase_M16_C	PF05193.24	CL0094	210	395	210	395	1	183	110.43	1.1e-31	1.1e-35	Peptidase M16 inactive domain

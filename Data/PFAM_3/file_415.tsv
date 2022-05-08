@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Sushi	PF00084.23	CL0001	50	108	50	105	1	52	34.21	2.8e-08	2.9e-12	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	113	170	113	170	1	56	28.39	1.9e-06	1.9e-10	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	175	234	175	234	1	56	35.97	8.0e-09	8.1e-13	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	239	294	239	294	1	56	45.45	8.8e-12	8.9e-16	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	299	362	299	358	1	53	37.61	2.5e-09	2.5e-13	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	365	422	365	422	1	56	25.82	1.2e-05	1.2e-09	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	426	480	426	480	1	56	34.38	2.5e-08	2.6e-12	Sushi repeat (SCR repeat)
+Sushi	PF00084.23	CL0001	484	538	484	538	1	56	39.68	5.6e-10	5.7e-14	Sushi repeat (SCR repeat)
+C4bp_oligo	PF18453.4	-	541	589	541	589	1	49	101.21	2.8e-29	2.9e-33	Oligomerization domain of C4b-binding protein alpha

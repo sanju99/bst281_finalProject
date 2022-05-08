@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FHA	PF00498.29	CL0357	38	109	38	109	1	69	50.52	2.1e-13	6.4e-17	FHA domain
+zf-C3HC4_3	PF13920.9	CL0229	399	447	400	446	2	49	38.92	6.0e-10	1.8e-13	Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_2	PF13923.9	CL0229	402	440	402	440	1	40	35.68	6.1e-09	1.9e-12	Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4	PF00097.28	CL0229	403	440	403	440	1	41	36.57	3.3e-09	1.0e-12	Zinc finger, C3HC4 type (RING finger)
+zf-RING_2	PF13639.9	CL0229	401	441	402	441	2	44	32.42	9.4e-08	2.9e-11	Ring finger domain
+zf-RING_UBOX	PF13445.9	CL0229	403	438	403	438	1	40	25.74	9.2e-06	2.8e-09	RING-type zinc-finger

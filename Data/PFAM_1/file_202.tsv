@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+adh_short	PF00106.28	CL0063	11	213	12	211	2	192	161.07	2.4e-47	3.6e-51	short chain dehydrogenase
+adh_short_C2	PF13561.9	CL0063	17	257	17	255	1	231	140.48	6.8e-41	1.0e-44	Enoyl-(Acyl carrier protein) reductase
+KR	PF08659.13	CL0063	12	175	14	171	4	152	45.35	9.1e-12	1.4e-15	KR domain

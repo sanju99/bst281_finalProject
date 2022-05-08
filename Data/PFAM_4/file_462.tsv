@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HMG_box_5	PF14887.9	CL0114	442	526	442	526	1	86	177.31	4.4e-53	6.7e-57	HMG (high mobility group) box 5
+HMG_box	PF00505.22	CL0114	112	180	112	179	1	68	64.92	7.1e-18	1.1e-21	HMG (high mobility group) box
+HMG_box	PF00505.22	CL0114	261	324	261	320	1	64	26.26	8.3e-06	1.3e-09	HMG (high mobility group) box
+HMG_box	PF00505.22	CL0114	370	434	370	432	1	63	53.68	2.3e-14	3.5e-18	HMG (high mobility group) box
+HMG_box_2	PF09011.13	CL0114	258	324	262	321	5	69	34.28	2.9e-08	4.5e-12	HMG-box domain
+HMG_box_2	PF09011.13	CL0114	367	436	368	433	2	68	28.11	2.5e-06	3.8e-10	HMG-box domain

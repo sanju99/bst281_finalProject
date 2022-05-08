@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ATAD3_N	PF12037.11	-	29	104	41	94	15	68	68.73	5.2e-19	5.3e-23	ATPase family AAA domain-containing protein 3, N-terminal
+ATAD3_N	PF12037.11	-	131	334	141	334	67	265	270.07	2.0e-80	2.1e-84	ATPase family AAA domain-containing protein 3, N-terminal
+AAA	PF00004.32	CL0023	396	523	396	522	1	131	70.86	1.5e-19	1.5e-23	ATPase family associated with various cellular activities (AAA)

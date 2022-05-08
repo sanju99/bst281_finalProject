@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Prenylcys_lyase	PF07156.17	CL0063	128	494	128	494	1	363	544.03	1.8e-163	2.7e-167	Prenylcysteine lyase
+NAD_binding_8	PF13450.9	CL0063	39	106	39	106	1	68	41.28	1.5e-10	2.3e-14	NAD(P)-binding Rossmann-like domain
+Amino_oxidase	PF01593.27	CL0063	44	134	45	112	2	67	29.51	5.0e-07	7.6e-11	Flavin containing amine oxidoreductase

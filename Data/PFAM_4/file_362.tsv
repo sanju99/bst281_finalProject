@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DDE_1	PF03184.22	CL0219	213	382	213	382	1	175	167.37	2.6e-49	4.0e-53	DDE superfamily endonuclease
+CENP-B_N	PF04218.16	CL0123	14	66	14	66	1	53	80.34	6.1e-23	9.3e-27	CENP-B N-terminal DNA-binding domain
+HTH_Tnp_Tc5	PF03221.19	CL0123	86	149	87	147	2	64	57.41	1.2e-15	1.8e-19	Tc5 transposase DNA-binding domain

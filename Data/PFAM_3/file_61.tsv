@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CAF1C_H4-bd	PF12265.11	-	18	87	18	87	1	69	91.47	3.3e-26	6.7e-30	Histone-binding protein RBBP4 or subunit C of CAF1 complex
+WD40	PF00400.35	CL0186	166	205	181	205	15	38	13.72	0.096	1.9e-05	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	217	255	221	255	6	38	14.49	0.055	1.1e-05	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	262	301	264	301	3	38	28.60	1.9e-06	3.9e-10	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	307	345	309	345	4	38	21.38	0.00036	7.4e-08	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	363	402	366	401	4	37	19.85	0.0011	2.3e-07	WD domain, G-beta repeat

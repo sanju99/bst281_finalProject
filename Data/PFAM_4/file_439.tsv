@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+LSM14	PF12701.10	CL0527	8	82	9	81	2	74	102.79	8.4e-30	1.3e-33	Scd6-like Sm domain
+FDF	PF09532.13	-	247	350	247	349	1	103	88.80	4.1e-25	6.2e-29	FDF domain
+SM-ATX	PF14438.9	CL0527	6	80	9	79	11	80	33.94	2.8e-08	4.3e-12	Ataxin 2 SM domain

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Lactamase_B_4	PF13691.9	CL0381	61	120	61	120	1	63	59.07	2.8e-16	2.8e-20	tRNase Z endonuclease
+Lactamase_B_2	PF12706.10	CL0381	510	725	512	725	3	201	44.98	9.6e-12	9.7e-16	Beta-lactamase superfamily domain

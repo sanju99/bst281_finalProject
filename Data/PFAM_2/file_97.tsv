@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Lon_C	PF05362.16	CL0329	736	949	737	947	2	203	231.46	7.7e-69	3.1e-72	Lon protease (S16) C-terminal proteolytic domain
+LON_substr_bdg	PF02190.19	CL0178	123	368	124	368	2	205	107.99	6.1e-31	2.5e-34	ATP-dependent protease La (LON) substrate-binding domain
+AAA	PF00004.32	CL0023	519	661	519	656	1	127	85.41	4.8e-24	1.9e-27	ATPase family associated with various cellular activities (AAA)
+AAA_5	PF07728.17	CL0023	518	653	519	653	2	138	34.71	1.7e-08	6.8e-12	AAA domain (dynein-related subfamily)
+AAA_2	PF07724.17	CL0023	515	681	520	648	7	136	30.22	4.6e-07	1.9e-10	AAA domain (Cdc48 subfamily)
+ChlI	PF13541.9	CL0329	793	916	843	916	48	121	27.95	1.8e-06	7.4e-10	Subunit ChlI of Mg-chelatase
+AAA_PrkA	PF08298.14	CL0023	473	553	483	542	55	114	25.30	7.1e-06	2.9e-09	PrkA AAA domain

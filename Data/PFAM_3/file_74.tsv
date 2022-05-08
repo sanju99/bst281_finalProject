@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CAMSAP_CKK	PF08683.14	CL0350	1464	1582	1464	1582	1	119	187.10	9.9e-56	1.5e-59	Microtubule-binding calmodulin-regulated spectrin-associated
+CAMSAP_CH	PF11971.11	CL0188	229	312	230	311	2	84	116.57	3.5e-34	5.4e-38	CAMSAP CH domain
+CAMSAP_CC1	PF17095.8	-	863	921	868	921	6	59	84.45	3.7e-24	5.7e-28	Spectrin-binding region of Ca2+-Calmodulin

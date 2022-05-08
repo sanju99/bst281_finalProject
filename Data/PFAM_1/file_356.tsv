@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Peptidase_C14	PF00656.25	CL0093	162	399	163	399	2	206	165.25	2.0e-48	2.0e-52	Caspase domain
+CARD	PF00619.24	CL0041	3	90	4	88	2	83	85.05	2.8e-24	2.8e-28	Caspase recruitment domain

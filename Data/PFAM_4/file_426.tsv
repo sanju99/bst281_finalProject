@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UBA	PF00627.34	CL0214	162	198	162	198	1	37	52.11	4.5e-14	6.9e-18	UBA/TS-N domain
+UBA	PF00627.34	CL0214	319	355	321	355	3	37	43.89	1.7e-11	2.6e-15	UBA/TS-N domain
+XPC-binding	PF09280.14	-	232	288	232	287	1	56	83.66	5.7e-24	8.8e-28	XPC-binding domain
+ubiquitin	PF00240.26	CL0072	5	79	5	78	1	71	74.08	6.1e-21	9.4e-25	Ubiquitin family

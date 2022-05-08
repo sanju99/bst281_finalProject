@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RICTOR_N	PF14664.9	-	57	439	58	439	2	373	358.80	3.5e-107	9.0e-111	Rapamycin-insensitive companion of mTOR, N-term
+RICTOR_phospho	PF14665.9	-	1084	1188	1084	1188	1	112	163.01	2.7e-48	6.9e-52	Rapamycin-insensitive companion of mTOR, phosphorylation-site
+RasGEF_N_2	PF14663.9	CL0542	746	853	747	852	2	107	123.00	7.3e-36	1.9e-39	Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RICTOR_M	PF14666.9	-	637	740	642	740	6	104	109.29	7.7e-32	1.9e-35	Rapamycin-insensitive companion of mTOR, middle domain
+RICTOR_V	PF14668.9	-	921	991	922	991	2	71	103.13	7.3e-30	1.9e-33	Rapamycin-insensitive companion of mTOR, domain 5

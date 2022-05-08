@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HSP70	PF00012.23	CL0108	7	615	7	615	1	599	868.44	2.2e-261	2.3e-265	Hsp70 protein
+MreB_Mbl	PF06723.16	CL0108	118	383	139	377	92	316	57.72	9.0e-16	9.1e-20	MreB/Mbl protein

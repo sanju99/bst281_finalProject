@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CLASP_N	PF12348.11	CL0020	275	485	284	473	12	210	32.69	5.8e-08	1.5e-11	CLASP N terminal
+CLASP_N	PF12348.11	CL0020	856	1075	865	1042	12	200	35.33	9.1e-09	2.3e-12	CLASP N terminal
+CLASP_N	PF12348.11	CL0020	1231	1425	1245	1422	54	224	27.07	3.0e-06	7.7e-10	CLASP N terminal
+HEAT	PF02985.25	CL0020	440	470	443	468	4	29	18.92	0.0013	3.3e-07	HEAT repeat

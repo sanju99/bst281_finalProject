@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Myosin_head	PF00063.24	CL0023	340	1041	340	1041	1	677	674.55	1.6e-202	3.2e-206	Myosin head (motor domain)
+Pkinase	PF00069.28	CL0016	21	287	22	287	2	264	204.79	1.7e-60	3.4e-64	Protein kinase domain
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	21	285	23	283	3	257	151.97	2.0e-44	4.0e-48	Protein tyrosine and serine/threonine kinase
+IQ	PF00612.30	CL0220	1083	1101	1084	1101	2	19	20.79	0.00023	4.7e-08	IQ calmodulin-binding motif
+IQ	PF00612.30	CL0220	1347	1367	1348	1367	2	21	14.99	0.017	3.5e-06	IQ calmodulin-binding motif

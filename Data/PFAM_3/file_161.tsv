@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RRM_1	PF00076.25	CL0221	706	775	706	774	1	68	48.18	7.9e-13	1.2e-16	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+RRM_1	PF00076.25	CL0221	803	872	803	871	1	69	62.28	3.1e-17	4.8e-21	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+LSM_int_assoc	PF16605.8	-	877	938	877	937	1	60	92.71	1.2e-26	1.8e-30	LSM-interacting associated unstructured
+Lsm_interact	PF05391.14	-	944	962	944	962	1	19	26.02	4.9e-06	7.5e-10	Lsm interaction motif

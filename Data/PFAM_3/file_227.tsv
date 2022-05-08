@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+APP_E2	PF12925.10	-	366	548	366	548	1	190	244.86	5.3e-73	1.6e-76	E2 domain of amyloid precursor protein
+APP_N	PF02177.19	-	31	131	31	131	1	100	149.54	3.1e-44	9.4e-48	Amyloid A4 N-terminal heparin-binding
+APP_Cu_bd	PF12924.10	-	132	188	132	188	1	57	92.49	2.1e-26	6.4e-30	Copper-binding of amyloid precursor, CuBD
+APP_amyloid	PF10515.12	-	716	766	716	766	1	52	87.58	6.3e-25	1.9e-28	Beta-amyloid precursor protein C-terminus
+Beta-APP	PF03494.16	-	675	713	676	713	2	39	81.31	3.5e-23	1.1e-26	Beta-amyloid peptide (beta-APP)
+Kunitz_BPTI	PF00014.26	-	290	342	290	341	1	52	69.23	2.8e-19	8.4e-23	Kunitz/Bovine pancreatic trypsin inhibitor domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ORC3_N	PF07034.14	CL0023	18	344	18	344	1	333	440.40	4.1e-132	6.3e-136	Origin recognition complex (ORC) subunit 3 N-terminus
+ORC3_ins	PF19675.2	-	355	585	355	585	1	233	396.98	3.8e-119	5.9e-123	Origin recognition complex subunit 3 insertion domain
+ORC_WH_C	PF18137.4	CL0123	596	708	596	708	1	145	96.38	1.8e-27	2.8e-31	Origin recognition complex winged helix C-terminal

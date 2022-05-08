@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ARS2	PF04959.16	CL0361	646	851	646	851	1	195	294.74	4.4e-88	4.5e-92	Arsenite-resistance protein 2
+SERRATE_Ars2_N	PF12066.11	-	153	262	153	262	1	110	137.48	1.9e-40	2.0e-44	SERRATE/Ars2, N-terminal domain

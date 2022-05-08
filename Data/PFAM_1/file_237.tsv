@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UPF1_Zn_bind	PF09416.13	CL0229	121	272	121	272	1	152	257.19	4.9e-77	2.0e-80	RNA helicase (UPF2 interacting domain)
+AAA_12	PF13087.9	CL0023	691	888	691	887	1	198	202.09	7.4e-60	3.0e-63	AAA domain
+AAA_11	PF13086.9	CL0023	481	605	482	600	2	139	72.43	5.3e-20	2.1e-23	AAA domain
+AAA_11	PF13086.9	CL0023	576	684	584	682	160	259	96.36	2.6e-27	1.1e-30	AAA domain
+UPF1_1B_dom	PF18141.4	-	324	425	324	425	1	93	99.65	8.1e-29	3.3e-32	RNA helicase UPF1, 1B domain
+AAA_30	PF13604.9	CL0023	481	691	482	681	2	132	46.60	3.4e-12	1.4e-15	AAA domain
+AAA_19	PF13245.9	CL0023	486	681	488	678	3	143	40.61	3.0e-10	1.2e-13	AAA domain
+ResIII	PF04851.18	CL0023	480	626	496	550	24	79	23.99	3.5e-05	1.4e-08	Type III restriction enzyme, res subunit

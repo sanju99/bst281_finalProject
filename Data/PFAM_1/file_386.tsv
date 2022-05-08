@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HEAT_EZ	PF13513.9	CL0020	419	473	419	472	1	54	46.15	5.3e-12	2.7e-15	HEAT-like repeat
+IBN_N	PF03810.22	CL0020	41	109	42	109	2	74	55.98	3.1e-15	1.6e-18	Importin-beta N-terminal domain

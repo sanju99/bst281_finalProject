@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+BAR_3_WASP_bdg	PF10456.12	CL0145	358	593	358	592	1	235	381.50	1.5e-114	3.7e-118	WASP-binding domain of Sorting nexin protein
+PX	PF00787.27	-	273	357	275	356	3	83	77.40	1.1e-21	2.9e-25	PX domain
+SH3_1	PF00018.31	CL0010	6	54	6	54	1	48	37.77	1.2e-09	3.0e-13	SH3 domain
+SH3_9	PF14604.9	CL0010	7	58	7	58	1	49	34.93	1.2e-08	2.9e-12	Variant SH3 domain
+SH3_2	PF07653.20	CL0010	4	60	5	59	2	56	32.81	4.8e-08	1.2e-11	Variant SH3 domain

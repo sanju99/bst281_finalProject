@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Anillin	PF08174.14	CL0154	4	157	4	157	1	141	136.37	9.5e-40	9.7e-44	Cell division protein anillin
+PH	PF00169.32	CL0266	206	252	209	250	4	44	29.63	8.2e-07	8.3e-11	PH domain

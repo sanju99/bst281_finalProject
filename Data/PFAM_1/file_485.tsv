@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AC_N	PF16214.8	-	11	368	16	368	85	415	411.70	4.2e-123	6.4e-127	Adenylyl cyclase N-terminal extracellular and transmembrane region
+Guanylate_cyc	PF00211.23	CL0276	370	554	371	531	2	163	193.19	3.4e-57	5.2e-61	Adenylate and Guanylate cyclase catalytic domain
+Guanylate_cyc	PF00211.23	CL0276	970	1164	971	1164	2	183	206.43	2.9e-61	4.5e-65	Adenylate and Guanylate cyclase catalytic domain
+Adcy_cons_dom	PF06327.17	CL0276	580	669	583	669	6	100	53.31	3.6e-14	5.5e-18	Adenylate cyclase, conserved domain

@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MCM	PF00493.26	CL0023	275	497	276	497	2	224	327.26	3.6e-98	9.2e-102	MCM P-loop domain
+MCM_OB	PF17207.6	CL0021	96	230	100	229	8	125	123.85	3.8e-36	9.7e-40	MCM OB domain
+MCM_lid	PF17855.4	CL0671	514	605	515	604	2	86	95.88	1.6e-27	4.1e-31	MCM AAA-lid domain
+MCM_N	PF14551.9	-	32	116	32	100	1	70	51.43	1.5e-13	3.8e-17	MCM N-terminal domain

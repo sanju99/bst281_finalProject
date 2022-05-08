@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_L30_N	PF08079.15	-	21	92	21	91	1	71	71.62	5.1e-20	5.2e-24	Ribosomal L30 N-terminal domain
+Ribosomal_L30	PF00327.23	-	97	147	97	147	1	51	46.26	3.4e-12	3.4e-16	Ribosomal protein L30p/L7e

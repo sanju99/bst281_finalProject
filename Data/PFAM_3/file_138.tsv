@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Mlh1_C	PF16413.8	-	502	756	502	756	1	268	313.01	1.7e-93	3.4e-97	DNA mismatch repair protein Mlh1 C-terminus
+DNA_mis_repair	PF01119.22	CL0329	216	335	216	334	1	118	120.69	2.8e-35	5.7e-39	DNA mismatch repair protein, C-terminal domain
+HATPase_c_3	PF13589.9	CL0025	26	137	29	130	4	105	51.91	7.8e-14	1.6e-17	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c	PF02518.29	CL0025	24	156	29	101	7	75	29.95	6.5e-07	1.3e-10	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase

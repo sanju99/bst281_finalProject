@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FAST_2	PF08368.15	-	451	536	452	536	2	89	81.60	5.0e-23	7.7e-27	FAST kinase-like protein, subdomain 2
+FAST_1	PF06743.18	-	369	440	369	438	1	70	80.80	5.5e-23	8.4e-27	FAST kinase-like protein, subdomain 1
+RAP	PF08373.13	CL0236	565	620	569	620	7	58	35.42	8.6e-09	1.3e-12	RAP domain

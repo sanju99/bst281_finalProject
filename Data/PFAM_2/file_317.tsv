@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Kinesin	PF00225.26	CL0023	1	289	7	289	50	332	371.44	3.5e-111	1.1e-114	Kinesin motor domain
+Kinesin_assoc	PF16183.8	-	320	407	326	405	94	177	68.99	6.3e-19	1.9e-22	Kinesin-associated
+DUF3694	PF12473.11	-	939	1216	939	1215	1	151	78.99	5.5e-22	1.7e-25	Kinesin protein
+Microtub_bd	PF16796.8	CL0023	5	98	22	98	82	156	79.06	3.6e-22	1.1e-25	Microtubule binding
+KIF1B	PF12423.11	-	692	738	692	738	1	49	57.03	1.8e-15	5.5e-19	Kinesin protein 1B
+FHA	PF00498.29	CL0357	407	471	408	471	2	69	33.96	3.1e-08	9.5e-12	FHA domain

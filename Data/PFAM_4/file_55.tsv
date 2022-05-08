@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Sin3a_C	PF16879.8	-	886	1186	886	1186	1	288	323.64	1.5e-96	2.3e-100	C-terminal domain of Sin3a protein
+PAH	PF02671.24	-	142	186	142	186	1	45	67.93	6.4e-19	9.8e-23	Paired amphipathic helix repeat
+PAH	PF02671.24	-	323	380	323	380	1	45	66.76	1.5e-18	2.3e-22	Paired amphipathic helix repeat
+PAH	PF02671.24	-	478	522	478	522	1	45	30.62	2.9e-07	4.4e-11	Paired amphipathic helix repeat
+Sin3_corepress	PF08295.15	-	552	647	552	647	1	98	135.17	6.8e-40	1.0e-43	Sin3 family co-repressor

@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SPRY	PF00622.31	CL0004	511	630	511	626	1	115	51.36	1.2e-13	5.3e-17	SPRY domain
+PRY	PF13765.9	CL0004	459	507	459	504	1	46	48.95	3.8e-13	1.8e-16	SPRY-associated domain
+zf-RING_UBOX	PF13445.9	CL0229	13	51	13	51	1	40	40.83	1.8e-10	8.1e-14	RING-type zinc-finger
+zf-C3HC4_4	PF15227.9	CL0229	13	53	13	53	1	42	37.44	2.1e-09	9.8e-13	zinc finger of C3HC4-type, RING
+zf-C3HC4	PF00097.28	CL0229	13	53	13	53	1	41	36.90	2.6e-09	1.2e-12	Zinc finger, C3HC4 type (RING finger)
+zf-RING_2	PF13639.9	CL0229	11	54	12	54	2	44	35.18	1.3e-08	6.0e-12	Ring finger domain
+zf-C3HC4_2	PF13923.9	CL0229	12	53	13	53	2	40	33.69	2.6e-08	1.2e-11	Zinc finger, C3HC4 type (RING finger)
+zf-RING_5	PF14634.9	CL0229	12	55	13	54	2	43	32.79	5.5e-08	2.5e-11	zinc-RING finger domain
+zf-C3HC4_3	PF13920.9	CL0229	9	60	10	58	2	48	32.06	8.4e-08	3.9e-11	Zinc finger, C3HC4 type (RING finger)

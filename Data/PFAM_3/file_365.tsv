@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+LIM	PF00412.25	CL0167	10	66	10	65	1	57	48.29	9.5e-13	4.9e-17	LIM domain
+LIM	PF00412.25	CL0167	119	175	119	175	1	58	59.32	3.4e-16	1.7e-20	LIM domain

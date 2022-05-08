@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Annexin	PF00191.23	-	46	111	47	111	2	66	70.72	8.6e-20	4.4e-24	Annexin
+Annexin	PF00191.23	-	118	183	118	183	1	66	88.80	1.9e-25	9.9e-30	Annexin
+Annexin	PF00191.23	-	201	267	202	267	2	66	71.40	5.2e-20	2.7e-24	Annexin
+Annexin	PF00191.23	-	277	342	277	342	1	66	83.86	6.8e-24	3.4e-28	Annexin

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Xpo1	PF08389.15	CL0020	103	283	103	277	1	135	80.28	1.6e-22	1.6e-26	Exportin 1-like protein
+IBN_N	PF03810.22	CL0020	31	97	32	96	2	73	33.92	2.4e-08	2.4e-12	Importin-beta N-terminal domain

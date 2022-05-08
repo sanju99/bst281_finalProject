@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Metallophos	PF00149.31	CL0163	57	252	60	250	4	203	139.70	1.9e-40	1.9e-44	Calcineurin-like phosphoesterase
+STPPase_N	PF16891.8	-	9	56	9	56	1	48	78.84	3.1e-22	3.2e-26	Serine-threonine protein phosphatase N-terminal domain

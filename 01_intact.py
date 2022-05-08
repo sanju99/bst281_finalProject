@@ -69,7 +69,7 @@ non_taxa_df.columns = ["taxid", "taxname"]
 
 taxids = list(set(temp_2_B.loc[temp_2_B[0].astype(int) > 0].iloc[:, 0].values.astype(int)).union(temp_2_A.loc[temp_2_A[0].astype(int) > 0].iloc[:, 0].values.astype(int)))
 
-# save the list of taxids to a dataframe
+# save the list of taxids to a dataframe to search NCBI
 pd.DataFrame(pd.Series(taxids)).to_csv("Data/taxids.txt", sep="\t", index=False, header=None)
 
 # searched in the NCBI taxonomy browser and got the following file
@@ -94,7 +94,7 @@ virus_intact['Taxname B'] = virus_intact['Taxid B'].map(dict_for_taxa)
 
 # get interactions with human proteins
 virus_human = virus_intact.loc[(virus_intact["Taxname A"] == 'Homo sapiens') | (virus_intact["Taxname B"] == 'Homo sapiens')].reset_index(drop=True)
-print(f"{len(virus_human) / len(virus_intact)} proportion involves human proteins")
+print(f"{round(len(virus_human) / len(virus_intact)*100, 2)}% of the database involves human proteins")
 
 # not sure why, but there are some other species in this dataset: human proteins interacting with proteins from other organisms
 interact_taxa = pd.Series(list(set(virus_human["Taxname A"]).union(virus_human["Taxname B"]))).dropna()
@@ -112,6 +112,45 @@ human_human = virus_human.loc[(virus_human["Taxname A"] == 'Homo sapiens') & (vi
 # separate virus-host and host-host that's important for viruses
 contains_viruses_indices = list(set(virus_human.index) - set(human_human.index))
 virus_human = virus_human.iloc[contains_viruses_indices, :]
+
+for i, row in virus_human.iterrows():
+    
+    # format we want, ignore this
+    if row["Taxname A"] != "Homo sapiens" and row["Taxname B"] == "Homo sapiens":
+        continue
+        
+    # don't want this, just a sanity check that it isn't there
+    elif row["Taxname A"] == "Homo sapiens" and row["Taxname B"] == "Homo sapiens":
+        print(f"Both proteins in row {i} are human")
+        
+    # don't want this, just a sanity check that it isn't there
+    elif row["Taxname A"] != "Homo sapiens" and row["Taxname B"] != "Homo sapiens":
+        print(f"Both proteins in row {i} are viral")
+    
+    elif row["Taxname A"] == "Homo sapiens" and row["Taxname B"] != "Homo sapiens":
+        
+        # switch everything               
+        virus_human.loc[i, "Protein A"] = row["Protein B"]
+        virus_human.loc[i, "Protein B"] = row["Protein A"]
+        
+        virus_human.loc[i, "Taxid A"] = row["Taxid B"]
+        virus_human.loc[i, "Taxid B"] = row["Taxid A"]
+        
+        virus_human.loc[i, "Protein A DB"] = row["Protein B DB"]
+        virus_human.loc[i, "Protein B DB"] = row["Protein A DB"]
+    
+        virus_human.loc[i, "Taxname A"] = row["Taxname B"]
+        virus_human.loc[i, "Taxname B"] = row["Taxname A"]
+        
+virus_human = virus_human.drop_duplicates()
+print(f"Shape after dropping protein interaction duplicates: {virus_human.shape}")
+
+# check that all the switching worked
+assert virus_human["Taxname B"].unique() == "Homo sapiens"
+assert virus_human["Taxid B"].unique() == 9606
+
+assert 'Homo sapiens' not in virus_human["Taxname A"].values
+assert 9606 not in virus_human["Taxid A"].values
 
 # save both files to CSVs
 virus_human.to_csv("Processed/virus_human.csv", index=False)

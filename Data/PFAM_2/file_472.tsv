@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CSTF2_hinge	PF14327.9	-	112	191	113	191	2	81	92.07	2.4e-26	3.7e-30	Hinge domain of cleavage stimulation factor subunit 2
+RRM_1	PF00076.25	CL0221	18	88	18	88	1	70	86.60	8.0e-25	1.2e-28	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+CSTF_C	PF14304.9	-	572	612	572	612	1	41	59.07	2.7e-16	4.1e-20	Transcription termination and cleavage factor C-terminal

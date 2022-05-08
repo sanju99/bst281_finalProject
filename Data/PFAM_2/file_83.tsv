@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ThiF	PF00899.24	CL0063	2	443	9	442	12	218	228.51	5.7e-68	1.2e-71	ThiF family
+UBA2_C	PF16195.8	-	549	636	549	631	1	88	92.29	2.3e-26	4.7e-30	SUMO-activating enzyme subunit 2 C-terminus
+UAE_UbL	PF14732.9	-	452	539	452	537	1	85	78.58	4.4e-22	9.0e-26	Ubiquitin/SUMO-activating enzyme ubiquitin-like domain

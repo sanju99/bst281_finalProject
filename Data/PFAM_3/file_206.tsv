@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UCH	PF00443.32	CL0125	415	792	416	792	2	278	154.25	5.1e-45	7.8e-49	Ubiquitin carboxyl-terminal hydrolase
+PAM2	PF07145.18	-	78	95	79	94	2	17	21.20	0.00017	2.5e-08	Ataxin-2 C-terminal region

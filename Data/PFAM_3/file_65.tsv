@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Longin	PF13774.9	CL0431	37	117	37	117	1	84	91.81	2.2e-26	2.2e-30	Regulated-SNARE-like domain
+Synaptobrevin	PF00957.24	CL0445	131	215	133	210	3	80	57.21	1.2e-15	1.2e-19	Synaptobrevin

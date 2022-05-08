@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MCM	PF00493.26	CL0023	280	505	281	505	2	224	319.93	6.3e-96	1.6e-99	MCM P-loop domain
+MCM_OB	PF17207.6	CL0021	110	245	114	244	3	125	116.18	9.0e-34	2.3e-37	MCM OB domain
+MCM_lid	PF17855.4	CL0671	566	653	567	650	2	84	76.56	1.7e-21	4.4e-25	MCM AAA-lid domain
+MCM_N	PF14551.9	-	13	104	17	102	2	103	42.85	6.9e-11	1.8e-14	MCM N-terminal domain
+Mg_chelatase	PF01078.24	CL0023	382	485	389	456	93	160	28.84	7.6e-07	1.9e-10	Magnesium chelatase, subunit ChlI

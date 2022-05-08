@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Thioredoxin	PF00085.23	CL0172	153	258	157	257	5	102	68.55	4.3e-19	2.4e-22	Thioredoxin
+Thioredoxin	PF00085.23	CL0172	277	381	278	377	2	99	82.06	2.7e-23	1.5e-26	Thioredoxin
+Thioredoxin	PF00085.23	CL0172	398	503	399	502	2	102	79.59	1.6e-22	8.8e-26	Thioredoxin
+Thioredoxin_2	PF13098.9	CL0172	166	256	167	246	2	100	30.62	3.9e-07	2.2e-10	Thioredoxin-like domain
+Thioredoxin_2	PF13098.9	CL0172	290	379	291	370	3	100	29.81	7.0e-07	3.9e-10	Thioredoxin-like domain
+Thioredoxin_2	PF13098.9	CL0172	410	489	412	479	3	87	27.21	4.5e-06	2.5e-09	Thioredoxin-like domain
+OST3_OST6	PF04756.16	CL0172	268	382	272	363	7	107	29.10	6.7e-07	3.7e-10	OST3 / OST6 family, transporter family

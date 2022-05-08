@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+NUC202	PF08166.15	-	423	489	423	488	1	60	95.27	1.8e-27	1.9e-31	NUC202 domain
+NUC202	PF08166.15	-	569	642	569	639	1	58	66.26	2.1e-18	2.1e-22	NUC202 domain
+RIX1	PF08167.15	CL0020	54	231	65	226	16	187	88.13	6.4e-25	6.6e-29	rRNA processing/ribosome biogenesis

@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Piwi	PF02171.20	CL0219	517	818	518	817	2	301	385.10	2.4e-115	7.2e-119	Piwi domain
+ArgoMid	PF16487.8	-	429	511	429	510	1	83	111.36	2.1e-32	6.4e-36	Mid domain of argonaute
+ArgoN	PF16486.8	-	36	166	36	166	1	143	105.69	2.9e-30	9.0e-34	N-terminal domain of argonaute
+PAZ	PF02170.25	CL0638	238	365	242	364	6	131	97.10	9.4e-28	2.9e-31	PAZ domain
+ArgoL1	PF08699.13	-	176	226	176	226	1	51	74.04	5.7e-21	1.7e-24	Argonaute linker 1 domain
+ArgoL2	PF16488.8	-	374	420	374	420	1	47	48.70	7.3e-13	2.2e-16	Argonaute linker 2 domain

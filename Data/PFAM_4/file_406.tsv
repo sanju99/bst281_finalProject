@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HMA	PF00403.29	CL0704	11	72	11	72	1	62	53.96	1.9e-14	3.8e-18	Heavy-metal-associated domain
+HMA	PF00403.29	CL0704	174	235	176	234	3	61	45.88	6.2e-12	1.3e-15	Heavy-metal-associated domain
+HMA	PF00403.29	CL0704	280	340	280	337	1	58	52.12	7.0e-14	1.4e-17	Heavy-metal-associated domain
+HMA	PF00403.29	CL0704	380	441	380	441	1	62	52.85	4.1e-14	8.4e-18	Heavy-metal-associated domain
+HMA	PF00403.29	CL0704	492	552	493	551	3	61	37.46	2.6e-09	5.4e-13	Heavy-metal-associated domain
+HMA	PF00403.29	CL0704	567	628	570	628	4	62	51.51	1.1e-13	2.2e-17	Heavy-metal-associated domain
+Hydrolase	PF00702.29	CL0137	1038	1313	1038	1313	1	210	214.35	2.4e-63	4.9e-67	haloacid dehalogenase-like hydrolase
+E1-E2_ATPase	PF00122.23	-	814	1022	816	1021	3	180	163.69	3.4e-48	7.0e-52	E1-E2 ATPase
+Hydrolase_3	PF08282.15	CL0137	1281	1345	1287	1343	197	252	23.87	3.3e-05	6.8e-09	haloacid dehalogenase-like hydrolase

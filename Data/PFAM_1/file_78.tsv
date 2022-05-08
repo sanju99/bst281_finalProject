@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+FAM83	PF07894.15	CL0479	47	326	49	326	4	275	336.43	1.5e-100	1.5e-104	FAM83 A-H
+PLDc_2	PF13091.9	CL0479	182	321	182	318	1	130	37.72	1.8e-09	1.8e-13	PLD-like domain

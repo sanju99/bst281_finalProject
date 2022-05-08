@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-HC5HC2H	PF13771.9	CL0390	42	132	42	132	1	90	65.15	5.4e-18	5.5e-22	PHD-like zinc-binding domain
+zf-HC5HC2H	PF13771.9	CL0390	239	330	239	330	1	90	62.83	2.9e-17	2.9e-21	PHD-like zinc-binding domain
+zf-HC5HC2H_2	PF13832.9	CL0390	15	131	16	131	2	109	30.27	4.1e-07	4.2e-11	PHD-zinc-finger like domain
+zf-HC5HC2H_2	PF13832.9	CL0390	210	329	228	329	13	109	28.29	1.7e-06	1.7e-10	PHD-zinc-finger like domain

@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DNA-PKcs_N	PF20500.1	CL0020	52	862	52	861	1	809	1370.16	0.0e+00	0.0e+00	DNA-PKcs, N-terminal
+DNAPKcs_CC1-2	PF20502.1	CL0020	954	1759	955	1759	2	809	1336.88	0.0e+00	0.0e+00	DNA-dependent protein kinase catalytic subunit, CC1/2
+DNAPKcs_CC5	PF19704.2	CL0020	2213	2898	2213	2898	1	691	1089.21	0.0e+00	0.0e+00	DNA-PKcs, CC5
+DNAPKcs_CC3	PF08163.15	CL0020	1816	2202	1816	2202	1	388	537.10	2.5e-161	9.1e-165	DNA-dependent protein kinase catalytic subunit, CC3
+FAT	PF02259.26	CL0020	3023	3470	3023	3470	1	346	253.78	2.9e-75	1.0e-78	FAT domain
+PI3_PI4_kinase	PF00454.30	CL0016	3747	4015	3749	4014	3	249	220.04	4.6e-65	1.6e-68	Phosphatidylinositol 3- and 4-kinase
+FATC	PF02260.23	-	4097	4128	4098	4128	2	32	32.97	4.0e-08	1.4e-11	FATC domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PAP_assoc	PF03828.22	-	490	549	491	549	2	63	25.96	8.9e-06	1.4e-09	Cid1 family poly A polymerase
+RRM_1	PF00076.25	CL0221	58	122	58	119	1	67	22.53	8.0e-05	1.2e-08	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+zf-met	PF12874.10	CL0361	16	40	16	40	1	25	22.13	0.00015	2.3e-08	Zinc-finger of C2H2 type

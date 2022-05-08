@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PI4K_N	PF19274.2	-	378	1514	378	1514	1	1179	1134.85	0.0e+00	0.0e+00	PI4-kinase N-terminal region
+PI3_PI4_kinase	PF00454.30	CL0016	1844	1914	1845	1911	2	72	41.05	2.0e-10	3.0e-14	Phosphatidylinositol 3- and 4-kinase
+PI3_PI4_kinase	PF00454.30	CL0016	1907	2051	1911	2049	112	248	99.21	3.5e-28	5.4e-32	Phosphatidylinositol 3- and 4-kinase
+PI3Ka	PF00613.23	CL0020	1562	1728	1583	1725	40	182	119.11	1.5e-34	2.4e-38	Phosphoinositide 3-kinase family, accessory domain (PIK domain)

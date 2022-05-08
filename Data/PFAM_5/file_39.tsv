@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Rotamase	PF00639.24	CL0487	59	163	59	162	1	96	82.62	3.2e-23	5.0e-27	PPIC-type PPIASE domain
+Rotamase_3	PF13616.9	CL0487	42	163	51	159	12	110	76.93	1.8e-21	2.8e-25	PPIC-type PPIASE domain
+WW	PF00397.29	CL0680	7	37	7	37	1	31	56.81	1.8e-15	2.8e-19	WW domain

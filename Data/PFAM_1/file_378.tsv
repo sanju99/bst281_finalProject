@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PA28_beta	PF02252.21	-	108	252	109	251	2	144	219.66	1.3e-65	1.4e-69	Proteasome activator pa28 beta subunit
+PA28_alpha	PF02251.21	-	9	69	10	69	2	61	88.43	2.4e-25	2.5e-29	Proteasome activator pa28 alpha subunit

@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+His_Phos_1	PF00300.25	CL0071	426	610	436	598	20	169	61.38	9.9e-17	2.0e-20	Histidine phosphatase superfamily (branch 1)
+SH3_9	PF14604.9	CL0010	261	315	261	315	1	49	56.04	2.9e-15	6.0e-19	Variant SH3 domain
+UBA	PF00627.34	CL0214	39	73	44	73	9	37	28.93	8.1e-07	1.7e-10	UBA/TS-N domain
+SH3_1	PF00018.31	CL0010	260	311	261	310	2	47	23.94	2.5e-05	5.0e-09	SH3 domain

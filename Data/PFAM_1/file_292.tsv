@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Nup96	PF12110.11	-	1332	1623	1332	1623	1	290	329.37	1.8e-98	1.9e-102	Nuclear protein 96
+Nucleoporin2	PF04096.17	CL0661	738	885	739	885	2	149	154.15	2.9e-45	3.0e-49	Nucleoporin autopeptidase

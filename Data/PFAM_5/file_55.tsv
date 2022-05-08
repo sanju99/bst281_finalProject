@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF3668	PF12416.11	-	118	340	118	340	1	226	320.72	6.2e-96	6.3e-100	Cep120 protein
+C2	PF00168.33	CL0154	9	114	11	114	4	103	20.40	0.00052	5.3e-08	C2 domain
+C2	PF00168.33	CL0154	517	565	529	561	64	96	9.96	0.92	9.4e-05	C2 domain

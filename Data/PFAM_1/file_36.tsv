@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Catalase	PF00199.22	-	28	411	28	410	1	382	653.75	9.7e-197	9.9e-201	Catalase
+Catalase-rel	PF06628.15	-	434	497	437	496	5	64	63.17	2.1e-17	2.1e-21	Catalase-related immune-responsive

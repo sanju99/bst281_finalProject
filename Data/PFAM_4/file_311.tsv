@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UCH	PF00443.32	CL0125	169	654	169	654	1	278	172.54	1.4e-50	1.4e-54	Ubiquitin carboxyl-terminal hydrolase
+UIM	PF02809.23	CL0702	97	113	97	113	1	17	19.09	0.00087	8.8e-08	Ubiquitin interaction motif
+UIM	PF02809.23	CL0702	124	140	124	140	1	17	8.03	3	0.0003	Ubiquitin interaction motif

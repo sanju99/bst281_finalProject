@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Bromodomain	PF00439.28	-	67	152	70	150	4	82	72.00	3.5e-20	5.4e-24	Bromodomain
+Bromodomain	PF00439.28	-	357	445	357	444	1	83	71.64	4.5e-20	6.9e-24	Bromodomain
+BET	PF17035.8	CL0665	609	673	609	672	1	63	96.92	6.2e-28	9.4e-32	Bromodomain extra-terminal - transcription regulation
+BRD4_CDT	PF17105.8	-	1319	1362	1319	1362	1	44	81.55	2.1e-23	3.3e-27	C-terminal domain of bromodomain protein 4

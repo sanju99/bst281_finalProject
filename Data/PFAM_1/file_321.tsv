@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Reprolysin	PF01421.22	CL0126	212	406	212	406	1	200	235.74	4.8e-70	2.0e-73	Reprolysin (M12B) family zinc metalloprotease
+ADAM_CR	PF08516.15	-	501	615	501	615	1	116	118.91	1.6e-34	6.7e-38	ADAM cysteine-rich
+Pep_M12B_propep	PF01562.22	-	35	163	45	163	2	140	110.12	1.1e-31	4.4e-35	Reprolysin family propeptide
+Reprolysin_5	PF13688.9	CL0126	210	387	211	383	2	196	71.86	8.5e-20	3.5e-23	Metallo-peptidase family M12
+Disintegrin	PF00200.26	-	423	496	423	496	1	76	69.91	2.6e-19	1.1e-22	Disintegrin
+Reprolysin_3	PF13582.9	CL0126	236	358	238	358	3	124	59.02	6.7e-16	2.7e-19	Metallo-peptidase family M12B Reprolysin-like
+Reprolysin_4	PF13583.9	CL0126	211	398	281	379	75	180	40.57	2.3e-10	9.6e-14	Metallo-peptidase family M12B Reprolysin-like
+Reprolysin_2	PF13574.9	CL0126	233	396	293	387	67	185	37.99	1.7e-09	6.9e-13	Metallo-peptidase family M12B Reprolysin-like

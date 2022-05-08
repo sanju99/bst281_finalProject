@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Rad51	PF08423.14	CL0023	84	337	84	336	1	254	434.26	1.4e-130	2.8e-134	Rad51
+AAA_25	PF13481.9	CL0023	88	271	92	268	5	188	39.99	3.2e-10	6.6e-14	AAA domain
+HHH_5	PF14520.9	CL0198	31	80	32	79	9	56	34.87	1.9e-08	3.8e-12	Helix-hairpin-helix domain
+RecA	PF00154.24	CL0023	73	313	94	304	25	220	35.88	5.9e-09	1.2e-12	recA bacterial DNA recombination protein

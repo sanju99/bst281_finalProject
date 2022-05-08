@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-TRAF	PF02176.21	CL0389	102	156	102	156	1	60	61.31	1.1e-16	2.3e-20	TRAF-type zinc finger
+zf-TRAF	PF02176.21	CL0389	156	210	156	210	1	60	37.23	3.8e-09	7.7e-13	TRAF-type zinc finger
+zf-TRAF	PF02176.21	CL0389	210	269	210	269	1	60	76.05	2.9e-21	5.8e-25	TRAF-type zinc finger
+zf-C3HC4	PF00097.28	CL0229	18	56	18	55	1	39	31.37	1.4e-07	2.9e-11	Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_2	PF13923.9	CL0229	17	56	18	55	2	38	27.62	2.0e-06	4.1e-10	Zinc finger, C3HC4 type (RING finger)
+zf-RING_UBOX	PF13445.9	CL0229	18	55	18	55	1	40	24.75	1.9e-05	3.8e-09	RING-type zinc-finger

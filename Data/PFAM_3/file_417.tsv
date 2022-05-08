@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TBK1_CCD1	PF18394.4	-	400	646	400	645	1	255	273.06	2.6e-81	7.8e-85	TANK-binding kinase 1 coiled-coil domain 1
+Pkinase	PF00069.28	CL0016	9	301	10	223	2	199	157.32	5.0e-46	1.5e-49	Protein kinase domain
+TBK1_ULD	PF18396.4	CL0072	308	393	308	392	1	87	107.59	2.4e-31	7.3e-35	TANK binding kinase 1 ubiquitin-like domain
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	9	247	12	221	4	206	96.55	1.6e-27	4.9e-31	Protein tyrosine and serine/threonine kinase
+ABC1	PF03109.19	CL0016	61	177	79	169	140	222	24.77	1.1e-05	3.5e-09	ABC1 atypical kinase-like domain

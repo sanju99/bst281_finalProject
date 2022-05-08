@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ATP-gua_Ptrans	PF00217.22	CL0286	153	367	154	366	2	211	282.05	2.6e-84	2.6e-88	ATP:guanido phosphotransferase, C-terminal catalytic domain
+ATP-gua_PtransN	PF02807.18	-	24	94	24	94	1	67	106.62	6.8e-31	6.9e-35	ATP:guanido phosphotransferase, N-terminal domain

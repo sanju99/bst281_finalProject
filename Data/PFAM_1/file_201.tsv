@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+tRNA-synt_2d	PF01409.23	CL0040	209	488	210	483	2	241	305.15	3.6e-91	1.1e-94	tRNA synthetases class II core domain (F)
+PheRS_DBD1	PF18552.4	CL0123	2	61	3	61	2	59	84.00	4.8e-24	1.5e-27	PheRS DNA binding domain 1
+PheRS_DBD3	PF18553.4	CL0123	75	132	75	131	1	59	71.77	4.5e-20	1.4e-23	PheRS DNA binding domain 3
+PheRS_DBD2	PF18554.4	CL0123	134	166	134	165	1	32	37.84	1.4e-09	4.2e-13	PheRS DNA binding domain 2

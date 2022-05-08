@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Fer4	PF00037.30	CL0344	107	127	108	127	5	24	23.53	3.6e-05	1.8e-08	4Fe-4S binding domain
+Fer4	PF00037.30	CL0344	143	166	144	165	2	23	34.03	1.7e-08	8.7e-12	4Fe-4S binding domain
+Fer4_7	PF12838.10	CL0344	110	164	110	164	1	52	47.64	2.0e-12	1.0e-15	4Fe-4S dicluster domain
+Fer4_10	PF13237.9	CL0344	106	161	108	161	6	56	26.44	5.8e-06	2.9e-09	4Fe-4S dicluster domain
+Fer4_9	PF13187.9	CL0344	110	165	110	165	1	52	32.67	6.8e-08	3.5e-11	4Fe-4S dicluster domain
+Fer4_4	PF12800.10	CL0344	108	129	109	123	2	16	20.24	0.00059	3.0e-07	4Fe-4S binding domain

@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SH2_2	PF14633.9	CL0541	1300	1514	1300	1514	1	215	275.79	2.1e-82	9.7e-86	SH2 domain
+YqgF	PF14639.9	CL0580	775	931	775	931	1	150	237.03	6.9e-71	3.2e-74	Holliday-junction resolvase-like of SPT6
+HHH_7	PF14635.9	CL0198	935	1038	935	1038	1	104	175.70	2.5e-52	1.2e-55	Helix-hairpin-helix motif
+HTH_44	PF14641.9	-	305	433	307	422	3	114	92.51	2.6e-26	1.2e-29	Helix-turn-helix DNA-binding domain of SPT6
+SPT6_acidic	PF14632.9	-	37	127	38	127	2	89	48.90	6.9e-13	3.1e-16	Acidic N-terminal SPT6
+HHH_3	PF12836.10	CL0198	966	1036	966	1035	1	64	30.17	4.3e-07	2.0e-10	Helix-hairpin-helix motif
+S1	PF00575.26	CL0021	1224	1282	1227	1282	19	75	28.26	1.9e-06	8.6e-10	S1 RNA binding domain
+HHH_9	PF17674.4	CL0198	1051	1138	1051	1138	1	70	24.44	4.4e-05	2.0e-08	HHH domain
+SH2	PF00017.27	CL0541	1334	1415	1336	1415	4	77	23.58	4.5e-05	2.1e-08	SH2 domain

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PI31_Prot_N	PF11566.11	-	11	149	13	148	3	162	84.11	9.3e-24	9.5e-28	PI31 proteasome regulator N-terminal
+PI31_Prot_C	PF08577.14	-	157	248	177	248	14	79	34.51	3.9e-08	4.0e-12	PI31 proteasome regulator

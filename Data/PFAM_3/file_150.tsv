@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HAT_KAT11	PF08214.14	CL0257	1342	1649	1342	1640	1	342	232.14	1.2e-68	4.2e-72	Histone acetylation protein
+KIX	PF02172.19	CL0589	587	667	588	667	2	81	131.74	9.1e-39	3.2e-42	KIX domain
+Creb_binding	PF09030.13	-	2013	2114	2014	2113	2	110	114.15	4.9e-33	1.8e-36	Creb binding
+zf-TAZ	PF02135.19	-	354	430	354	430	1	72	72.15	4.1e-20	1.4e-23	TAZ zinc finger
+zf-TAZ	PF02135.19	-	1772	1843	1772	1843	1	72	48.09	1.3e-12	4.7e-16	TAZ zinc finger
+RING_CBP-p300	PF06001.16	-	1192	1231	1192	1231	1	40	81.64	3.8e-23	1.3e-26	CREB-binding protein/p300, atypical RING domain
+Bromodomain	PF00439.28	-	1094	1180	1104	1177	10	81	59.08	3.8e-16	1.3e-19	Bromodomain
+ZZ	PF00569.20	CL0006	1701	1742	1702	1742	2	45	55.84	3.1e-15	1.1e-18	Zinc finger, ZZ type

@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cast	PF10174.12	-	154	466	154	461	1	312	464.25	8.2e-139	8.3e-143	RIM-binding protein of the cytomatrix active zone
+Cast	PF10174.12	-	453	833	457	829	280	652	531.21	4.6e-159	4.7e-163	RIM-binding protein of the cytomatrix active zone
+Cast	PF10174.12	-	829	982	834	982	626	762	192.65	1.1e-56	1.1e-60	RIM-binding protein of the cytomatrix active zone
+RBD-FIP	PF09457.13	-	1068	1108	1068	1107	1	40	55.57	4.0e-15	4.1e-19	FIP domain

@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Pyr_redox_2	PF07992.17	CL0063	163	500	163	500	1	295	185.92	1.0e-54	3.1e-58	Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_dim	PF02852.25	CL0608	520	633	520	631	1	108	98.79	2.3e-28	7.0e-32	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+Pyr_redox	PF00070.30	CL0063	342	420	342	412	1	72	57.75	1.3e-15	4.1e-19	Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_3	PF13738.9	CL0063	291	483	298	483	119	305	42.79	4.2e-11	1.3e-14	Pyridine nucleotide-disulphide oxidoreductase
+FAD_binding_2	PF00890.27	CL0063	164	219	164	210	1	47	29.01	6.0e-07	1.8e-10	FAD binding domain
+Glutaredoxin	PF00462.27	CL0172	68	130	68	128	1	58	27.33	3.3e-06	1.0e-09	Glutaredoxin

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cyclin_N	PF00134.26	CL0065	173	298	173	297	1	126	144.93	1.1e-42	1.1e-46	Cyclin, N-terminal domain
+Cyclin_C	PF02984.22	CL0065	300	418	300	417	1	118	124.02	3.5e-36	3.6e-40	Cyclin, C-terminal domain

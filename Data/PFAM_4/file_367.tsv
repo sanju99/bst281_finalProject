@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CHORD	PF04968.15	-	3	64	4	64	2	62	102.23	1.8e-29	1.8e-33	CHORD
+CHORD	PF04968.15	-	155	216	156	216	2	62	89.53	1.6e-25	1.6e-29	CHORD
+CS	PF04969.19	CL0190	230	306	230	306	1	77	54.78	1.6e-14	1.7e-18	CS domain

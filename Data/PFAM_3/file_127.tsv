@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SMC_N	PF02463.22	CL0023	2	682	2	671	1	145	130.11	8.5e-38	1.7e-41	RecF/RecN/SMC N terminal domain
+SMC_N	PF02463.22	CL0023	721	1167	862	1163	68	215	88.23	5.5e-25	1.1e-28	RecF/RecN/SMC N terminal domain
+SMC_hinge	PF06470.16	-	519	640	522	640	4	117	81.14	7.8e-23	1.6e-26	SMC proteins Flexible Hinge Domain
+AAA_15	PF13175.9	CL0023	1	500	1	475	1	284	45.38	8.7e-12	1.8e-15	AAA ATPase domain

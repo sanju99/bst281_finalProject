@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+V-ATPase_H_N	PF03224.17	CL0020	17	342	19	342	3	315	343.25	1.5e-102	3.1e-106	V-ATPase subunit H
+V-ATPase_H_C	PF11698.11	CL0020	348	464	349	464	2	117	156.25	3.5e-46	7.1e-50	V-ATPase subunit H

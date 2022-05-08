@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+IMPDH	PF00478.28	CL0036	29	504	29	504	1	345	471.41	1.6e-141	4.1e-145	IMP dehydrogenase / GMP reductase domain
+NMO	PF03060.18	CL0036	221	415	299	398	138	233	33.28	3.7e-08	9.4e-12	Nitronate monooxygenase
+CBS	PF00571.31	-	107	166	116	163	7	51	19.70	0.00095	2.4e-07	CBS domain
+CBS	PF00571.31	-	175	232	176	227	2	51	28.74	1.4e-06	3.6e-10	CBS domain
+FMN_dh	PF01070.21	CL0036	196	403	274	396	195	309	39.48	3.7e-10	9.5e-14	FMN-dependent dehydrogenase

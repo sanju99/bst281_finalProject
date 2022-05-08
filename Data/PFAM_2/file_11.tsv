@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Syntaxin_2	PF14523.9	CL0445	29	132	30	131	2	100	101.23	3.6e-29	5.6e-33	Syntaxin-like protein
+SNARE	PF05739.22	-	214	266	215	265	2	52	71.91	3.4e-20	5.1e-24	SNARE domain
+Syntaxin	PF00804.28	CL0445	21	213	24	213	4	199	47.98	1.3e-12	2.0e-16	Syntaxin

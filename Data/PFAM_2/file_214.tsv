@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Methyltransf_25	PF13649.9	CL0063	92	189	92	189	1	97	34.03	3.8e-08	7.7e-12	Methyltransferase domain
+PrmA	PF06325.16	CL0063	79	179	88	162	161	232	32.19	7.9e-08	1.6e-11	Ribosomal protein L11 methyltransferase (PrmA)
+Methyltransf_11	PF08241.15	CL0063	93	192	93	191	1	94	30.10	6.2e-07	1.3e-10	Methyltransferase domain
+MTS	PF05175.17	CL0063	78	162	88	161	31	104	23.03	5.3e-05	1.1e-08	Methyltransferase small domain

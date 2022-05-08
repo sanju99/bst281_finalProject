@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+C2	PF00168.33	CL0154	757	867	758	867	2	103	66.82	1.8e-18	2.8e-22	C2 domain
+C2	PF00168.33	CL0154	1551	1658	1551	1658	1	103	60.86	1.3e-16	2.0e-20	C2 domain
+PDZ	PF00595.27	CL0466	605	689	606	687	2	81	38.01	1.7e-09	2.6e-13	PDZ domain
+FYVE_2	PF02318.19	CL0390	72	182	105	180	45	115	29.11	9.7e-07	1.5e-10	FYVE-type zinc finger

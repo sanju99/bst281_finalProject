@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Spb1_C	PF07780.15	-	602	840	626	839	19	218	241.21	9.7e-72	1.5e-75	Spb1 C-terminal domain
+FtsJ	PF01728.22	CL0063	24	200	24	200	1	177	188.74	1.0e-55	1.6e-59	FtsJ-like methyltransferase
+DUF3381	PF11861.11	-	231	400	232	400	2	167	163.17	5.0e-48	7.6e-52	Domain of unknown function (DUF3381)

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Sterol-sensing	PF12349.11	CL0322	308	457	308	452	1	145	164.66	1.5e-48	3.0e-52	Sterol-sensing domain of SREBP cleavage-activation
+Patched	PF02460.21	CL0322	277	500	289	453	229	392	70.87	7.0e-20	1.4e-23	Patched family
+WD40	PF00400.35	CL0186	1109	1146	1110	1146	2	38	18.67	0.0026	5.3e-07	WD domain, G-beta repeat

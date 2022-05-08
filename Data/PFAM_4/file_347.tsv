@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Surp	PF01805.23	-	785	837	787	836	3	52	39.47	4.6e-10	4.6e-14	Surp module
+G-patch	PF01585.26	CL0449	1011	1055	1012	1054	2	44	53.44	1.8e-14	1.9e-18	G-patch domain

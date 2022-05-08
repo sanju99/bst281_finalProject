@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+BAG	PF02179.19	-	425	497	425	497	1	78	65.75	4.5e-18	4.6e-22	BAG domain
+WW	PF00397.29	CL0680	22	52	22	52	1	31	37.02	2.8e-09	2.8e-13	WW domain

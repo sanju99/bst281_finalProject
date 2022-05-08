@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+bZIP_1	PF00170.24	CL0018	276	339	276	337	1	62	62.67	2.8e-17	2.9e-21	bZIP transcription factor
+bZIP_2	PF07716.18	CL0018	276	330	279	330	4	54	30.49	3.1e-07	3.1e-11	Basic region leucine zipper

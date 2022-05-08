@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Arm	PF00514.26	CL0020	397	437	397	436	1	40	25.48	1.0e-05	1.1e-09	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	440	481	440	481	1	41	34.02	2.1e-08	2.2e-12	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	701	739	703	738	5	40	23.25	5.2e-05	5.3e-09	Armadillo/beta-catenin-like repeat

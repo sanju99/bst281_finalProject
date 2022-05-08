@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SCO1-SenC	PF02630.17	CL0172	137	273	137	273	1	134	162.57	5.2e-48	5.3e-52	SCO1/SenC
+AhpC-TSA	PF00578.24	CL0172	134	266	140	260	8	117	28.84	9.9e-07	1.0e-10	AhpC/TSA family

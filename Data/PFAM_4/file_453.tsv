@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+S1	PF00575.26	CL0021	449	522	451	521	3	74	41.57	1.3e-10	2.7e-14	S1 RNA binding domain
+S1	PF00575.26	CL0021	540	611	547	610	10	74	42.32	7.7e-11	1.6e-14	S1 RNA binding domain
+S1	PF00575.26	CL0021	726	798	734	798	10	75	31.62	1.7e-07	3.4e-11	S1 RNA binding domain
+S1	PF00575.26	CL0021	1032	1100	1035	1096	4	64	31.37	2.0e-07	4.1e-11	S1 RNA binding domain
+Suf	PF05843.17	CL0020	1725	1870	1727	1868	3	143	42.78	6.9e-11	1.4e-14	Suppressor of forked protein (Suf)

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HIN	PF02760.18	CL0021	201	369	201	369	1	168	243.44	1.0e-72	1.1e-76	HIN-200/IF120x domain
+HIN	PF02760.18	CL0021	574	740	575	740	2	168	242.50	2.0e-72	2.1e-76	HIN-200/IF120x domain
+PYRIN	PF02758.19	CL0041	8	80	10	80	2	75	51.81	7.2e-14	7.4e-18	PAAD/DAPIN/Pyrin domain

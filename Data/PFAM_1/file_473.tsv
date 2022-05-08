@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CPSase_L_D2	PF02786.20	CL0179	176	385	176	384	1	210	287.74	4.8e-86	2.2e-89	Carbamoyl-phosphate synthase L chain, ATP binding domain
+Biotin_carb_N	PF00289.25	CL0483	62	171	63	171	2	110	154.38	1.5e-45	6.9e-49	Biotin carboxylase, N-terminal domain
+Biotin_carb_C	PF02785.22	CL0105	397	506	397	505	1	107	122.96	5.9e-36	2.7e-39	Biotin carboxylase C-terminal domain
+PCC_BT	PF18140.4	-	525	653	525	653	1	127	109.06	2.0e-31	9.0e-35	Propionyl-coenzyme A carboxylase BT domain
+Biotin_lipoyl	PF00364.25	CL0105	660	727	662	727	3	73	74.09	6.5e-21	3.0e-24	Biotin-requiring enzyme
+Dala_Dala_lig_C	PF07478.16	CL0179	196	354	203	352	26	174	35.45	7.7e-09	3.5e-12	D-ala D-ala ligase C-terminus
+RimK	PF08443.14	CL0179	174	377	176	375	3	186	22.90	5.8e-05	2.6e-08	RimK-like ATP-grasp domain

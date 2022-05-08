@@ -1,0 +1,15 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ldl_recept_a	PF00057.21	-	45	81	45	81	1	37	37.29	2.5e-09	6.5e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	84	122	84	122	1	37	41.11	1.6e-10	4.2e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	125	163	127	163	3	37	33.88	3.0e-08	7.5e-12	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	165	201	167	201	3	37	46.29	3.9e-12	1.0e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	204	245	205	243	2	35	39.24	6.2e-10	1.6e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	257	294	259	294	3	37	45.57	6.6e-12	1.7e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	297	333	298	333	2	37	42.02	8.5e-11	2.2e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_b	PF00058.20	CL0186	462	506	462	506	1	42	24.19	3.8e-05	9.7e-09	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	509	549	510	549	2	42	54.92	9.6e-15	2.5e-18	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	552	593	552	592	1	41	53.36	2.9e-14	7.5e-18	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	596	638	596	637	1	41	41.85	1.2e-10	3.0e-14	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	639	679	639	679	1	42	31.85	1.5e-07	3.9e-11	Low-density lipoprotein receptor repeat class B
+FXa_inhibition	PF14670.9	CL0001	340	374	340	374	1	36	34.36	2.3e-08	5.8e-12	Coagulation Factor Xa inhibitory site
+cEGF	PF12662.10	CL0001	357	379	357	379	1	24	28.67	1.0e-06	2.6e-10	Complement Clr-like EGF-like

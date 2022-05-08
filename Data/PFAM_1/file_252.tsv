@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DNA_pol_B	PF00136.24	CL0194	774	1227	775	1227	2	459	453.51	8.0e-136	1.6e-139	DNA polymerase family B
+DNA_pol_B_exo1	PF03104.22	CL0219	369	711	371	710	3	336	211.17	2.4e-62	4.9e-66	DNA polymerase family B, exonuclease domain
+zf-DNA_Pol	PF08996.13	-	1265	1455	1266	1455	2	186	184.62	1.5e-54	3.1e-58	DNA Polymerase alpha zinc finger
+DNA_pol_alpha_N	PF12254.11	-	35	96	35	96	1	66	62.13	4.2e-17	8.5e-21	DNA polymerase alpha subunit p180 N terminal

@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Acetyltransf_1	PF00583.28	CL0257	13	128	41	124	33	114	57.05	2.2e-15	4.4e-19	Acetyltransferase (GNAT) family
+Acetyltransf_10	PF13673.10	CL0257	15	151	43	148	33	125	36.88	3.3e-09	6.8e-13	Acetyltransferase (GNAT) domain
+Acetyltransf_7	PF13508.10	CL0257	29	129	43	123	6	74	33.05	5.9e-08	1.2e-11	Acetyltransferase (GNAT) domain
+FR47	PF08445.13	CL0257	56	137	68	131	20	80	31.01	2.0e-07	4.1e-11	FR47-like protein

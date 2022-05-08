@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ion_trans	PF00520.34	CL0030	130	423	130	422	1	243	277.38	9.0e-83	1.8e-86	Ion transport protein
+Ion_trans	PF00520.34	CL0030	716	948	718	943	3	238	180.91	2.6e-53	5.3e-57	Ion transport protein
+Ion_trans	PF00520.34	CL0030	1204	1481	1204	1479	1	243	217.75	1.5e-64	3.0e-68	Ion transport protein
+Ion_trans	PF00520.34	CL0030	1527	1783	1528	1782	2	244	180.31	3.9e-53	8.0e-57	Ion transport protein
+Na_trans_assoc	PF06512.16	-	953	1200	953	1200	1	199	219.96	4.0e-65	8.2e-69	Sodium ion transport-associated
+Na_trans_cytopl	PF11933.11	-	507	667	508	667	2	165	160.48	4.5e-47	9.1e-51	Cytoplasmic domain of voltage-gated Na+ ion channel
+PKD_channel	PF08016.15	CL0030	800	944	810	943	106	223	23.53	3.3e-05	6.6e-09	Polycystin cation channel

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Proteasome	PF00227.29	CL0052	40	221	41	221	2	190	169.76	5.1e-50	5.2e-54	Proteasome subunit
+Pr_beta_C	PF12465.11	-	235	271	235	271	1	36	55.51	2.8e-15	2.8e-19	Proteasome beta subunits C terminal

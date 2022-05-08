@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Y_phosphatase	PF00102.30	CL0031	273	520	273	519	1	234	267.97	7.7e-80	7.8e-84	Protein-tyrosine phosphatase
+SH2	PF00017.27	CL0541	6	81	6	81	1	77	84.56	4.2e-24	4.3e-28	SH2 domain
+SH2	PF00017.27	CL0541	112	197	112	197	1	77	85.87	1.7e-24	1.7e-28	SH2 domain

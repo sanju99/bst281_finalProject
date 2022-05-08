@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CSD	PF00313.25	CL0021	26	90	27	89	2	65	54.66	7.5e-15	1.5e-18	'Cold-shock' DNA-binding domain
+CSD	PF00313.25	CL0021	186	248	186	246	1	64	62.91	2.0e-17	4.1e-21	'Cold-shock' DNA-binding domain
+CSD	PF00313.25	CL0021	349	413	351	411	3	64	34.34	1.7e-08	3.4e-12	'Cold-shock' DNA-binding domain
+CSD	PF00313.25	CL0021	519	582	521	581	3	65	56.66	1.8e-15	3.7e-19	'Cold-shock' DNA-binding domain
+CSD	PF00313.25	CL0021	674	738	675	737	2	65	56.50	2.0e-15	4.1e-19	'Cold-shock' DNA-binding domain
+SUZ-C	PF12901.10	-	756	788	756	786	1	31	52.28	4.0e-14	8.2e-18	SUZ-C motif

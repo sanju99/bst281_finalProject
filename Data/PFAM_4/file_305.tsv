@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Myosin_head	PF00063.24	CL0023	87	768	88	768	2	677	984.64	2.3e-296	3.5e-300	Myosin head (motor domain)
+Myosin_tail_1	PF01576.22	-	845	1926	848	1925	4	1080	527.92	5.7e-158	8.7e-162	Myosin tail
+Myosin_N	PF02736.22	CL0010	32	76	32	76	1	45	56.05	2.5e-15	3.8e-19	Myosin N-terminal SH3-like domain

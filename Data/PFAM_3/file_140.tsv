@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RL	PF17797.4	CL0221	62	132	63	131	2	70	123.86	2.0e-36	2.1e-40	RL domain
+PAP_assoc	PF03828.22	-	436	484	440	483	5	62	24.09	3.4e-05	3.5e-09	Cid1 family poly A polymerase

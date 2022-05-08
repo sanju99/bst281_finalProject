@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNF2-rel_dom	PF00176.26	CL0023	226	577	241	577	46	318	217.96	1.6e-64	2.4e-68	SNF2-related domain
+Helicase_C	PF00271.34	CL0023	599	712	600	712	2	111	76.88	1.6e-21	2.4e-25	Helicase conserved C-terminal domain
+ResIII	PF04851.18	CL0023	221	387	239	385	22	169	28.75	1.2e-06	1.9e-10	Type III restriction enzyme, res subunit

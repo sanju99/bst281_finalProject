@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+KH_1	PF00013.32	CL0007	79	143	79	141	1	64	67.01	1.0e-18	2.1e-22	KH domain
+KH_1	PF00013.32	CL0007	164	230	165	230	2	66	58.92	3.4e-16	7.0e-20	KH domain
+KH_1	PF00013.32	CL0007	255	319	256	319	2	66	51.01	1.0e-13	2.1e-17	KH domain
+KH_1	PF00013.32	CL0007	356	423	358	423	3	66	59.25	2.7e-16	5.5e-20	KH domain
+KH_2	PF07650.20	CL0007	353	416	356	392	26	62	23.95	2.8e-05	5.8e-09	KH domain

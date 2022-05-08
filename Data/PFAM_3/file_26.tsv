@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TFIIB	PF00382.22	CL0065	110	201	112	200	3	91	97.51	3.7e-28	5.6e-32	Transcription factor TFIIB repeat
+TFIIB	PF00382.22	CL0065	204	295	206	293	3	90	94.27	3.8e-27	5.8e-31	Transcription factor TFIIB repeat
+TF_Zn_Ribbon	PF08271.15	CL0167	13	55	14	55	2	43	51.79	4.6e-14	7.0e-18	TFIIB zinc-binding
+Cyclin_N	PF00134.26	CL0065	92	207	102	203	21	123	28.53	1.1e-06	1.7e-10	Cyclin, N-terminal domain

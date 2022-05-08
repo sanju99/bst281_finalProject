@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+pKID	PF02173.20	-	99	139	99	139	1	41	74.59	3.3e-21	5.0e-25	pKID domain
+bZIP_1	PF00170.24	CL0018	267	326	267	322	1	56	67.23	1.1e-18	1.6e-22	bZIP transcription factor
+bZIP_2	PF07716.18	CL0018	267	320	273	319	7	52	29.57	6.0e-07	9.1e-11	Basic region leucine zipper

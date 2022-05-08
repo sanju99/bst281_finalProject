@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Nop	PF01798.21	-	174	407	174	405	1	230	276.59	1.6e-82	1.6e-86	snoRNA binding domain, fibrillarin
+NOP5NT	PF08156.16	-	5	70	5	70	1	64	62.91	2.9e-17	2.9e-21	NOP5NT (NUC127) domain

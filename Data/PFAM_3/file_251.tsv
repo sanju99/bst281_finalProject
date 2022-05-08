@@ -1,0 +1,16 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ran_BP1	PF00638.21	CL0266	1183	1304	1183	1303	1	121	187.80	7.4e-56	1.9e-59	RanBP1 domain
+Ran_BP1	PF00638.21	CL0266	2024	2145	2024	2144	1	121	186.02	2.6e-55	6.7e-59	RanBP1 domain
+Ran_BP1	PF00638.21	CL0266	2321	2442	2321	2441	1	121	184.57	7.4e-55	1.9e-58	RanBP1 domain
+Ran_BP1	PF00638.21	CL0266	2922	3043	2922	3042	1	121	192.96	1.9e-57	4.8e-61	RanBP1 domain
+zf-RanBP	PF00641.21	CL0167	1351	1381	1351	1381	1	30	29.61	3.3e-07	8.5e-11	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1415	1444	1415	1443	1	29	37.68	1.0e-09	2.5e-13	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1479	1508	1479	1508	1	30	42.70	2.7e-11	6.9e-15	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1543	1572	1543	1571	1	29	41.89	4.8e-11	1.2e-14	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1606	1635	1606	1635	1	30	44.39	8.0e-12	2.0e-15	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1665	1694	1665	1694	1	30	44.39	8.0e-12	2.0e-15	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1724	1753	1724	1753	1	30	37.49	1.1e-09	2.9e-13	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	1781	1810	1781	1809	1	29	42.87	2.4e-11	6.1e-15	Zn-finger in Ran binding protein and others
+IR1-M	PF12185.11	-	2631	2693	2631	2691	1	58	81.16	4.0e-23	1.0e-26	Nup358/RanBP2 E3 ligase domain
+IR1-M	PF12185.11	-	2709	2769	2709	2768	1	59	94.91	2.0e-27	5.2e-31	Nup358/RanBP2 E3 ligase domain
+Pro_isomerase	PF00160.24	CL0475	3067	3223	3077	3222	9	157	139.87	8.9e-41	2.3e-44	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD

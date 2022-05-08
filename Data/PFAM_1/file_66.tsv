@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RRM_7	PF16367.8	CL0221	471	560	471	560	1	97	118.60	1.0e-34	1.6e-38	RNA recognition motif
+CEBP_ZZ	PF16366.8	-	653	716	653	715	1	57	74.92	4.5e-21	6.9e-25	Cytoplasmic polyadenylation element-binding protein ZZ domain
+RRM_1	PF00076.25	CL0221	474	539	474	535	1	59	31.27	1.5e-07	2.3e-11	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

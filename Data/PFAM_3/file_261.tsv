@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+VHS	PF00790.22	CL0009	3	139	7	139	6	141	161.38	1.3e-47	1.9e-51	VHS domain
+Hrs_helical	PF12210.11	-	407	501	407	501	1	95	123.63	3.7e-36	5.6e-40	Hepatocyte growth factor-regulated tyrosine kinase substrate
+FYVE	PF01363.24	CL0390	158	221	162	220	8	68	63.59	1.5e-17	2.3e-21	FYVE zinc finger

@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DNA_topoisoIV	PF00521.23	-	713	1172	713	1171	1	425	440.31	7.6e-132	2.3e-135	DNA gyrase/topoisomerase IV, subunit A
+TOPRIM_C	PF16898.8	-	573	711	573	711	1	128	171.31	1.0e-50	3.1e-54	C-terminal associated domain of TOPRIM
+DNA_gyraseB	PF00204.28	CL0329	266	430	266	426	1	169	97.44	6.7e-28	2.0e-31	DNA gyrase B
+DTHCT	PF08070.14	-	1430	1522	1435	1522	1	102	76.06	3.4e-21	1.0e-24	DTHCT (NUC029) region
+HATPase_c	PF02518.29	CL0025	76	225	79	224	4	111	59.19	5.5e-16	1.7e-19	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Toprim	PF01751.25	CL0413	456	572	456	558	1	89	36.86	3.7e-09	1.1e-12	Toprim domain

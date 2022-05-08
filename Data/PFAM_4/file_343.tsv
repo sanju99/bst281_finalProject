@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+NGP1NT	PF08153.15	-	43	174	43	174	1	131	165.35	7.4e-49	7.5e-53	NGP1NT (NUC091) domain
+MMR_HSR1	PF01926.26	CL0023	312	428	313	399	2	84	48.71	7.5e-13	7.6e-17	50S ribosome-binding GTPase

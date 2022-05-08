@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF4939	PF16297.8	CL0523	58	165	76	158	21	103	57.44	1.2e-15	2.5e-19	Domain of unknown function (DUF4939)
+Retrotrans_gag	PF03732.20	CL0523	119	212	120	211	2	95	54.72	9.9e-15	2.0e-18	Retrotransposon gag protein
+Ty3_capsid	PF19259.2	CL0523	76	240	84	223	15	157	40.94	1.5e-10	3.1e-14	Ty3 transposon capsid-like protein
+RVP_2	PF08284.14	CL0129	360	470	366	467	34	132	20.85	0.00028	5.6e-08	Retroviral aspartyl protease

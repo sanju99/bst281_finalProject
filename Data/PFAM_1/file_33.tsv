@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PRMT5_TIM	PF17285.5	CL0036	37	290	37	290	1	256	256.90	1.8e-76	2.7e-80	PRMT5 TIM barrel domain
+PRMT5	PF05185.19	CL0063	295	464	297	464	3	173	242.93	1.8e-72	2.7e-76	PRMT5 arginine-N-methyltransferase
+PRMT5_C	PF17286.5	-	467	635	467	635	1	177	200.72	1.8e-59	2.7e-63	PRMT5 oligomerisation domain

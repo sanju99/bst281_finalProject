@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Transferrin	PF00405.20	CL0177	25	347	25	347	1	329	580.10	1.3e-174	1.4e-178	Transferrin
+Transferrin	PF00405.20	CL0177	361	683	361	683	1	329	309.69	2.5e-92	2.6e-96	Transferrin

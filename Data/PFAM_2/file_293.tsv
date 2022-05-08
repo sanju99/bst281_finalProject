@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HECT	PF00632.28	CL0552	2491	2792	2494	2791	11	305	221.32	2.1e-65	3.2e-69	HECT-domain (ubiquitin-transferase)
+E3_UbLigase_EDD	PF11547.11	CL0214	179	230	180	230	2	52	99.52	6.6e-29	1.0e-32	E3 ubiquitin ligase EDD
+PABP	PF00658.21	-	2380	2443	2385	2443	8	66	74.48	5.7e-21	8.6e-25	Poly-adenylate binding protein, unique domain

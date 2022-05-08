@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UCH	PF00443.32	CL0125	777	1106	777	1106	1	278	295.78	3.7e-88	7.5e-92	Ubiquitin carboxyl-terminal hydrolase
+USP8_dimer	PF08969.14	-	6	116	8	115	3	113	113.81	4.9e-33	1.0e-36	USP8 dimerisation domain
+UCH_1	PF13423.9	CL0125	777	1088	778	1088	2	322	59.28	5.3e-16	1.1e-19	Ubiquitin carboxyl-terminal hydrolase
+Rhodanese	PF00581.23	CL0031	184	307	184	305	1	105	26.48	7.8e-06	1.6e-09	Rhodanese-like domain

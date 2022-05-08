@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+S1	PF00575.26	CL0021	78	161	78	160	1	74	73.90	1.1e-20	1.1e-24	S1 RNA binding domain
+SHS2_Rpb7-N	PF03876.20	CL0319	8	64	11	64	4	57	40.43	2.8e-10	2.9e-14	SHS2 domain found in N terminus of Rpb7p/Rpc25p/MJ0397

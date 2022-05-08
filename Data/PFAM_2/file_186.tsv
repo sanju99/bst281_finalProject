@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Pribosyltran_N	PF13793.9	CL0533	4	120	4	120	1	116	158.44	6.3e-47	9.6e-51	N-terminal domain of ribose phosphate pyrophosphokinase
+Pribosyl_synth	PF14572.9	CL0533	199	314	204	313	74	183	127.14	7.7e-37	1.2e-40	Phosphoribosyl synthetase-associated domain
+Pribosyltran	PF00156.30	CL0533	142	261	151	246	18	120	54.16	1.2e-14	1.8e-18	Phosphoribosyl transferase domain

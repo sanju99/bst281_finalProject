@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA	PF00004.32	CL0023	390	523	390	522	1	131	147.50	3.1e-43	2.3e-46	ATPase family associated with various cellular activities (AAA)
+AAA	PF00004.32	CL0023	664	796	664	796	1	132	148.69	1.3e-43	1.0e-46	ATPase family associated with various cellular activities (AAA)
+AAA_lid_3	PF17862.4	CL0671	547	603	549	581	4	36	34.50	1.5e-08	1.1e-11	AAA+ lid domain
+AAA_lid_3	PF17862.4	CL0671	818	864	819	862	2	43	49.18	3.8e-13	2.9e-16	AAA+ lid domain
+RuvB_N	PF05496.15	CL0023	385	519	390	464	36	102	31.08	1.9e-07	1.5e-10	Holliday junction DNA helicase RuvB P-loop domain

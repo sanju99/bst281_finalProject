@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PTB	PF08416.16	CL0266	1584	1720	1584	1719	1	130	121.18	3.2e-35	4.9e-39	Phosphotyrosine-binding domain
+PTEN_C2	PF10409.12	CL0154	179	306	179	305	1	134	109.04	1.5e-31	2.3e-35	C2 domain of PTEN tumour-suppressor protein
+SH2	PF00017.27	CL0541	1450	1543	1450	1543	1	77	36.39	4.6e-09	7.0e-13	SH2 domain

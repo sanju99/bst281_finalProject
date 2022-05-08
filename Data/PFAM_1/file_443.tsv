@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA	PF00004.32	CL0023	595	733	595	726	1	124	53.81	2.8e-14	2.3e-17	ATPase family associated with various cellular activities (AAA)
+AAA	PF00004.32	CL0023	877	1007	877	1005	1	130	141.75	1.8e-41	1.5e-44	ATPase family associated with various cellular activities (AAA)
+PEX-2N	PF09263.13	CL0332	17	98	17	98	1	83	129.34	5.0e-38	4.1e-41	Peroxisome biogenesis factor 1, N-terminal
+PEX-1N	PF09262.14	CL0402	104	179	104	179	1	77	87.70	5.3e-25	4.3e-28	Peroxisome biogenesis factor 1, N-terminal
+AAA_lid_3	PF17862.4	CL0671	1029	1077	1029	1061	1	33	30.36	2.9e-07	2.3e-10	AAA+ lid domain

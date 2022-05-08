@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Adaptin_N	PF01602.23	CL0020	29	590	31	587	3	521	488.47	2.5e-146	5.0e-150	Adaptin N terminal region
+Alpha_adaptin_C	PF02296.19	CL0545	826	934	826	934	1	113	149.37	4.5e-44	9.1e-48	Alpha adaptin AP2, C-terminal domain
+Alpha_adaptinC2	PF02883.23	CL0159	713	821	713	817	1	106	75.97	2.9e-21	5.9e-25	Adaptin C-terminal domain
+Cnd1	PF12717.10	CL0020	128	318	130	251	5	122	30.89	2.7e-07	5.5e-11	non-SMC mitotic condensation complex subunit 1

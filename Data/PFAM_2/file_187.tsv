@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_L26	PF16906.8	CL0107	8	122	8	122	1	82	144.34	1.2e-42	1.2e-46	Ribosomal proteins L26 eukaryotic, L24P archaeal
+KOW	PF00467.32	CL0107	51	97	51	83	1	32	31.67	1.1e-07	1.1e-11	KOW motif

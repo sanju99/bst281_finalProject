@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PAS_3	PF08447.15	CL0183	297	383	299	382	3	88	50.41	2.2e-13	4.5e-17	PAS fold
+PAS	PF00989.28	CL0183	113	227	114	226	2	112	56.51	2.6e-15	5.4e-19	PAS fold
+PAS_11	PF14598.9	CL0183	285	391	287	384	4	106	35.00	1.3e-08	2.7e-12	PAS domain
+HLH	PF00010.29	-	35	80	37	78	10	51	26.03	7.2e-06	1.5e-09	Helix-loop-helix DNA-binding domain

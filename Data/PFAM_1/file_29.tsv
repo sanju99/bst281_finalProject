@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Tubulin	PF00091.28	CL0566	3	214	3	213	1	196	232.61	4.9e-69	5.0e-73	Tubulin/FtsZ family, GTPase domain
+Tubulin_C	PF03953.20	CL0442	263	393	263	392	1	125	176.93	1.8e-52	1.8e-56	Tubulin C-terminal domain

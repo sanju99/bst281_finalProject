@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MMR_HSR1	PF01926.26	CL0023	115	237	115	237	1	114	73.26	1.8e-20	5.5e-24	50S ribosome-binding GTPase
+AIG1	PF04548.19	CL0023	114	245	114	206	1	93	36.26	4.0e-09	1.2e-12	AIG1 family
+FeoB_N	PF02421.21	CL0023	114	260	115	250	2	127	33.56	2.8e-08	8.6e-12	Ferrous iron transport protein B

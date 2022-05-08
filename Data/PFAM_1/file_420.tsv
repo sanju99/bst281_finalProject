@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ACC_central	PF08326.15	-	962	1688	962	1688	1	726	911.96	2.9e-274	8.7e-278	Acetyl-CoA carboxylase, central region
+Carboxyl_trans	PF01039.25	CL0127	1780	2334	1780	2333	1	493	625.31	7.4e-188	2.3e-191	Carboxyl transferase domain
+CPSase_L_D2	PF02786.20	CL0179	417	616	431	614	21	209	165.99	8.8e-49	2.7e-52	Carbamoyl-phosphate synthase L chain, ATP binding domain
+Biotin_carb_N	PF00289.25	CL0483	259	379	260	379	2	110	108.15	3.4e-31	1.1e-34	Biotin carboxylase, N-terminal domain
+Biotin_carb_C	PF02785.22	CL0105	650	758	651	757	2	107	79.46	2.0e-22	6.0e-26	Biotin carboxylase C-terminal domain
+Biotin_lipoyl	PF00364.25	CL0105	895	961	896	961	2	73	56.37	2.2e-15	6.7e-19	Biotin-requiring enzyme

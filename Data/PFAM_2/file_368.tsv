@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	613	877	614	876	2	258	162.51	1.2e-47	2.5e-51	Protein tyrosine and serine/threonine kinase
+Pkinase	PF00069.28	CL0016	613	878	615	874	3	259	127.96	4.6e-37	9.3e-41	Protein kinase domain
+SAM_KSR1_N	PF20406.1	-	41	94	41	91	1	51	75.75	1.5e-21	3.0e-25	Kinase suppressor RAS 1 N-terminal helical hairpin
+SAM_KSR1	PF13543.9	CL0003	100	168	102	168	3	70	46.75	2.7e-12	5.6e-16	SAM like domain present in kinase suppressor RAS 1

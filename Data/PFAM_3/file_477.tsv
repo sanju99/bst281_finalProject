@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNF2-rel_dom	PF00176.26	CL0023	307	987	307	987	1	318	387.42	4.2e-116	6.4e-120	SNF2-related domain
+Linker_histone	PF00538.22	CL0123	439	511	440	510	2	73	63.63	1.7e-17	2.6e-21	linker histone H1 and H5 family
+Helicase_C	PF00271.34	CL0023	1510	1622	1514	1622	5	111	31.59	1.8e-07	2.8e-11	Helicase conserved C-terminal domain

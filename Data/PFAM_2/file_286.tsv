@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PDZ	PF00595.27	CL0466	33	117	34	115	2	80	56.83	2.3e-15	7.0e-19	PDZ domain
+PDZ	PF00595.27	CL0466	298	382	315	382	8	82	51.62	9.7e-14	2.9e-17	PDZ domain
+PDZ	PF00595.27	CL0466	510	589	516	580	6	75	45.56	7.5e-12	2.3e-15	PDZ domain
+PDZ_6	PF17820.4	CL0466	65	118	65	117	1	53	28.24	1.4e-06	4.2e-10	PDZ domain
+PDZ_6	PF17820.4	CL0466	328	383	329	383	2	54	27.40	2.5e-06	7.7e-10	PDZ domain
+Guanylate_kin	PF00625.24	CL0023	767	878	776	877	83	181	43.10	3.9e-11	1.2e-14	Guanylate kinase
+SH3_2	PF07653.20	CL0010	608	667	608	667	1	57	29.18	6.6e-07	2.0e-10	Variant SH3 domain

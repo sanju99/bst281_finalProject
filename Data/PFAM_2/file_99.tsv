@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNF2-rel_dom	PF00176.26	CL0023	243	722	243	721	1	317	279.89	2.2e-83	8.0e-87	SNF2-related domain
+HIRAN	PF08797.14	-	60	154	61	152	2	93	69.00	2.7e-19	9.7e-23	HIRAN domain
+Helicase_C	PF00271.34	CL0023	833	950	834	950	2	111	47.39	2.3e-12	8.0e-16	Helicase conserved C-terminal domain
+zf-C3HC4_2	PF13923.9	CL0229	759	800	759	800	1	40	30.53	2.5e-07	8.9e-11	Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_3	PF13920.9	CL0229	756	806	757	805	2	48	29.02	7.5e-07	2.7e-10	Zinc finger, C3HC4 type (RING finger)
+zf-RING_UBOX	PF13445.9	CL0229	760	798	760	798	1	40	26.90	4.0e-06	1.4e-09	RING-type zinc-finger
+zf-C3HC4	PF00097.28	CL0229	760	800	760	800	1	41	26.44	4.9e-06	1.8e-09	Zinc finger, C3HC4 type (RING finger)

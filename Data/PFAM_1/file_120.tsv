@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DBC1	PF14443.9	-	479	604	479	601	1	120	168.27	7.1e-50	1.8e-53	DBC1
+S1-like	PF14444.9	CL0021	147	204	147	204	1	58	118.45	1.0e-34	2.7e-38	S1-like
+LAIKA	PF19256.2	-	723	790	723	790	1	68	99.93	5.4e-29	1.4e-32	LAIKA domain
+BURAN	PF19257.2	-	372	454	374	453	3	87	73.61	1.8e-20	4.5e-24	BURAN domain
+SAP	PF02037.30	CL0306	636	670	637	669	2	34	36.69	2.7e-09	6.9e-13	SAP domain

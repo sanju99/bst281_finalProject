@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CAF1	PF04857.23	CL0219	3	390	4	390	2	323	297.96	9.7e-89	9.8e-93	CAF1 family ribonuclease
+RNA_bind	PF08675.14	CL0221	437	515	437	514	1	78	115.36	9.8e-34	1.0e-37	RNA binding domain

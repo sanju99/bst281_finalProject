@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Aconitase	PF00330.23	-	59	564	63	564	3	461	581.62	1.4e-174	1.4e-178	Aconitase family (aconitate hydratase)
+Aconitase_C	PF00694.22	CL0364	692	821	693	818	2	128	141.65	1.8e-41	1.8e-45	Aconitase C-terminal domain

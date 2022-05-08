@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_S4	PF00163.22	CL0492	8	107	11	107	5	93	46.77	4.0e-12	4.1e-16	Ribosomal protein S4/S9 N-terminal domain
+S4	PF01479.28	CL0492	108	154	108	151	1	44	42.52	4.2e-11	4.2e-15	S4 domain

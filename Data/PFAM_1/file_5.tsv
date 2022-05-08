@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ABC_tran	PF00005.30	CL0023	100	245	102	244	10	136	59.80	4.3e-16	1.3e-19	ABC transporter
+ABC_tran	PF00005.30	CL0023	362	490	367	490	6	137	68.07	1.2e-18	3.7e-22	ABC transporter
+RLI	PF04068.18	CL0344	6	37	6	37	1	35	52.22	4.1e-14	1.3e-17	Possible Fer4-like domain in RNase L inhibitor, RLI
+Fer4	PF00037.30	CL0344	48	71	49	70	2	23	31.33	1.2e-07	3.8e-11	4Fe-4S binding domain

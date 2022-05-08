@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DDHD	PF02862.20	-	779	988	779	988	1	254	196.99	6.0e-58	1.2e-61	DDHD domain
+SAM_1	PF00536.33	CL0003	642	703	645	701	4	61	52.10	7.3e-14	1.5e-17	SAM domain (Sterile alpha motif)

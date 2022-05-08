@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cu-oxidase_3	PF07732.18	CL0026	74	204	92	202	24	117	34.10	2.5e-08	3.8e-12	Multicopper oxidase
+Cu-oxidase_3	PF07732.18	CL0026	730	832	736	796	24	93	29.79	5.4e-07	8.2e-11	Multicopper oxidase
+Cu-oxidase_2	PF07731.17	CL0026	248	357	307	355	86	134	23.87	3.1e-05	4.7e-09	Multicopper oxidase
+Cu-oxidase	PF00394.25	CL0026	221	358	223	357	3	158	44.24	2.2e-11	3.4e-15	Multicopper oxidase

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DEAD_2	PF06733.18	CL0023	72	256	72	256	1	175	157.88	2.1e-46	4.3e-50	DEAD_2
+HBB	PF06777.14	-	269	413	272	413	4	190	142.54	1.3e-41	2.6e-45	Helical and beta-bridge domain
+Helicase_C_2	PF13307.9	CL0023	524	700	524	699	1	169	154.11	4.1e-45	8.4e-49	Helicase C-terminal domain

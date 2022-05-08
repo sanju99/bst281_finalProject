@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PRP21_like_P	PF12230.11	-	232	472	233	472	2	217	176.08	9.9e-52	1.5e-55	Pre-mRNA splicing factor PRP21 like protein
+Surp	PF01805.23	-	50	101	50	101	1	53	84.03	5.5e-24	8.4e-28	Surp module
+Surp	PF01805.23	-	164	215	164	215	1	53	72.93	1.6e-20	2.5e-24	Surp module
+ubiquitin	PF00240.26	CL0072	709	788	722	788	6	72	63.46	1.3e-17	1.9e-21	Ubiquitin family

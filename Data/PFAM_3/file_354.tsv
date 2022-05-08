@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA_12	PF13087.9	CL0023	840	1052	841	1050	2	197	118.44	3.1e-34	9.6e-38	AAA domain
+AAA_11	PF13086.9	CL0023	641	764	642	758	2	121	37.94	1.7e-09	5.3e-13	AAA domain
+AAA_11	PF13086.9	CL0023	754	833	762	833	194	261	50.31	2.9e-13	9.0e-17	AAA domain
+AAA_30	PF13604.9	CL0023	641	837	642	828	2	130	35.20	1.1e-08	3.3e-12	AAA domain
+AAA_19	PF13245.9	CL0023	650	831	659	827	8	143	31.00	2.7e-07	8.4e-11	AAA domain
+zf-CCCH	PF00642.27	CL0537	179	205	181	205	3	27	30.91	1.9e-07	5.9e-11	Zinc finger C-x8-C-x5-C-x3-H type (and similar)

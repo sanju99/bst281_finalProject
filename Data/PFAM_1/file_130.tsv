@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+eIF2_C	PF09173.14	-	369	459	369	459	1	86	117.09	3.4e-34	5.1e-38	Initiation factor eIF2 gamma, C terminal
+GTP_EFTU	PF00009.30	CL0023	39	245	41	244	3	194	76.34	2.3e-21	3.6e-25	Elongation factor Tu GTP binding domain
+GTP_EFTU_D2	PF03144.28	CL0575	276	359	276	358	1	73	47.75	1.6e-12	2.4e-16	Elongation factor Tu domain 2

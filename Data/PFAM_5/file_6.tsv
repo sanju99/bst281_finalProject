@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Serum_albumin	PF00273.23	CL0282	30	202	31	202	2	176	177.96	1.5e-52	7.8e-57	Serum albumin family
+Serum_albumin	PF00273.23	CL0282	222	394	223	394	2	176	194.24	1.5e-57	7.8e-62	Serum albumin family
+Serum_albumin	PF00273.23	CL0282	414	592	414	592	1	176	168.56	1.2e-49	6.0e-54	Serum albumin family

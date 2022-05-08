@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+YTH	PF04146.18	CL0178	1288	1363	1289	1354	2	64	78.18	9.3e-22	2.8e-25	YT521-B-like domain
+YTH	PF04146.18	CL0178	1354	1419	1362	1419	126	183	70.05	2.9e-19	8.8e-23	YT521-B-like domain
+HA2	PF04408.26	-	809	928	809	895	1	77	65.45	4.9e-18	1.5e-21	Helicase associated domain (HA2)
+Helicase_C	PF00271.34	CL0023	607	744	611	743	5	110	55.18	8.6e-15	2.6e-18	Helicase conserved C-terminal domain
+OB_NTP_bind	PF07717.19	CL0021	971	1067	971	1065	1	81	42.90	5.1e-11	1.6e-14	Oligonucleotide/oligosaccharide-binding (OB)-fold
+R3H	PF01424.25	-	45	104	52	104	9	60	40.94	1.6e-10	4.8e-14	R3H domain
+DEAD	PF00270.32	CL0023	196	355	198	352	3	170	37.63	1.9e-09	5.9e-13	DEAD/DEAH box helicase

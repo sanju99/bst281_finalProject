@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNARE	PF05739.22	-	299	351	299	351	1	53	59.11	3.4e-16	3.4e-20	SNARE domain
+Syntaxin-5_N	PF11416.11	-	52	74	53	74	2	23	38.11	6.2e-10	6.3e-14	Syntaxin-5 N-terminal, Sly1p-binding domain

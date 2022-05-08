@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ANAPC4_WD40	PF12894.10	CL0186	262	316	266	315	38	89	22.80	9.1e-05	1.9e-08	Anaphase-promoting complex subunit 4 WD40 domain
+WD40	PF00400.35	CL0186	40	82	48	81	4	36	19.81	0.0011	2.3e-07	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	89	128	94	128	6	38	25.65	1.6e-05	3.3e-09	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	214	252	215	252	2	38	23.48	7.9e-05	1.6e-08	WD domain, G-beta repeat
+eIF2A	PF08662.14	CL0186	131	246	134	243	52	162	27.51	2.7e-06	5.6e-10	Eukaryotic translation initiation factor eIF2A
+PD40	PF07676.15	CL0186	138	158	139	157	6	24	17.11	0.0043	8.7e-07	WD40-like Beta Propeller Repeat

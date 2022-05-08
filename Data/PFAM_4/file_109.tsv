@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UCH	PF00443.32	CL0125	497	1211	497	1211	1	278	284.22	1.2e-84	3.1e-88	Ubiquitin carboxyl-terminal hydrolase
+USP19_linker	PF16602.8	-	375	495	375	495	1	121	169.15	5.1e-50	1.3e-53	Linker region of USP19 deubiquitinase
+CS	PF04969.19	CL0190	117	191	119	191	4	77	14.81	0.049	1.2e-05	CS domain
+CS	PF04969.19	CL0190	285	374	285	374	1	77	52.86	6.5e-14	1.7e-17	CS domain
+zf-MYND	PF01753.21	CL0175	791	833	791	833	1	40	33.37	3.9e-08	9.8e-12	MYND finger

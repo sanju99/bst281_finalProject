@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ank_2	PF12796.10	CL0465	630	723	633	719	3	79	42.16	1.0e-10	4.2e-14	Ankyrin repeats (3 copies)
+SH3_9	PF14604.9	CL0010	765	815	765	814	1	47	40.83	1.7e-10	6.7e-14	Variant SH3 domain
+Ank	PF00023.33	CL0465	659	691	660	690	2	32	19.91	0.00078	3.2e-07	Ankyrin repeat
+Ank	PF00023.33	CL0465	692	724	692	722	1	31	17.95	0.0032	1.3e-06	Ankyrin repeat
+SH3_1	PF00018.31	CL0010	764	812	765	811	2	47	36.87	2.2e-09	9.2e-13	SH3 domain
+SH3_2	PF07653.20	CL0010	763	815	769	814	8	53	32.89	4.5e-08	1.9e-11	Variant SH3 domain

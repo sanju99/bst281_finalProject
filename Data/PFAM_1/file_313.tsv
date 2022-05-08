@@ -1,0 +1,11 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+EGF_CA	PF07645.18	CL0001	42	84	42	69	1	28	30.61	3.1e-07	6.3e-11	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	127	166	127	164	1	40	43.54	2.8e-11	5.8e-15	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	168	205	168	205	1	42	28.16	1.8e-06	3.7e-10	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	207	245	207	245	1	42	34.87	1.4e-08	2.9e-12	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	247	286	247	286	1	42	28.26	1.7e-06	3.4e-10	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	288	337	288	328	1	38	30.72	2.9e-07	5.8e-11	Calcium-binding EGF domain
+cEGF	PF12662.10	CL0001	187	210	187	210	1	24	45.14	7.1e-12	1.4e-15	Complement Clr-like EGF-like
+cEGF	PF12662.10	CL0001	227	250	227	250	1	24	26.89	3.6e-06	7.4e-10	Complement Clr-like EGF-like
+cEGF	PF12662.10	CL0001	268	291	269	291	2	24	41.70	8.4e-11	1.7e-14	Complement Clr-like EGF-like
+FXa_inhibition	PF14670.9	CL0001	251	286	258	286	8	36	38.20	1.4e-09	2.9e-13	Coagulation Factor Xa inhibitory site

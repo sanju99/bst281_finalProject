@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TPR_8	PF13181.9	CL0020	51	84	51	81	1	31	14.27	0.039	2.2e-05	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	140	169	143	169	8	34	16.03	0.011	6.0e-06	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	246	274	248	274	8	34	16.53	0.0074	4.2e-06	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	415	442	417	440	3	26	14.61	0.031	1.7e-05	Tetratricopeptide repeat
+TPR_12	PF13424.9	CL0020	49	126	51	120	3	71	30.41	3.8e-07	2.2e-10	Tetratricopeptide repeat
+TPR_7	PF13176.9	CL0020	243	275	247	273	5	33	18.52	0.0015	8.5e-07	Tetratricopeptide repeat
+TPR_6	PF13174.9	CL0020	244	274	248	273	7	32	14.78	0.038	2.1e-05	Tetratricopeptide repeat

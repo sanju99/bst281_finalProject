@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_L6e	PF01159.22	-	181	288	181	288	1	112	134.73	2.0e-39	2.1e-43	Ribosomal protein L6e
+Ribosomal_L6e_N	PF03868.18	-	36	95	36	95	1	60	117.21	2.9e-34	3.0e-38	Ribosomal protein L6, N-terminal domain

@@ -1,0 +1,13 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Arm	PF00514.26	CL0020	103	144	104	144	2	41	45.59	4.8e-12	1.7e-15	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	146	186	147	184	2	39	47.11	1.6e-12	5.7e-16	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	188	229	189	229	2	41	29.52	5.6e-07	2.0e-10	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	232	271	233	270	2	40	23.88	3.3e-05	1.2e-08	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	273	313	274	312	2	40	42.28	5.3e-11	1.9e-14	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	315	355	315	355	1	41	33.80	2.5e-08	8.9e-12	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	357	397	357	396	1	40	43.15	2.8e-11	1.0e-14	Armadillo/beta-catenin-like repeat
+Arm	PF00514.26	CL0020	400	440	402	438	3	39	27.51	2.4e-06	8.5e-10	Armadillo/beta-catenin-like repeat
+HEAT_EZ	PF13513.9	CL0020	129	184	129	184	1	55	38.36	1.5e-09	5.2e-13	HEAT-like repeat
+Arm_3	PF16186.8	CL0020	447	499	449	498	3	52	76.62	8.4e-22	3.0e-25	Atypical Arm repeat
+IBB	PF01749.23	CL0020	11	93	11	93	1	89	78.10	5.8e-22	2.1e-25	Importin beta binding domain
+HEAT_2	PF13646.9	CL0020	116	198	117	187	2	60	30.01	5.5e-07	2.0e-10	HEAT repeats

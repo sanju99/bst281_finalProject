@@ -1,0 +1,30 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Spectrin	PF00435.24	-	306	416	307	416	2	105	32.87	7.9e-08	8.0e-12	Spectrin repeat
+Spectrin	PF00435.24	-	426	531	428	529	3	103	39.02	9.6e-10	9.8e-14	Spectrin repeat
+Spectrin	PF00435.24	-	639	743	642	742	4	104	47.98	1.6e-12	1.6e-16	Spectrin repeat
+Spectrin	PF00435.24	-	745	817	747	810	3	66	25.83	1.2e-05	1.2e-09	Spectrin repeat
+Spectrin	PF00435.24	-	897	998	900	996	5	103	26.31	8.6e-06	8.8e-10	Spectrin repeat
+Spectrin	PF00435.24	-	1102	1206	1103	1206	2	105	45.49	9.3e-12	9.5e-16	Spectrin repeat
+Spectrin	PF00435.24	-	1208	1312	1209	1311	2	104	49.74	4.4e-13	4.5e-17	Spectrin repeat
+Spectrin	PF00435.24	-	1314	1417	1315	1417	2	105	52.36	6.8e-14	6.9e-18	Spectrin repeat
+Spectrin	PF00435.24	-	1520	1624	1521	1624	2	105	63.91	1.7e-17	1.8e-21	Spectrin repeat
+Spectrin	PF00435.24	-	1626	1728	1628	1727	3	104	55.52	7.1e-15	7.2e-19	Spectrin repeat
+Spectrin	PF00435.24	-	1730	1835	1731	1835	2	105	49.41	5.6e-13	5.7e-17	Spectrin repeat
+Spectrin	PF00435.24	-	1838	1941	1842	1940	6	104	40.78	2.7e-10	2.8e-14	Spectrin repeat
+Spectrin	PF00435.24	-	1943	2047	1944	2046	2	104	24.42	3.4e-05	3.4e-09	Spectrin repeat
+Spectrin	PF00435.24	-	2049	2147	2052	2146	4	104	25.39	1.7e-05	1.7e-09	Spectrin repeat
+Spectrin	PF00435.24	-	2149	2253	2150	2253	2	105	57.66	1.5e-15	1.6e-19	Spectrin repeat
+Spectrin	PF00435.24	-	2255	2362	2256	2361	2	104	37.60	2.7e-09	2.7e-13	Spectrin repeat
+Spectrin	PF00435.24	-	2364	2468	2366	2467	3	104	56.81	2.8e-15	2.9e-19	Spectrin repeat
+Spectrin	PF00435.24	-	2470	2574	2471	2574	2	105	28.01	2.6e-06	2.6e-10	Spectrin repeat
+Spectrin	PF00435.24	-	2576	2680	2577	2680	2	105	37.98	2.0e-09	2.1e-13	Spectrin repeat
+Spectrin	PF00435.24	-	2682	2785	2683	2784	2	104	43.42	4.1e-11	4.2e-15	Spectrin repeat
+Spectrin	PF00435.24	-	2788	2891	2791	2890	5	104	43.24	4.7e-11	4.7e-15	Spectrin repeat
+Spectrin	PF00435.24	-	2893	2997	2894	2997	2	105	67.60	1.2e-18	1.3e-22	Spectrin repeat
+Spectrin	PF00435.24	-	2999	3103	3000	3103	2	105	54.60	1.4e-14	1.4e-18	Spectrin repeat
+Spectrin	PF00435.24	-	3105	3210	3106	3209	2	104	53.80	2.4e-14	2.5e-18	Spectrin repeat
+Spectrin	PF00435.24	-	3212	3312	3213	3311	2	104	47.64	2.0e-12	2.0e-16	Spectrin repeat
+Spectrin	PF00435.24	-	3315	3418	3318	3415	5	102	48.07	1.5e-12	1.5e-16	Spectrin repeat
+Spectrin	PF00435.24	-	3421	3500	3422	3488	3	67	31.64	1.9e-07	1.9e-11	Spectrin repeat
+CH	PF00307.34	CL0188	54	160	55	159	2	108	65.51	4.6e-18	4.7e-22	Calponin homology (CH) domain
+CH	PF00307.34	CL0188	177	283	178	282	2	108	74.19	9.3e-21	9.4e-25	Calponin homology (CH) domain

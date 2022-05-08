@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Y_phosphatase	PF00102.30	CL0031	923	1153	923	1153	1	235	278.50	4.7e-83	1.4e-86	Protein-tyrosine phosphatase
+Y_phosphatase	PF00102.30	CL0031	1213	1447	1213	1447	1	235	214.79	1.4e-63	4.2e-67	Protein-tyrosine phosphatase
+MAM	PF00629.26	CL0004	27	183	27	183	1	161	112.47	1.8e-32	5.6e-36	MAM domain, meprin/A5/mu
+fn3	PF00041.24	CL0159	283	366	287	361	5	80	29.54	7.5e-07	2.3e-10	Fibronectin type III domain
+fn3	PF00041.24	CL0159	488	575	498	574	15	84	38.35	1.3e-09	4.1e-13	Fibronectin type III domain
+ig	PF00047.28	CL0011	189	274	192	268	4	80	44.87	1.1e-11	3.3e-15	Immunoglobulin domain

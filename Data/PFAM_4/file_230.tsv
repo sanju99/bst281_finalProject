@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PRP38	PF03371.18	-	10	175	11	174	2	173	214.26	1.2e-63	1.2e-67	PRP38 family
+PRP38_assoc	PF12871.10	-	179	260	179	259	1	94	32.37	1.2e-07	1.2e-11	Pre-mRNA-splicing factor 38-associated hydrophilic C-term

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ubiquitin	PF00240.26	CL0072	10	81	19	79	10	70	49.94	2.1e-13	2.1e-17	Ubiquitin family
+ubiquitin	PF00240.26	CL0072	91	161	98	159	7	68	42.43	4.6e-11	4.7e-15	Ubiquitin family

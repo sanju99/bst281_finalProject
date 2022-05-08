@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Nup153	PF08604.13	-	113	621	113	621	1	512	856.88	5.8e-258	8.8e-262	Nucleoporin Nup153-like
+zf-RanBP	PF00641.21	CL0167	657	687	657	686	1	29	39.32	3.1e-10	4.7e-14	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	722	751	724	751	3	30	45.92	2.7e-12	4.1e-16	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	793	822	794	822	2	30	37.08	1.5e-09	2.4e-13	Zn-finger in Ran binding protein and others
+zf-RanBP	PF00641.21	CL0167	851	880	851	880	1	30	41.60	6.0e-11	9.1e-15	Zn-finger in Ran binding protein and others
+Nup_retrotrp_bd	PF10599.12	-	1385	1475	1386	1475	2	86	78.83	3.9e-22	5.9e-26	Retro-transposon transporting motif

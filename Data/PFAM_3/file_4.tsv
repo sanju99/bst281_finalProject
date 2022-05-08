@@ -1,0 +1,9 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Sec63	PF02889.19	-	978	1286	978	1283	1	256	270.55	1.2e-80	3.1e-84	Sec63 Brl domain
+Sec63	PF02889.19	-	1812	2176	1812	2175	1	258	227.66	1.5e-67	3.8e-71	Sec63 Brl domain
+DEAD	PF00270.32	CL0023	478	657	479	653	2	171	92.31	3.2e-26	8.0e-30	DEAD/DEAH box helicase
+DEAD	PF00270.32	CL0023	1328	1500	1329	1494	2	170	82.33	3.7e-23	9.3e-27	DEAD/DEAH box helicase
+ResIII	PF04851.18	CL0023	460	653	482	652	21	170	45.43	9.1e-12	2.3e-15	Type III restriction enzyme, res subunit
+ResIII	PF04851.18	CL0023	1317	1492	1340	1461	22	147	45.51	8.6e-12	2.2e-15	Type III restriction enzyme, res subunit
+Helicase_C	PF00271.34	CL0023	699	857	704	855	6	109	25.98	1.0e-05	2.6e-09	Helicase conserved C-terminal domain
+Helicase_C	PF00271.34	CL0023	1545	1694	1607	1692	39	109	31.47	2.0e-07	5.0e-11	Helicase conserved C-terminal domain

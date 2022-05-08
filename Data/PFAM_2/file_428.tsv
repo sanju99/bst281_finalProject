@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNase	PF00565.20	CL0049	48	166	50	166	3	108	54.06	2.0e-14	2.1e-18	Staphylococcal nuclease homologue
+SNase	PF00565.20	CL0049	220	328	220	327	1	107	48.25	1.3e-12	1.3e-16	Staphylococcal nuclease homologue
+SNase	PF00565.20	CL0049	367	496	368	495	2	107	44.54	1.9e-11	1.9e-15	Staphylococcal nuclease homologue
+SNase	PF00565.20	CL0049	552	660	553	659	2	107	56.82	2.8e-15	2.9e-19	Staphylococcal nuclease homologue
+SNase	PF00565.20	CL0049	837	895	848	894	62	107	21.73	0.00023	2.3e-08	Staphylococcal nuclease homologue
+TUDOR	PF00567.27	CL0049	677	799	680	797	4	119	94.55	4.7e-27	4.8e-31	Tudor domain

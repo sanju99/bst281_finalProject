@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+cNMP_binding	PF00027.32	CL0029	157	244	158	243	2	88	60.34	1.5e-16	1.6e-20	Cyclic nucleotide-binding domain
+cNMP_binding	PF00027.32	CL0029	279	372	281	371	3	86	75.20	3.5e-21	3.6e-25	Cyclic nucleotide-binding domain
+RIIa	PF02197.20	CL0068	8	45	9	45	2	38	59.93	1.4e-16	1.5e-20	Regulatory subunit of type II PKA R-subunit

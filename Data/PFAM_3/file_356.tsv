@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA_11	PF13086.9	CL0023	1933	2218	1934	2217	2	260	230.58	3.0e-68	9.0e-72	AAA domain
+AAA_12	PF13087.9	CL0023	2225	2426	2225	2424	1	197	175.90	7.8e-52	2.4e-55	AAA domain
+AAA_19	PF13245.9	CL0023	1947	2215	1955	2213	9	144	31.33	2.2e-07	6.6e-11	AAA domain
+UvrD-helicase	PF00580.24	CL0023	1946	2150	1954	2129	11	152	23.10	5.0e-05	1.5e-08	UvrD/REP helicase N-terminal domain

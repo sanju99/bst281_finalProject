@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Pkinase	PF00069.28	CL0016	27	279	29	279	3	264	253.05	3.2e-75	6.5e-79	Protein kinase domain
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	27	276	29	275	3	257	145.03	2.6e-42	5.3e-46	Protein tyrosine and serine/threonine kinase
+AdenylateSensor	PF16579.8	CL0573	406	503	406	480	1	84	49.81	4.3e-13	8.8e-17	Adenylate sensor of SNF1-like protein kinase

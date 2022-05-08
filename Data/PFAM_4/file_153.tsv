@@ -1,0 +1,18 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TPR_2	PF07719.20	CL0020	518	551	519	548	2	31	23.66	3.6e-05	3.0e-08	Tetratricopeptide repeat
+TPR_12	PF13424.9	CL0020	231	304	237	303	7	76	33.82	3.3e-08	2.7e-11	Tetratricopeptide repeat
+TPR_7	PF13176.9	CL0020	235	268	238	262	4	30	20.97	0.00025	2.0e-07	Tetratricopeptide repeat
+TPR_7	PF13176.9	CL0020	486	518	486	514	1	31	17.45	0.0033	2.7e-06	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	235	262	237	260	5	28	12.86	0.11	9.0e-05	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	272	305	273	304	2	33	13.27	0.083	6.7e-05	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	484	517	486	515	3	32	15.77	0.013	1.1e-05	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	518	544	519	543	2	26	18.88	0.0013	1.1e-06	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	552	585	552	584	1	33	18.10	0.0023	1.9e-06	Tetratricopeptide repeat
+TPR_19	PF14559.9	CL0020	494	555	495	554	2	61	27.12	4.6e-06	3.7e-09	Tetratricopeptide repeat
+TPR_6	PF13174.9	CL0020	519	546	519	544	1	26	15.12	0.03	2.4e-05	Tetratricopeptide repeat
+TPR_6	PF13174.9	CL0020	655	687	657	686	3	32	13.15	0.13	0.0001	Tetratricopeptide repeat
+TPR_16	PF13432.9	CL0020	453	516	459	515	7	65	22.62	0.00013	1.0e-07	Tetratricopeptide repeat
+TPR_16	PF13432.9	CL0020	488	550	489	541	2	57	28.41	2.0e-06	1.6e-09	Tetratricopeptide repeat
+TPR_11	PF13414.9	CL0020	491	532	491	531	1	41	28.16	1.2e-06	1.0e-09	TPR repeat
+ANAPC3	PF12895.10	CL0020	462	544	465	543	4	81	31.83	1.3e-07	1.1e-10	Anaphase-promoting complex, cyclosome, subunit 3
+Iml2-TPR_39	PF10300.12	CL0020	179	343	222	331	261	372	23.53	2.1e-05	1.7e-08	Iml2/Tetratricopeptide repeat protein 39

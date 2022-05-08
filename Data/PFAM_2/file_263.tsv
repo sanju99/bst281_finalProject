@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ribosomal_L2_C	PF03947.21	CL0107	97	234	98	224	2	116	156.03	5.2e-46	5.3e-50	Ribosomal Proteins L2, C-terminal domain
+Ribosomal_L2	PF00181.26	CL0021	11	90	13	90	3	77	67.48	8.2e-19	8.4e-23	Ribosomal Proteins L2, RNA binding domain

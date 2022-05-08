@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CMS1	PF14617.9	CL0023	45	275	61	263	29	235	108.13	4.8e-31	4.9e-35	U3-containing 90S pre-ribosomal complex subunit
+DEAD	PF00270.32	CL0023	128	238	152	236	44	128	26.15	6.5e-06	6.7e-10	DEAD/DEAH box helicase

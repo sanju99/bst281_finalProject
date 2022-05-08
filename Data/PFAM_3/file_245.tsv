@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+4_1_CTD	PF05902.16	-	753	860	753	860	1	107	170.61	8.6e-51	2.6e-54	4.1 protein C-terminal domain (CTD)
+FERM_C	PF09380.13	CL0266	405	494	407	491	3	90	88.11	4.2e-25	1.3e-28	FERM C-terminal PH-like domain
+SAB	PF04382.16	-	667	715	667	715	1	50	78.82	2.6e-22	8.0e-26	SAB domain
+FERM_N	PF09379.13	CL0072	214	277	214	276	1	63	74.67	4.3e-21	1.3e-24	FERM N-terminal domain
+FERM_M	PF00373.21	CL0632	291	401	294	401	4	116	73.46	2.0e-20	6.0e-24	FERM central domain
+FA	PF08736.14	-	499	542	499	542	1	44	68.72	3.3e-19	1.0e-22	FERM adjacent (FA)

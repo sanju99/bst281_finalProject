@@ -1,0 +1,12 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+LRR_8	PF13855.9	CL0022	273	326	275	324	10	59	39.86	2.9e-10	1.0e-13	Leucine rich repeat
+LRR_8	PF13855.9	CL0022	496	554	496	554	4	61	35.11	8.9e-09	3.2e-12	Leucine rich repeat
+LRR_8	PF13855.9	CL0022	675	735	675	735	1	61	35.31	7.7e-09	2.8e-12	Leucine rich repeat
+LRR_8	PF13855.9	CL0022	723	785	723	785	1	61	28.40	1.1e-06	3.9e-10	Leucine rich repeat
+LRR_4	PF12799.10	CL0022	675	720	675	715	1	39	29.21	9.4e-07	3.3e-10	Leucine Rich repeats (2 copies)
+LRR_5	PF13306.9	CL0022	189	276	194	262	24	93	10.25	0.58	0.00021	BspA type Leucine rich repeat region (6 copies)
+LRR_5	PF13306.9	CL0022	273	362	280	336	47	100	12.76	0.097	3.5e-05	BspA type Leucine rich repeat region (6 copies)
+LRR_5	PF13306.9	CL0022	642	773	645	768	7	122	24.76	1.9e-05	6.7e-09	BspA type Leucine rich repeat region (6 copies)
+TIR	PF01582.23	CL0173	890	1048	893	1033	4	155	48.67	8.1e-13	2.9e-16	TIR domain
+LRR_1	PF00560.36	CL0022	700	744	700	721	1	19	9.91	1.4	0.00049	Leucine Rich Repeat
+TIR_2	PF13676.9	CL0173	894	1012	894	999	2	104	30.24	6.0e-07	2.1e-10	TIR domain

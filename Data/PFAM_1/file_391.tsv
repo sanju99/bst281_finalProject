@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SecY	PF00344.23	CL0376	75	458	75	457	1	307	256.43	3.9e-76	3.9e-80	SecY
+Plug_translocon	PF10559.12	-	40	74	40	74	1	35	63.41	1.3e-17	1.4e-21	Plug domain of Sec61p

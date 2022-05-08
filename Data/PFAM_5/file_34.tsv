@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF4650	PF15509.9	-	572	1090	572	1090	1	519	802.91	2.0e-241	2.0e-245	Domain of unknown function (DUF4650)
+Peptidase_C98	PF15499.9	CL0125	226	498	226	498	1	272	425.70	8.7e-128	8.8e-132	Ubiquitin-specific peptidase-like, SUMO isopeptidase

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Crystallin	PF00525.21	-	1	56	1	56	1	56	94.96	2.2e-27	2.2e-31	Alpha crystallin A chain, N terminal
+HSP20	PF00011.24	CL0190	67	162	69	162	3	102	88.01	4.1e-25	4.2e-29	Hsp20/alpha crystallin family

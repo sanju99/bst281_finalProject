@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Lactamase_B_6	PF16661.8	CL0381	22	199	22	198	1	192	209.58	3.1e-62	7.8e-66	Metallo-beta-lactamase superfamily domain
+CPSF100_C	PF13299.9	-	608	779	608	779	1	170	152.03	1.8e-44	4.6e-48	Cleavage and polyadenylation factor 2 C-terminal
+Beta-Casp	PF10996.11	CL0023	243	368	243	367	1	113	70.49	1.5e-19	3.8e-23	Beta-Casp domain
+RMMBL	PF07521.15	CL0398	528	591	529	591	2	63	60.69	1.1e-16	2.9e-20	Zn-dependent metallo-hydrolase RNA specificity domain
+Lactamase_B	PF00753.30	CL0381	14	155	18	81	6	71	26.31	7.0e-06	1.8e-09	Metallo-beta-lactamase superfamily

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Sec63	PF02889.19	-	222	497	230	488	18	185	33.74	2.2e-08	2.3e-12	Sec63 Brl domain
+Sec63	PF02889.19	-	611	713	620	711	155	257	36.44	3.3e-09	3.4e-13	Sec63 Brl domain
+DnaJ	PF00226.34	CL0392	104	162	104	161	1	62	60.79	1.1e-16	1.1e-20	DnaJ domain

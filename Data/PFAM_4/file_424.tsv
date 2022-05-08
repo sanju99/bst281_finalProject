@@ -1,0 +1,54 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ldl_recept_a	PF00057.21	-	25	64	25	62	1	35	41.59	1.2e-10	4.1e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	70	108	71	108	2	37	40.14	3.3e-10	1.2e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	852	890	853	886	2	35	45.34	7.8e-12	2.8e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	893	931	894	931	2	37	38.29	1.2e-09	4.4e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	934	971	934	971	1	37	44.28	1.7e-11	5.9e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	974	1011	976	1011	3	37	41.52	1.2e-10	4.3e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	1013	1051	1014	1051	2	37	45.82	5.5e-12	2.0e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	1060	1097	1062	1097	3	37	39.92	3.8e-10	1.4e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	1102	1140	1104	1140	3	37	36.40	4.8e-09	1.7e-12	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2522	2561	2523	2557	2	35	32.73	6.8e-08	2.4e-11	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2564	2600	2565	2600	2	37	31.18	2.1e-07	7.4e-11	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2603	2639	2604	2639	2	37	35.06	1.3e-08	4.5e-12	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2657	2688	2660	2688	10	37	27.54	2.8e-06	1.0e-09	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2694	2730	2695	2730	2	37	39.88	4.0e-10	1.4e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2732	2769	2734	2769	3	37	41.45	1.3e-10	4.5e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2772	2812	2772	2812	1	37	38.71	9.2e-10	3.3e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2816	2853	2816	2853	1	37	38.51	1.1e-09	3.8e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2856	2897	2857	2891	2	35	40.27	3.0e-10	1.1e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	2902	2939	2903	2939	2	37	33.87	3.0e-08	1.1e-11	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3332	3369	3333	3369	2	37	32.48	8.1e-08	2.9e-11	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3372	3408	3373	3408	2	37	37.38	2.4e-09	8.5e-13	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3411	3448	3413	3448	3	37	33.57	3.7e-08	1.3e-11	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3451	3489	3452	3489	2	37	47.32	1.9e-12	6.7e-16	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3492	3531	3493	3531	2	37	42.10	8.0e-11	2.8e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3534	3570	3534	3570	1	37	43.21	3.6e-11	1.3e-14	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3573	3609	3574	3609	2	37	47.24	2.0e-12	7.0e-16	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3611	3647	3612	3647	2	37	45.57	6.6e-12	2.3e-15	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3652	3690	3652	3690	1	37	35.85	7.2e-09	2.6e-12	Low-density lipoprotein receptor domain class A
+Ldl_recept_a	PF00057.21	-	3739	3776	3740	3776	2	37	29.05	9.6e-07	3.4e-10	Low-density lipoprotein receptor domain class A
+Ldl_recept_b	PF00058.20	CL0186	614	657	615	657	2	42	22.12	0.00017	6.1e-08	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	660	708	662	708	3	42	24.61	2.8e-05	1.0e-08	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	1356	1396	1356	1396	1	42	38.70	1.1e-09	4.0e-13	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	1399	1443	1401	1443	3	42	26.01	1.0e-05	3.7e-09	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	1627	1667	1627	1667	1	42	28.39	1.9e-06	6.6e-10	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	1977	2017	1977	2017	1	42	37.27	3.1e-09	1.1e-12	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	2020	2061	2020	2061	1	42	35.73	9.5e-09	3.4e-12	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	2344	2386	2344	2386	1	42	43.59	3.3e-11	1.2e-14	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	2389	2428	2389	2428	1	41	25.10	2.0e-05	7.1e-09	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	3069	3111	3071	3111	3	42	25.02	2.1e-05	7.5e-09	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	3114	3154	3114	3153	1	41	26.67	6.4e-06	2.3e-09	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	3157	3198	3157	3198	1	42	38.29	1.5e-09	5.4e-13	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	3201	3241	3202	3240	2	41	31.04	2.8e-07	9.9e-11	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	3970	4010	3970	4010	1	42	38.02	1.8e-09	6.5e-13	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	4013	4054	4013	4054	1	42	52.49	5.5e-14	2.0e-17	Low-density lipoprotein receptor repeat class B
+Ldl_recept_b	PF00058.20	CL0186	4057	4099	4058	4095	2	38	21.11	0.00035	1.2e-07	Low-density lipoprotein receptor repeat class B
+FXa_inhibition	PF14670.9	CL0001	807	842	807	842	1	36	40.41	2.9e-10	1.0e-13	Coagulation Factor Xa inhibitory site
+FXa_inhibition	PF14670.9	CL0001	1185	1221	1185	1221	1	36	38.48	1.2e-09	4.2e-13	Coagulation Factor Xa inhibitory site
+FXa_inhibition	PF14670.9	CL0001	3294	3330	3294	3330	1	36	40.40	3.0e-10	1.1e-13	Coagulation Factor Xa inhibitory site
+DUF5050	PF16472.8	CL0186	3022	3257	3031	3251	72	274	39.08	5.3e-10	1.9e-13	Domain of unknown function (DUF5050)
+cEGF	PF12662.10	CL0001	2962	2985	2962	2985	1	24	35.06	1.0e-08	3.6e-12	Complement Clr-like EGF-like
+EGF_CA	PF07645.18	CL0001	150	188	150	188	1	42	23.99	3.6e-05	1.3e-08	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	2982	3021	2982	3021	1	42	31.04	2.3e-07	8.1e-11	Calcium-binding EGF domain
+EGF_CA	PF07645.18	CL0001	3824	3861	3824	3860	1	42	16.76	0.0066	2.3e-06	Calcium-binding EGF domain

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Thioredoxin	PF00085.23	CL0172	130	231	131	229	2	101	66.49	1.9e-18	7.6e-22	Thioredoxin
+Thioredoxin	PF00085.23	CL0172	454	552	466	551	16	102	69.76	1.8e-19	7.3e-23	Thioredoxin
+Thioredoxin	PF00085.23	CL0172	557	659	558	641	2	83	67.32	1.0e-18	4.2e-22	Thioredoxin
+Thioredoxin	PF00085.23	CL0172	671	777	674	762	4	92	84.30	5.4e-24	2.2e-27	Thioredoxin
+DnaJ	PF00226.34	CL0392	35	97	35	97	1	63	82.56	1.8e-23	7.3e-27	DnaJ domain

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Frizzled	PF01534.20	CL0192	189	510	189	509	1	322	413.73	5.1e-124	5.2e-128	Frizzled/Smoothened family membrane region
+Fz	PF01392.25	CL0644	24	130	24	127	1	114	91.24	6.9e-26	7.1e-30	Fz domain

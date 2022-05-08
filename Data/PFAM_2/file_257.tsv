@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF382	PF04037.16	-	470	596	471	596	2	127	199.04	2.6e-59	4.0e-63	Domain of unknown function (DUF382)
+PSP	PF04046.19	-	605	655	605	654	1	45	66.35	1.6e-18	2.4e-22	PSP
+SAP	PF02037.30	CL0306	24	58	24	57	1	34	29.47	5.0e-07	7.6e-11	SAP domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+CSD	PF00313.25	CL0021	30	102	31	101	2	65	59.77	1.9e-16	1.9e-20	'Cold-shock' DNA-binding domain
+zf-CCHC	PF00098.26	CL0511	127	144	128	143	2	17	22.86	7.0e-05	7.1e-09	Zinc knuckle
+zf-CCHC	PF00098.26	CL0511	149	166	149	166	1	18	17.74	0.0029	3.0e-07	Zinc knuckle

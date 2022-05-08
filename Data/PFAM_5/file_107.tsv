@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+P53	PF00870.21	CL0073	117	309	118	308	2	186	209.63	4.1e-62	6.3e-66	P53 DNA-binding domain
+P53_tetramer	PF07710.14	-	345	385	345	383	1	40	66.35	1.2e-18	1.8e-22	P53 tetramerisation motif
+SAM_2	PF07647.20	CL0003	485	549	485	549	1	66	37.62	1.9e-09	2.9e-13	SAM domain (Sterile alpha motif)

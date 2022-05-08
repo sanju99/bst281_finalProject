@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SRP72	PF08492.15	-	531	588	532	588	2	58	80.24	1.1e-22	8.2e-26	SRP72 RNA-binding domain
+ANAPC3	PF12895.10	CL0020	72	135	81	133	26	80	27.59	2.8e-06	2.0e-09	Anaphase-promoting complex, cyclosome, subunit 3
+SRP_TPR_like	PF17004.8	CL0020	30	157	34	155	5	116	60.88	1.2e-16	8.3e-20	Putative TPR-like repeat
+TPR_8	PF13181.9	CL0020	176	208	177	205	2	30	12.65	0.13	9.3e-05	Tetratricopeptide repeat
+TPR_8	PF13181.9	CL0020	226	259	230	259	5	34	14.60	0.031	2.2e-05	Tetratricopeptide repeat

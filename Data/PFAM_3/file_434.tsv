@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Aquarius_N	PF16399.8	CL0020	18	802	20	802	3	798	1066.71	0.0e+00	0.0e+00	Intron-binding protein aquarius N-terminus
+AAA_11	PF13086.9	CL0023	801	1107	802	1106	2	260	98.37	6.4e-28	1.6e-31	AAA domain
+AAA_12	PF13087.9	CL0023	1115	1308	1115	1305	1	196	86.50	1.9e-24	4.9e-28	AAA domain
+AAA_19	PF13245.9	CL0023	806	1105	806	1103	1	145	31.09	2.6e-07	6.6e-11	AAA domain
+ResIII	PF04851.18	CL0023	798	917	808	875	10	83	24.13	3.2e-05	8.1e-09	Type III restriction enzyme, res subunit

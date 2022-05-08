@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TRF	PF08558.13	CL0020	74	270	77	269	6	238	122.23	2.7e-35	4.1e-39	Telomere repeat binding factor (TRF)
+Myb_DNA-binding	PF00249.34	CL0123	380	428	380	427	1	45	40.61	2.3e-10	3.6e-14	Myb-like DNA-binding domain
+Myb_DNA-bind_6	PF13921.9	CL0123	383	437	385	426	3	41	25.23	1.5e-05	2.4e-09	Myb-like DNA-binding domain

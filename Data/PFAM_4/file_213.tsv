@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PHR	PF08005.15	-	333	481	333	481	1	152	175.63	1.0e-51	1.6e-55	PHR domain
+BTB	PF00651.34	CL0033	59	175	62	174	4	110	88.90	2.7e-25	4.1e-29	BTB/POZ domain
+BACK	PF07707.18	CL0033	180	287	183	283	4	96	33.18	4.6e-08	7.1e-12	BTB And C-terminal Kelch

@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cofilin_ADF	PF00241.23	CL0092	9	136	17	131	9	119	74.94	4.7e-21	2.4e-25	Cofilin/tropomyosin-type actin-binding protein
+Cofilin_ADF	PF00241.23	CL0092	184	311	188	310	3	124	78.29	4.4e-22	2.2e-26	Cofilin/tropomyosin-type actin-binding protein

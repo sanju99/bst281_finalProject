@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PK_Tyr_Ser-Thr	PF07714.20	CL0016	613	871	614	871	2	259	329.96	9.8e-99	4.5e-102	Protein tyrosine and serine/threonine kinase
+Ephrin_lbd	PF01404.22	CL0202	29	201	29	201	1	177	211.10	1.4e-62	6.4e-66	Ephrin receptor ligand binding domain
+Pkinase	PF00069.28	CL0016	613	870	615	868	3	259	160.32	6.1e-47	2.8e-50	Protein kinase domain
+fn3	PF00041.24	CL0159	330	424	330	419	1	80	55.25	7.1e-15	3.3e-18	Fibronectin type III domain
+fn3	PF00041.24	CL0159	437	519	438	519	2	85	62.88	3.0e-17	1.4e-20	Fibronectin type III domain
+EphA2_TM	PF14575.9	-	537	610	538	610	2	76	75.12	5.9e-21	2.7e-24	Ephrin type-A receptor 2 transmembrane domain
+SAM_1	PF00536.33	CL0003	902	966	904	966	3	64	74.78	6.0e-21	2.8e-24	SAM domain (Sterile alpha motif)
+SAM_2	PF07647.20	CL0003	905	966	908	959	8	59	50.63	1.6e-13	7.5e-17	SAM domain (Sterile alpha motif)
+Interfer-bind	PF09294.13	CL0159	435	524	438	513	4	90	24.26	3.3e-05	1.5e-08	Interferon-alpha/beta receptor, fibronectin type III

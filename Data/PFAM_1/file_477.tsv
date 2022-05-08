@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Rb_C	PF08934.13	-	768	925	768	925	1	152	277.36	2.8e-83	5.7e-87	Rb C-terminal domain
+RB_A	PF01858.20	CL0065	373	573	373	573	1	197	246.52	2.1e-73	4.4e-77	Retinoblastoma-associated protein A domain
+RB_B	PF01857.23	CL0065	646	765	646	765	1	132	116.45	8.7e-34	1.8e-37	Retinoblastoma-associated protein B domain
+DUF3452	PF11934.11	CL0065	109	228	114	227	8	136	43.64	2.2e-11	4.4e-15	Domain of unknown function (DUF3452)

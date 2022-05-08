@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Nrap_D4	PF17405.5	CL0260	640	846	646	846	7	206	184.93	1.2e-54	3.7e-58	Nrap protein nucleotidyltransferase domain 4
+Nrap_D5	PF17406.5	-	848	1003	848	1003	1	162	145.87	9.6e-43	2.9e-46	Nrap protein PAP/OAS1-like domain 5
+Nrap	PF03813.17	CL0260	178	320	178	317	1	148	146.20	8.0e-43	2.5e-46	Nrap protein domain 1
+Nrap_D2	PF17403.5	-	323	463	324	462	2	151	135.03	1.9e-39	5.7e-43	Nrap protein PAP/OAS-like domain
+Nrap_D3	PF17404.5	-	466	628	468	627	3	158	130.38	6.8e-38	2.1e-41	Nrap protein domain 3
+Nrap_D6	PF17407.5	-	1005	1137	1005	1137	1	133	104.78	4.4e-30	1.3e-33	Nrap protein domain 6

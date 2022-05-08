@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+fn3	PF00041.24	CL0159	277	367	280	361	4	79	27.15	4.2e-06	1.1e-09	Fibronectin type III domain
+fn3	PF00041.24	CL0159	381	463	382	463	3	85	41.19	1.7e-10	4.4e-14	Fibronectin type III domain
+fn3	PF00041.24	CL0159	476	560	478	559	3	84	34.76	1.8e-08	4.5e-12	Fibronectin type III domain
+fn3	PF00041.24	CL0159	573	659	574	656	2	82	44.49	1.6e-11	4.1e-15	Fibronectin type III domain
+fn3	PF00041.24	CL0159	674	755	684	755	12	85	38.04	1.7e-09	4.2e-13	Fibronectin type III domain
+fn3	PF00041.24	CL0159	777	849	783	849	16	85	33.66	3.9e-08	9.9e-12	Fibronectin type III domain
+fn3	PF00041.24	CL0159	881	947	886	947	16	85	30.75	3.1e-07	8.0e-11	Fibronectin type III domain
+fn3	PF00041.24	CL0159	959	1042	961	1042	3	85	26.07	9.1e-06	2.3e-09	Fibronectin type III domain
+fn3	PF00041.24	CL0159	1055	1135	1057	1129	3	77	26.90	5.0e-06	1.3e-09	Fibronectin type III domain

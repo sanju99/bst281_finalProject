@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UCH	PF00443.32	CL0125	336	858	336	858	1	278	178.80	1.7e-52	4.3e-56	Ubiquitin carboxyl-terminal hydrolase
+zf-UBP_var	PF17807.4	CL0229	35	98	35	97	1	63	92.77	9.2e-27	2.3e-30	Variant UBP zinc finger
+UBA	PF00627.34	CL0214	653	690	653	690	1	37	34.80	1.2e-08	3.0e-12	UBA/TS-N domain
+UBA	PF00627.34	CL0214	728	764	729	764	2	37	50.51	1.4e-13	3.6e-17	UBA/TS-N domain
+zf-UBP	PF02148.22	CL0229	211	284	211	283	1	63	51.08	1.4e-13	3.6e-17	Zn-finger in ubiquitin-hydrolases and other protein

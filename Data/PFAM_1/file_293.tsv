@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-rbx1	PF12678.10	CL0229	40	98	40	98	1	55	89.30	1.6e-25	2.4e-29	RING-H2 zinc finger domain
+zf-ANAPC11	PF12861.10	CL0229	20	105	22	105	3	85	63.21	1.9e-17	2.9e-21	Anaphase-promoting complex subunit 11 RING-H2 finger

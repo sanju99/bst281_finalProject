@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Ku_N	PF03731.18	CL0128	9	244	9	243	1	219	217.04	2.7e-64	5.5e-68	Ku70/Ku80 N-terminal alpha/beta domain
+Ku	PF02735.19	CL0616	253	453	253	453	1	204	148.02	2.9e-43	6.0e-47	Ku70/Ku80 beta-barrel domain
+Ku_PK_bind	PF08785.14	-	593	706	593	705	1	118	104.00	5.7e-30	1.2e-33	Ku C terminal domain like
+Ku_C	PF03730.17	-	476	569	477	569	2	91	66.35	3.0e-18	6.1e-22	Ku70/Ku80 C-terminal arm

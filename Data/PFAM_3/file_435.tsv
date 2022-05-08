@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA_33	PF13671.9	CL0023	454	599	454	599	1	143	74.80	8.2e-21	1.7e-24	AAA domain
+SPRY	PF00622.31	CL0004	291	417	308	416	10	119	57.16	1.8e-15	3.8e-19	SPRY domain
+SAP	PF02037.30	CL0306	3	37	4	37	2	35	33.38	2.9e-08	6.0e-12	SAP domain
+Zeta_toxin	PF06414.15	CL0023	438	596	451	538	15	103	22.98	4.7e-05	9.5e-09	Zeta toxin

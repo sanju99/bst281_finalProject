@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DEAD	PF00270.32	CL0023	118	289	118	288	1	175	160.79	3.0e-47	4.5e-51	DEAD/DEAH box helicase
+Helicase_C	PF00271.34	CL0023	324	436	327	435	4	110	106.76	8.2e-31	1.2e-34	Helicase conserved C-terminal domain
+P68HR	PF08061.14	-	498	532	498	532	1	35	52.31	4.8e-14	7.3e-18	P68HR (NUC004) repeat
+P68HR	PF08061.14	-	551	583	551	583	1	35	36.63	3.8e-09	5.9e-13	P68HR (NUC004) repeat

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Myosin_head	PF00063.24	CL0023	21	679	21	679	1	677	839.13	2.5e-252	6.3e-256	Myosin head (motor domain)
+Myosin_TH1	PF06017.16	CL0266	719	920	719	920	1	189	185.87	6.5e-55	1.7e-58	Unconventional myosin tail, actin- and lipid-binding
+SH3_1	PF00018.31	CL0010	1057	1102	1057	1101	1	47	59.29	2.2e-16	5.7e-20	SH3 domain
+SH3_9	PF14604.9	CL0010	1058	1106	1058	1106	1	49	55.13	5.7e-15	1.4e-18	Variant SH3 domain
+SH3_2	PF07653.20	CL0010	1055	1108	1056	1107	2	56	42.63	4.1e-11	1.1e-14	Variant SH3 domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+G-patch	PF01585.26	CL0449	2305	2349	2305	2348	1	44	56.36	2.2e-15	3.4e-19	G-patch domain
+RSRP	PF17069.8	-	1907	2198	1909	2109	23	229	39.00	7.5e-10	1.1e-13	Arginine/Serine-Rich protein 1
+DND1_DSRM	PF14709.10	CL0196	2370	2423	2371	2412	2	43	32.22	1.0e-07	1.6e-11	double strand RNA binding domain from DEAD END PROTEIN 1

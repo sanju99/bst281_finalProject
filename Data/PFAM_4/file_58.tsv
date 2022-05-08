@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ATP-synt_C	PF00137.24	-	17	76	17	76	1	60	53.61	2.2e-14	1.1e-18	ATP synthase subunit C
+ATP-synt_C	PF00137.24	-	93	152	93	152	1	60	79.97	1.3e-22	6.7e-27	ATP synthase subunit C

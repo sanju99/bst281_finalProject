@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PINIT	PF14324.9	CL0202	126	278	127	278	2	140	115.58	2.5e-33	2.5e-37	PINIT domain
+zf-MIZ	PF02891.23	CL0229	323	372	323	371	1	49	69.60	1.5e-19	1.5e-23	MIZ/SP-RING zinc finger

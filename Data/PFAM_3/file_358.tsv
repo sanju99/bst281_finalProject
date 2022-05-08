@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+POP1	PF06978.14	-	107	191	107	182	1	78	64.13	1.8e-17	1.9e-21	Ribonucleases P/MRP protein subunit POP1
+POP1	PF06978.14	-	163	258	167	257	114	205	74.36	1.3e-20	1.4e-24	Ribonucleases P/MRP protein subunit POP1
+POPLD	PF08170.15	-	617	708	617	708	1	93	93.48	8.5e-27	8.7e-31	POPLD (NUC188) domain

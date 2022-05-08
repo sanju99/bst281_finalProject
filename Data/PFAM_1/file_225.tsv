@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+MIF4G	PF02854.22	CL0020	162	431	169	397	2	173	35.25	1.0e-08	1.0e-12	MIF4G domain
+MIF4G	PF02854.22	CL0020	570	758	573	757	5	211	88.53	5.0e-25	5.1e-29	MIF4G domain
+MIF4G	PF02854.22	CL0020	773	986	776	986	4	212	149.05	1.5e-43	1.5e-47	MIF4G domain
+Upf2	PF04050.17	CL0020	1069	1218	1098	1218	10	133	112.83	2.0e-32	2.1e-36	Up-frameshift suppressor 2

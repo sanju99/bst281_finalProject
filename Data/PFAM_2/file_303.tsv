@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SNF2-rel_dom	PF00176.26	CL0023	487	768	502	767	46	317	241.89	8.2e-72	2.5e-75	SNF2-related domain
+Chromo	PF00385.27	CL0049	262	344	263	343	3	53	36.24	4.4e-09	1.3e-12	Chromo (CHRromatin Organisation MOdifier) domain
+Chromo	PF00385.27	CL0049	378	447	378	447	1	54	80.49	6.7e-23	2.0e-26	Chromo (CHRromatin Organisation MOdifier) domain
+CDH1_2_SANT_HL1	PF18375.4	-	1129	1218	1130	1218	2	91	109.77	9.0e-32	2.7e-35	CDH1/2 SANT-Helical linker 1
+DUF4208	PF13907.9	-	1459	1554	1465	1553	3	95	87.66	6.1e-25	1.9e-28	Domain of unknown function (DUF4208)
+Helicase_C	PF00271.34	CL0023	791	905	795	905	5	111	69.51	3.0e-19	9.3e-23	Helicase conserved C-terminal domain
+ResIII	PF04851.18	CL0023	481	650	482	648	2	169	34.73	1.8e-08	5.4e-12	Type III restriction enzyme, res subunit

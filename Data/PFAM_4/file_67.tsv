@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+7tm_1	PF00001.24	CL0192	55	302	55	302	1	264	186.17	7.5e-55	1.1e-58	7 transmembrane receptor (rhodopsin family)
+CXCR4_N	PF12109.11	-	6	38	6	37	1	32	60.13	1.6e-16	2.5e-20	CXCR4 Chemokine receptor N terminal
+7TM_GPCR_Srsx	PF10320.12	CL0192	40	315	51	257	3	205	26.45	4.2e-06	6.5e-10	Serpentine type 7TM GPCR chemoreceptor Srsx

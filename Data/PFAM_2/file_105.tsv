@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Dynamin_M	PF01031.23	-	225	510	225	509	1	286	342.51	1.9e-102	3.8e-106	Dynamin central region
+Dynamin_N	PF00350.26	CL0023	28	217	28	216	1	167	188.36	1.1e-55	2.3e-59	Dynamin family
+GED	PF02212.21	-	639	730	639	730	1	92	108.39	1.7e-31	3.4e-35	Dynamin GTPase effector domain

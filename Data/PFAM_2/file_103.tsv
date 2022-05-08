@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DUF5600	PF18150.4	-	291	397	292	397	2	107	156.73	2.9e-46	7.5e-50	Domain of unknown function (DUF5600)
+EHD_N	PF16880.8	-	27	59	27	59	1	33	56.80	1.6e-15	4.0e-19	N-terminal EH-domain containing protein
+EF-hand_4	PF12763.10	CL0220	440	540	450	534	11	97	52.81	3.3e-14	8.5e-18	Cytoskeletal-regulatory complex EF hand
+Dynamin_N	PF00350.26	CL0023	64	224	64	223	1	167	48.61	9.9e-13	2.5e-16	Dynamin family
+MMR_HSR1	PF01926.26	CL0023	63	223	64	223	2	114	29.88	5.2e-07	1.3e-10	50S ribosome-binding GTPase

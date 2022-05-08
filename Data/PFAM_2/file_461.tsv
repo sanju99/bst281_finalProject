@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-RanBP	PF00641.21	CL0167	422	453	422	453	1	30	45.41	3.8e-12	3.9e-16	Zn-finger in Ran binding protein and others
+RRM_1	PF00076.25	CL0221	287	365	287	365	1	70	40.33	2.2e-10	2.3e-14	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

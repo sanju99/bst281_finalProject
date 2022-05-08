@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UBA_4	PF14555.9	CL0214	14	57	15	55	2	41	43.17	2.8e-11	2.9e-15	UBA-like domain
+UBX	PF00789.23	CL0072	357	441	359	440	4	80	22.64	9.6e-05	9.8e-09	UBX domain

@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Hist_deacetyl	PF00850.22	CL0302	105	402	106	401	2	306	287.29	1.6e-85	1.7e-89	Histone deacetylase domain
+Hist_deacetyl	PF00850.22	CL0302	500	798	500	797	1	306	309.13	3.7e-92	3.7e-96	Histone deacetylase domain
+zf-UBP	PF02148.22	CL0229	1133	1195	1133	1193	1	62	61.41	8.5e-17	8.6e-21	Zn-finger in ubiquitin-hydrolases and other protein

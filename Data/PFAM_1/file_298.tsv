@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ECR1_N	PF14382.9	-	26	63	26	63	1	38	55.63	3.5e-15	3.5e-19	Exosome complex exonuclease RRP4 N-terminal region
+KH_6	PF15985.8	CL0007	169	211	169	208	1	47	47.37	2.2e-12	2.2e-16	KH domain

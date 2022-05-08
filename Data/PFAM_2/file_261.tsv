@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TIP49	PF06068.16	CL0023	21	365	21	364	1	350	540.86	1.5e-162	4.7e-166	TIP49 P-loop domain
+TIP49_C	PF17856.4	CL0671	370	435	370	435	1	66	98.11	2.5e-28	7.7e-32	TIP49 AAA-lid domain
+AAA	PF00004.32	CL0023	73	139	73	122	1	48	25.47	1.6e-05	4.9e-09	ATPase family associated with various cellular activities (AAA)

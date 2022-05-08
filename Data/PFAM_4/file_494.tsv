@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Kin17_mid	PF10357.12	CL0123	52	177	52	177	1	126	169.44	3.0e-50	3.1e-54	Domain of Kin17 curved DNA-binding protein
+KN17_SH3	PF18131.4	CL0361	276	328	276	328	1	53	83.99	5.8e-24	5.9e-28	KN17 SH3-like C-terminal domain

@@ -1,0 +1,10 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+zf-CCCH_4	PF18044.4	CL0537	6	27	7	27	2	22	28.07	1.4e-06	4.2e-10	CCCH-type zinc finger
+zf-CCCH_4	PF18044.4	CL0537	35	56	36	55	2	21	25.69	7.6e-06	2.3e-09	CCCH-type zinc finger
+zf-CCCH	PF00642.27	CL0537	33	57	36	55	5	25	27.24	2.8e-06	8.4e-10	Zinc finger C-x8-C-x5-C-x3-H type (and similar)
+zf-CCCH	PF00642.27	CL0537	167	191	169	191	4	27	24.73	1.7e-05	5.1e-09	Zinc finger C-x8-C-x5-C-x3-H type (and similar)
+zf-CCCH_2	PF14608.9	CL0537	8	26	8	26	2	18	16.85	0.008	2.4e-06	RNA-binding, Nab2-type zinc finger
+zf-CCCH_2	PF14608.9	CL0537	36	55	36	55	1	18	13.72	0.078	2.4e-05	RNA-binding, Nab2-type zinc finger
+zf-CCCH_2	PF14608.9	CL0537	170	190	171	190	2	19	17.58	0.0047	1.4e-06	RNA-binding, Nab2-type zinc finger
+zf-CCCH_2	PF14608.9	CL0537	326	348	326	348	1	19	24.60	2.9e-05	8.7e-09	RNA-binding, Nab2-type zinc finger
+zf-C3HC4	PF00097.28	CL0229	238	291	238	291	1	41	22.94	6.1e-05	1.9e-08	Zinc finger, C3HC4 type (RING finger)

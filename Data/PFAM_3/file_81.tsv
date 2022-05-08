@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+UPF0004	PF00919.23	CL0304	101	204	101	204	1	98	104.43	2.7e-30	4.1e-34	Uncharacterized protein family UPF0004
+Radical_SAM	PF04055.24	CL0036	252	461	252	461	1	167	93.10	2.6e-26	4.0e-30	Radical SAM superfamily
+TRAM	PF01938.23	CL0021	515	589	517	589	3	62	45.72	5.1e-12	7.8e-16	TRAM domain

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+TNRC6-PABC_bdg	PF16608.8	-	1258	1437	1258	1435	1	167	253.80	2.7e-75	6.8e-79	TNRC6-PABC binding domain
+TNRC6-PABC_bdg	PF16608.8	-	1433	1512	1436	1512	204	289	110.36	1.4e-31	3.5e-35	TNRC6-PABC binding domain
+M_domain	PF12938.10	-	1020	1249	1020	1248	1	242	236.39	4.2e-70	1.1e-73	M domain of GW182
+Ago_hook	PF10427.12	-	811	945	816	941	29	163	79.09	5.8e-22	1.5e-25	Argonaute hook
+UBA	PF00627.34	CL0214	941	975	944	973	6	35	23.36	4.5e-05	1.1e-08	UBA/TS-N domain

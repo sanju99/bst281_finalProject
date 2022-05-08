@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+SF3a60_Prp9_C	PF11931.11	CL0361	382	501	382	501	1	121	185.49	4.4e-55	8.9e-59	SF3a60/Prp9 C-terminal
+SDE2_2C	PF13297.9	-	224	303	225	303	2	82	103.20	5.6e-30	1.1e-33	Replication stress response SDE2 C-terminal
+SF3A3	PF16837.8	-	129	180	129	178	1	46	60.69	1.2e-16	2.4e-20	Pre-mRNA-splicing factor SF3A3, of SF3a complex, Prp9
+SF3a60_bindingd	PF12108.11	-	74	100	74	100	1	27	56.88	1.5e-15	3.1e-19	Splicing factor SF3a60 binding domain

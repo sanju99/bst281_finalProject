@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Utp21	PF04192.15	-	745	947	745	947	1	213	216.13	4.8e-64	7.3e-68	Utp21 specific WD40 associated putative domain
+WD40	PF00400.35	CL0186	152	188	154	187	3	37	13.30	0.13	2.0e-05	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	612	650	613	650	2	38	36.54	5.9e-09	9.0e-13	WD domain, G-beta repeat
+ANAPC4_WD40	PF12894.10	CL0186	253	344	256	341	4	89	21.47	0.00024	3.6e-08	Anaphase-promoting complex subunit 4 WD40 domain

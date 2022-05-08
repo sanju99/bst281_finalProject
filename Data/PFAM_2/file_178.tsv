@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ATG8	PF02991.19	CL0072	13	116	13	116	1	104	168.30	4.5e-50	4.5e-54	Autophagy protein Atg8 ubiquitin like
+APG12	PF04110.16	CL0072	28	116	44	116	15	87	26.84	5.4e-06	5.5e-10	Ubiquitin-like autophagy protein Apg12

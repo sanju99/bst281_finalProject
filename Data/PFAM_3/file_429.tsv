@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+AAA_11	PF13086.9	CL0023	191	411	192	410	2	260	190.14	6.4e-56	2.9e-59	AAA domain
+AAA_12	PF13087.9	CL0023	418	615	419	614	2	198	174.06	2.9e-51	1.3e-54	AAA domain
+AAA_30	PF13604.9	CL0023	191	305	192	270	2	81	38.59	9.8e-10	4.5e-13	AAA domain
+R3H	PF01424.25	-	726	784	732	784	9	60	43.23	3.0e-11	1.4e-14	R3H domain
+AAA_19	PF13245.9	CL0023	196	408	196	406	1	144	39.33	7.5e-10	3.4e-13	AAA domain
+zf-AN1	PF01428.19	-	897	937	897	935	1	38	28.75	1.1e-06	5.2e-10	AN1-like Zinc finger
+ResIII	PF04851.18	CL0023	188	398	205	378	22	142	25.98	8.7e-06	4.0e-09	Type III restriction enzyme, res subunit

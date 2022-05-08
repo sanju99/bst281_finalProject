@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cullin	PF00888.25	CL0020	19	672	19	672	1	620	607.70	3.0e-182	3.0e-186	Cullin family
+Cullin_Nedd8	PF10557.12	CL0123	710	772	711	772	2	63	62.57	3.0e-17	3.1e-21	Cullin protein neddylation domain

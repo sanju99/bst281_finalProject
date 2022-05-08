@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Jnk-SapK_ap_N	PF09744.12	-	24	179	24	178	1	149	179.09	7.3e-53	1.1e-56	JNK_SAPK-associated protein-1
+WD40_2	PF19056.3	CL0186	946	1183	958	1174	91	305	167.75	3.8e-49	5.8e-53	WD40 repeated domain
+JIP_LZII	PF16471.8	-	404	474	405	474	2	71	104.83	2.1e-30	3.2e-34	JNK-interacting protein leucine zipper II

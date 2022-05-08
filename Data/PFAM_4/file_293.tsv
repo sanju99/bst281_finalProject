@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+ABC_tran	PF00005.30	CL0023	319	480	321	480	3	137	75.10	8.1e-21	2.1e-24	ABC transporter
+ABC_tran	PF00005.30	CL0023	641	771	642	771	2	137	80.19	2.2e-22	5.5e-26	ABC transporter
+ABC_tran_Xtn	PF12848.10	CL0023	519	605	519	594	1	76	25.91	8.1e-06	2.1e-09	ABC transporter

@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+tRNA-synt_1	PF00133.25	CL0039	87	712	99	710	14	600	552.05	1.5e-165	3.7e-169	tRNA synthetases class I (I, L, M and V)
+Anticodon_1	PF08264.16	CL0258	756	921	756	879	1	123	93.79	1.1e-26	2.7e-30	Anticodon-binding domain of tRNA ligase
+tRNA-synt_1g	PF09334.14	CL0039	112	267	116	258	8	135	46.72	2.0e-12	5.1e-16	tRNA synthetases class I (M)
+tRNA-synt_1_2	PF13603.9	CL0039	284	460	338	440	65	161	29.18	6.5e-07	1.7e-10	Leucyl-tRNA synthetase, Domain 2
+zf-FPG_IleRS	PF06827.17	CL0167	984	1008	985	1008	2	30	22.32	9.3e-05	2.4e-08	Zinc finger found in FPG and IleRS

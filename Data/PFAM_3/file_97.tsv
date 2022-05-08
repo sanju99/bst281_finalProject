@@ -1,0 +1,14 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DHC_N1	PF08385.15	-	250	802	252	802	3	562	572.53	1.1e-171	7.5e-175	Dynein heavy chain, N-terminal region 1
+AAA_6	PF12774.10	CL0023	1942	2269	1942	2269	1	327	469.07	6.9e-141	4.9e-144	Hydrolytic ATP binding site of dynein motor region
+DHC_N2	PF08393.16	-	1402	1807	1404	1807	3	399	413.55	1.0e-123	7.1e-127	Dynein heavy chain, N-terminal region 2
+Dynein_C	PF18199.4	-	4326	4621	4329	4621	4	309	318.18	5.9e-95	4.2e-98	Dynein heavy chain C-terminal domain
+AAA_8	PF12780.10	CL0023	2926	3188	2926	3186	1	257	296.66	1.4e-88	9.9e-92	P-loop containing dynein motor region D4
+AAA_9	PF12781.10	CL0023	3574	3795	3575	3795	2	222	295.66	1.6e-88	1.1e-91	ATP-binding dynein motor region
+AAA_7	PF12775.10	CL0023	2551	2732	2554	2732	4	181	217.38	1.1e-64	8.1e-68	P-loop containing dynein motor region
+AAA_lid_11	PF18198.4	CL0671	4181	4320	4181	4320	1	139	179.17	5.2e-53	3.7e-56	Dynein heavy chain AAA lid domain
+MT	PF12777.10	-	3201	3550	3202	3545	2	338	146.48	1.1e-42	7.6e-46	Microtubule-binding stalk of dynein motor
+Dynein_heavy	PF03028.18	CL0023	4040	4150	4041	4149	2	114	124.74	1.9e-36	1.3e-39	Dynein heavy chain region D6 P-loop domain
+AAA_5	PF07728.17	CL0023	2257	2393	2260	2392	4	137	31.24	2.0e-07	1.4e-10	AAA domain (dynein-related subfamily)
+AAA_lid_1	PF17857.4	CL0671	2766	2862	2770	2855	5	90	66.30	2.6e-18	1.9e-21	AAA+ lid domain
+Dynein_AAA_lid	PF17852.4	-	2424	2544	2424	2543	1	129	60.16	2.4e-16	1.7e-19	Dynein heavy chain AAA lid domain

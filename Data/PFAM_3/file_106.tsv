@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PFK	PF00365.23	CL0240	17	324	18	323	2	285	361.99	2.3e-108	1.2e-112	Phosphofructokinase
+PFK	PF00365.23	CL0240	402	687	403	686	2	285	302.44	3.2e-90	1.6e-94	Phosphofructokinase

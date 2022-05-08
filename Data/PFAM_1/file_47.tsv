@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HSP90	PF00183.21	-	191	712	191	702	1	504	773.26	1.6e-232	2.5e-236	Hsp90 protein
+HATPase_c	PF02518.29	CL0025	35	189	35	188	1	111	51.96	9.6e-14	1.5e-17	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c_3	PF13589.9	CL0025	33	162	34	154	2	99	38.40	1.2e-09	1.8e-13	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase

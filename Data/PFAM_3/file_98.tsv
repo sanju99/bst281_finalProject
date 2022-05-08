@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+DnaJ	PF00226.34	CL0392	108	169	108	169	1	63	90.53	5.8e-26	5.9e-30	DnaJ domain
+DUF1977	PF09320.14	-	263	369	269	369	6	106	87.62	5.9e-25	6.0e-29	Domain of unknown function (DUF1977)

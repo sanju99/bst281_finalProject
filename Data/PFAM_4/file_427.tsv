@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Alpha_kinase	PF02816.21	CL0016	139	318	139	318	1	185	201.29	1.6e-59	1.6e-63	Alpha-kinase family
+Sel1	PF08238.15	CL0020	526	563	528	562	7	37	13.07	0.14	1.4e-05	Sel1 repeat
+Sel1	PF08238.15	CL0020	565	609	590	609	19	38	8.88	2.8	0.00029	Sel1 repeat
+Sel1	PF08238.15	CL0020	665	700	672	699	10	36	7.66	6.8	0.00069	Sel1 repeat

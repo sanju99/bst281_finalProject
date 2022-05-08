@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+RPN13_C	PF16550.8	-	268	381	268	381	1	112	119.08	1.1e-34	1.1e-38	UCH-binding domain
+Proteasom_Rpn13	PF04683.16	CL0266	29	111	29	111	1	87	109.46	9.6e-32	9.7e-36	Proteasome complex subunit Rpn13 ubiquitin receptor

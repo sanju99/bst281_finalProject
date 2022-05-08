@@ -1,0 +1,6 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+NOG1_N	PF17835.4	CL0669	6	165	6	165	1	160	179.79	4.3e-53	1.1e-56	NOG1 N-terminal helical domain
+NOG1	PF06858.17	CL0023	235	292	235	292	1	58	92.24	1.3e-26	3.3e-30	Nucleolar GTP-binding protein 1 (NOG1)
+NOGCT	PF08155.14	-	395	446	395	446	1	54	72.88	1.7e-20	4.3e-24	NOGCT (NUC087) domain
+MMR_HSR1	PF01926.26	CL0023	170	290	172	290	3	114	66.02	3.2e-18	8.1e-22	50S ribosome-binding GTPase
+FeoB_N	PF02421.21	CL0023	169	335	170	333	2	154	48.87	5.4e-13	1.4e-16	Ferrous iron transport protein B

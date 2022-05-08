@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+PDZ	PF00595.27	CL0466	108	185	109	184	2	81	37.34	2.8e-09	5.7e-13	PDZ domain
+PDZ_6	PF17820.4	CL0466	131	186	131	185	1	53	33.76	2.6e-08	5.3e-12	PDZ domain

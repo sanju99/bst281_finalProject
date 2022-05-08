@@ -1,0 +1,8 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Cadherin	PF00028.20	CL0159	164	258	166	257	3	92	48.90	7.3e-13	1.5e-16	Cadherin domain
+Cadherin	PF00028.20	CL0159	272	373	274	373	3	93	79.14	2.7e-22	5.5e-26	Cadherin domain
+Cadherin	PF00028.20	CL0159	387	489	389	488	3	92	69.31	3.2e-19	6.4e-23	Cadherin domain
+Cadherin	PF00028.20	CL0159	502	596	504	595	3	92	66.56	2.3e-18	4.6e-22	Cadherin domain
+Cadherin	PF00028.20	CL0159	608	701	609	701	2	93	30.79	3.3e-07	6.7e-11	Cadherin domain
+Cadherin_pro	PF08758.14	CL0159	31	121	32	120	2	89	110.22	4.4e-32	9.0e-36	Cadherin prodomain like
+CADH_Y-type_LIR	PF01049.20	-	843	902	843	902	1	60	109.31	7.9e-32	1.6e-35	Cadherin, Y-type LIR-motif

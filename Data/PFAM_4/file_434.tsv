@@ -1,0 +1,5 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+HTH_53	PF18606.4	CL0123	5	66	5	66	1	62	111.69	1.0e-32	2.1e-36	Zap  helix turn helix N-terminal domain
+PARP	PF00644.23	CL0084	737	895	739	894	3	193	72.96	2.6e-20	5.3e-24	Poly(ADP-ribose) polymerase catalytic domain
+zf-CCCH_8	PF18633.4	CL0537	143	170	143	170	1	28	60.93	9.4e-17	1.9e-20	Zinc-finger antiviral protein (ZAP) zinc finger domain 3
+WWE	PF02825.23	-	607	682	607	679	1	65	45.23	1.1e-11	2.3e-15	WWE domain

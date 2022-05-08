@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Glyco_hydro_31	PF01055.29	CL0058	365	810	365	810	1	444	510.53	4.9e-153	7.5e-157	Glycosyl hydrolases family 31
+Gal_mutarotas_2	PF13802.9	CL0103	253	324	254	324	2	68	82.47	2.2e-23	3.4e-27	Galactose mutarotase-like

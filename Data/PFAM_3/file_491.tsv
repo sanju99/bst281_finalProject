@@ -1,0 +1,4 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Helicase_C	PF00271.34	CL0023	683	809	686	808	4	110	54.86	1.1e-14	1.6e-18	Helicase conserved C-terminal domain
+DEAD	PF00270.32	CL0023	482	652	483	649	2	173	59.58	3.5e-16	5.4e-20	DEAD/DEAH box helicase
+Drc1-Sld2	PF11719.11	-	4	112	6	73	3	67	33.58	3.5e-08	5.3e-12	DNA replication and checkpoint protein

@@ -1,0 +1,7 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Kinesin	PF00225.26	CL0023	14	370	14	370	1	332	349.09	2.2e-104	3.4e-108	Kinesin motor domain
+WD40	PF00400.35	CL0186	1298	1334	1299	1334	2	38	19.33	0.0016	2.5e-07	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	1443	1484	1444	1483	2	37	16.75	0.011	1.6e-06	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	1535	1573	1539	1573	5	38	12.33	0.26	4.0e-05	WD domain, G-beta repeat
+WD40	PF00400.35	CL0186	1577	1613	1579	1613	3	38	18.54	0.0029	4.4e-07	WD domain, G-beta repeat
+Microtub_bd	PF16796.8	CL0023	5	159	8	158	21	155	68.12	8.4e-19	1.3e-22	Microtubule binding

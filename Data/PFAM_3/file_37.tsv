@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Carboxyl_trans	PF01039.25	CL0127	321	875	321	874	1	493	619.72	3.7e-186	3.7e-190	Carboxyl transferase domain
+ACC_central	PF08326.15	-	1	270	2	270	477	726	365.63	5.2e-109	5.3e-113	Acetyl-CoA carboxylase, central region

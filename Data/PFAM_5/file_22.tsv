@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-G-patch	PF01585.26	CL0449	743	787	743	787	1	45	67.72	6.3e-19	1.6e-22	G-patch domain
-OCRE	PF17780.4	-	458	509	458	508	1	51	66.87	1.4e-18	3.5e-22	OCRE domain
-RRM_1	PF00076.25	CL0221	100	171	100	163	1	63	31.26	1.5e-07	3.8e-11	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-zf-RanBP	PF00641.21	CL0167	181	210	181	209	1	29	37.53	1.1e-09	2.8e-13	Zn-finger in Ran binding protein and others
-G-patch_2	PF12656.10	CL0449	741	790	745	788	16	59	34.54	1.7e-08	4.3e-12	G-patch domain

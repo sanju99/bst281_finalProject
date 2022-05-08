@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-MutS_V	PF00488.24	CL0023	1130	1324	1131	1323	2	187	238.17	7.4e-71	2.3e-74	MutS domain V
-MutS_III	PF05192.21	-	738	1064	739	1064	2	191	137.42	7.1e-40	2.2e-43	MutS domain III
-MutS_I	PF01624.23	-	407	526	407	524	1	111	116.62	6.9e-34	2.1e-37	MutS domain I
-MutS_IV	PF05190.21	-	932	1024	932	1024	1	92	71.70	5.3e-20	1.6e-23	MutS family domain IV
-PWWP	PF00855.20	CL0049	93	184	93	183	1	92	71.40	7.3e-20	2.2e-23	PWWP domain
-MutS_II	PF05188.20	-	537	703	538	699	2	132	45.17	1.2e-11	3.6e-15	MutS domain II

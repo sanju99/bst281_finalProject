@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DUF1744	PF08490.15	CL0194	1536	1925	1546	1925	24	401	488.99	8.9e-147	2.3e-150	Domain of unknown function (DUF1744)
-DNA_pol_B_exo1	PF03104.22	CL0219	86	427	87	426	2	336	323.68	1.4e-96	3.7e-100	DNA polymerase family B, exonuclease domain
-DNA_pol_B	PF00136.24	CL0194	620	1147	630	1145	69	456	49.57	2.7e-13	6.9e-17	DNA polymerase family B
-DNA_pol_B_exo2	PF10108.12	CL0219	333	476	338	475	35	173	31.76	1.2e-07	3.0e-11	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB
-RNase_H_2	PF13482.9	CL0219	272	441	337	435	40	117	22.85	7.4e-05	1.9e-08	RNase_H superfamily

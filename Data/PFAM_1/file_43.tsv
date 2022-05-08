@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GTP_EFTU	PF00009.30	CL0023	17	360	18	359	2	194	220.18	1.9e-65	5.9e-69	Elongation factor Tu GTP binding domain
-EFG_IV	PF03764.21	CL0329	620	737	622	737	3	121	106.45	8.1e-31	2.5e-34	Elongation factor G, domain IV
-EFG_C	PF00679.27	CL0437	739	828	739	826	1	87	79.41	1.7e-22	5.1e-26	Elongation factor G C-terminus
-EFG_III	PF14492.9	CL0437	501	568	503	564	4	66	48.50	7.3e-13	2.2e-16	Elongation Factor G, domain III
-GTP_EFTU_D2	PF03144.28	CL0575	409	486	411	485	3	73	44.02	2.3e-11	7.1e-15	Elongation factor Tu domain 2
-MMR_HSR1	PF01926.26	CL0023	21	160	27	158	7	113	23.88	3.8e-05	1.2e-08	50S ribosome-binding GTPase

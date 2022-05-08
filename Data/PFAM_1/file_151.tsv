@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Myosin_head	PF00063.24	CL0023	407	1061	408	1050	2	588	339.62	3.5e-101	7.2e-105	Myosin head (motor domain)
-Myosin_head	PF00063.24	CL0023	1080	1172	1085	1172	594	677	38.05	6.3e-10	1.3e-13	Myosin head (motor domain)
-Myosin_tail_1	PF01576.22	-	1204	1682	1219	1677	370	820	68.35	3.5e-19	7.2e-23	Myosin tail
-PDZ	PF00595.27	CL0466	220	308	223	308	4	82	30.62	3.5e-07	7.1e-11	PDZ domain
-PDZ_6	PF17820.4	CL0466	266	309	268	308	14	53	30.46	2.8e-07	5.7e-11	PDZ domain

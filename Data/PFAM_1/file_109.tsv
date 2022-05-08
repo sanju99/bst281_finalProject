@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-TUDOR	PF00567.27	CL0049	2	129	6	128	11	121	72.68	2.8e-20	2.9e-24	Tudor domain
-TUDOR	PF00567.27	CL0049	883	1001	908	999	31	118	32.30	9.0e-08	9.2e-12	Tudor domain
-DEAD	PF00270.32	CL0023	447	613	468	595	30	150	28.00	1.8e-06	1.8e-10	DEAD/DEAH box helicase

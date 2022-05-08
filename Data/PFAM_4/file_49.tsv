@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	267	537	267	534	1	260	183.30	6.0e-54	1.2e-57	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	353	536	359	536	73	259	104.62	5.5e-30	1.1e-33	Protein tyrosine and serine/threonine kinase
-dsrm	PF00035.29	CL0196	11	75	13	75	4	67	51.86	1.0e-13	2.1e-17	Double-stranded RNA binding motif
-dsrm	PF00035.29	CL0196	101	165	101	164	1	66	46.08	6.6e-12	1.4e-15	Double-stranded RNA binding motif

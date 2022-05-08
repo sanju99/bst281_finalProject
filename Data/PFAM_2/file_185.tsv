@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PRKCSH-like	PF12999.10	-	1	174	10	163	9	166	151.86	1.7e-44	5.1e-48	Glucosidase II beta subunit-like
-PRKCSH_1	PF13015.9	CL0226	373	523	375	512	3	128	73.17	2.0e-20	6.1e-24	Glucosidase II beta subunit-like protein
-PRKCSH	PF07915.16	CL0226	413	471	413	471	1	81	36.82	6.4e-09	2.0e-12	Glucosidase II beta subunit-like protein
-EF-hand_5	PF13202.9	CL0220	213	236	216	236	3	23	19.57	0.0005	1.5e-07	EF hand

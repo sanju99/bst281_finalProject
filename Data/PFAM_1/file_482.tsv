@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Vps5	PF09325.13	CL0145	281	514	283	513	3	235	291.81	4.1e-87	6.2e-91	Vps5 C terminal like
-Sorting_nexin	PF03700.16	-	2	75	2	75	1	76	81.08	6.7e-23	1.0e-26	Sorting nexin, N-terminal domain
-PX	PF00787.27	-	170	265	172	265	3	84	76.61	2.0e-21	3.0e-25	PX domain

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Calponin	PF00402.21	-	166	190	166	190	1	25	59.11	2.4e-16	2.5e-20	Calponin family repeat
-Calponin	PF00402.21	-	206	230	206	230	1	25	53.78	1.1e-14	1.1e-18	Calponin family repeat
-Calponin	PF00402.21	-	245	268	245	268	1	25	31.79	8.5e-08	8.7e-12	Calponin family repeat
-CH	PF00307.34	CL0188	28	133	30	131	3	107	74.01	1.1e-20	1.1e-24	Calponin homology (CH) domain

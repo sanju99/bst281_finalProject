@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DOCK-C2	PF14429.9	CL0154	636	827	637	827	2	188	166.88	4.8e-49	1.5e-52	C2 domain in Dock180 and Zizimin proteins
-DHR-2_Lobe_A	PF06920.16	CL0020	1598	1770	1598	1769	1	157	165.50	1.2e-48	3.7e-52	DHR-2, Lobe A
-DOCK_C-D_N	PF11878.11	-	46	156	46	156	1	112	133.95	3.4e-39	1.0e-42	Dedicator of cytokinesis C/D, N terminal
-DHR-2_Lobe_C	PF20421.1	CL0020	1961	2063	1961	2062	1	102	118.72	9.8e-35	3.0e-38	DHR-2, Lobe C
-DHR-2_Lobe_B	PF20422.1	-	1851	1927	1851	1926	1	77	97.53	3.9e-28	1.2e-31	DHR-2, Lobe B
-PH	PF00169.32	CL0266	175	281	176	280	2	104	48.37	1.2e-12	3.7e-16	PH domain

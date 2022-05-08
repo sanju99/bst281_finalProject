@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-BOP1NT	PF08145.15	-	144	402	144	402	1	259	365.08	2.9e-109	4.5e-113	BOP1NT (NUC169) domain
-WD40	PF00400.35	CL0186	403	441	408	440	6	37	40.48	3.3e-10	5.1e-14	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	653	689	655	688	3	35	18.58	0.0028	4.3e-07	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	704	746	706	745	3	37	24.12	4.9e-05	7.6e-09	WD domain, G-beta repeat

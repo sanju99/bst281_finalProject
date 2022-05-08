@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-KCTD11_21_C	PF19329.2	-	107	260	107	260	1	154	318.96	4.8e-96	7.3e-100	BTB/POZ domain-containing protein KCTD11/21 C-terminus
-BTB_2	PF02214.25	CL0033	5	96	5	93	1	91	72.80	2.4e-20	3.7e-24	BTB/POZ domain
-BTB_3	PF16017.8	CL0033	4	103	5	87	2	88	22.47	9.0e-05	1.4e-08	BTB/POZ domain

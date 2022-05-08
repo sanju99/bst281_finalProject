@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GCV_T	PF01571.24	CL0289	474	745	479	744	7	254	215.14	1.0e-63	2.1e-67	Aminomethyltransferase folate-binding domain
-DAO	PF01266.27	CL0063	51	414	52	414	2	353	207.99	3.2e-61	6.6e-65	FAD dependent oxidoreductase
-GCV_T_C	PF08669.14	-	770	848	770	847	1	78	73.60	9.5e-21	1.9e-24	Glycine cleavage T-protein C-terminal barrel domain
-FAO_M	PF16350.8	-	417	471	417	470	1	55	49.22	5.0e-13	1.0e-16	FAD dependent oxidoreductase central domain

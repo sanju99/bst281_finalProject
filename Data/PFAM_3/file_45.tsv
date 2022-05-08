@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PID	PF00640.26	CL0266	370	509	370	508	1	139	131.83	1.8e-38	1.9e-42	Phosphotyrosine interaction domain (PTB/PID)
-PID	PF00640.26	CL0266	543	664	578	663	51	139	24.65	2.2e-05	2.2e-09	Phosphotyrosine interaction domain (PTB/PID)
-WW	PF00397.29	CL0680	255	283	255	283	1	31	27.90	2.0e-06	2.0e-10	WW domain

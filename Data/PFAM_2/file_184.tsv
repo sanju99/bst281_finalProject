@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ERM_C	PF00769.22	CL0719	510	586	511	586	2	77	111.85	1.6e-32	4.0e-36	Ezrin/radixin/moesin family C terminal
-ERM_helical	PF20492.1	-	337	456	337	456	1	120	106.20	1.2e-30	3.0e-34	Ezrin/radixin/moesin, alpha-helical domain
-FERM_C	PF09380.13	CL0266	210	299	210	298	1	93	94.66	3.8e-27	9.6e-31	FERM C-terminal PH-like domain
-FERM_M	PF00373.21	CL0632	88	206	92	206	5	116	86.05	2.4e-24	6.2e-28	FERM central domain
-FERM_N	PF09379.13	CL0072	9	71	9	68	1	61	64.39	7.0e-18	1.8e-21	FERM N-terminal domain

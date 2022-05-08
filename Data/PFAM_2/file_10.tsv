@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PhoLip_ATPase_C	PF16212.8	CL0137	845	1097	845	1093	1	245	245.29	8.6e-73	2.2e-76	Phospholipid-translocating P-type ATPase C-terminal
-PhoLip_ATPase_N	PF16209.8	-	26	95	40	94	11	66	77.49	5.0e-22	1.3e-25	Phospholipid-translocating ATPase N-terminal
-E1-E2_ATPase	PF00122.23	-	122	374	124	372	3	173	41.94	7.9e-11	2.0e-14	E1-E2 ATPase
-Cation_ATPase	PF13246.9	CL0137	470	579	473	577	4	89	39.76	3.9e-10	1.0e-13	Cation transport ATPase (P-type)
-Hydrolase	PF00702.29	CL0137	406	727	407	689	2	153	27.96	2.7e-06	6.8e-10	haloacid dehalogenase-like hydrolase

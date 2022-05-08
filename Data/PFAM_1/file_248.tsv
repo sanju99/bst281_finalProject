@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ATP-synt_ab	PF00006.28	CL0023	230	455	230	455	1	214	362.97	5.4e-109	8.2e-113	ATP synthase alpha/beta family, nucleotide-binding domain
-ATP-synt_ab_Xtn	PF16886.8	-	99	221	99	221	1	121	146.91	2.5e-43	3.8e-47	ATPsynthase alpha/beta subunit N-term extension
-ATP-synt_ab_N	PF02874.26	CL0275	21	83	23	83	3	69	54.14	1.8e-14	2.7e-18	ATP synthase alpha/beta family, beta-barrel domain

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ORC4_C	PF14629.9	CL0671	228	415	229	414	2	220	171.71	1.5e-50	3.9e-54	Origin recognition complex (ORC) subunit 4 C-terminus
-AAA_16	PF13191.9	CL0023	36	190	37	190	2	170	47.16	3.4e-12	8.8e-16	AAA ATPase domain
-AAA	PF00004.32	CL0023	63	216	63	212	1	126	39.67	6.5e-10	1.7e-13	ATPase family associated with various cellular activities (AAA)
-AAA_22	PF13401.9	CL0023	56	200	61	193	6	131	32.63	8.9e-08	2.3e-11	AAA domain

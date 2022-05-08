@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-BHD_3	PF10405.12	CL0123	751	824	751	823	1	75	85.41	2.8e-24	5.7e-28	Rad4 beta-hairpin domain 3
-Rad4	PF03835.18	CL0125	494	628	502	624	10	142	75.95	2.7e-21	5.5e-25	Rad4 transglutaminase-like domain
-BHD_2	PF10404.12	CL0700	685	744	685	744	1	64	54.58	1.7e-14	3.4e-18	Rad4 beta-hairpin domain 2
-BHD_1	PF10403.12	CL0700	631	681	632	681	2	56	51.28	9.2e-14	1.9e-17	Rad4 beta-hairpin domain 1

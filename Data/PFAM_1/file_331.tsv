@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	60	311	60	311	1	264	253.26	2.8e-75	8.4e-79	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	60	308	62	307	3	257	150.67	5.0e-44	1.5e-47	Protein tyrosine and serine/threonine kinase
-KA1	PF02149.22	CL0573	751	795	753	795	3	45	70.11	9.7e-20	3.0e-23	Kinase associated domain 1
-Kinase-like	PF14531.9	CL0016	142	299	159	277	145	270	26.35	4.4e-06	1.4e-09	Kinase-like
-UBA	PF00627.34	CL0214	331	367	332	367	2	37	26.91	3.5e-06	1.1e-09	UBA/TS-N domain

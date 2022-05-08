@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PCMT	PF01135.22	CL0063	8	221	9	221	2	210	289.10	2.2e-86	4.4e-90	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
-Methyltransf_25	PF13649.9	CL0063	82	177	83	165	2	77	29.12	1.3e-06	2.6e-10	Methyltransferase domain
-Methyltransf_11	PF08241.15	CL0063	83	181	83	179	1	94	22.90	0.00011	2.2e-08	Methyltransferase domain
-Ubie_methyltran	PF01209.21	CL0063	68	205	77	160	46	124	20.38	0.00029	5.9e-08	ubiE/COQ5 methyltransferase family

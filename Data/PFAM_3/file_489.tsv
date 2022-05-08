@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DEAD	PF00270.32	CL0023	255	432	255	431	1	175	163.73	3.7e-48	7.5e-52	DEAD/DEAH box helicase
-Helicase_C	PF00271.34	CL0023	493	623	505	623	11	111	83.61	1.3e-23	2.6e-27	Helicase conserved C-terminal domain
-DUF4217	PF13959.9	-	693	754	694	754	2	62	61.78	5.6e-17	1.1e-20	Domain of unknown function (DUF4217)
-ResIII	PF04851.18	CL0023	234	427	267	425	23	169	27.23	3.6e-06	7.3e-10	Type III restriction enzyme, res subunit

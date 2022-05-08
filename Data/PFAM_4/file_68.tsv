@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DKCLD	PF08068.15	CL0649	49	106	49	106	1	58	106.07	7.7e-31	1.6e-34	DKCLD (NUC011) domain
-TruB_N	PF01509.21	CL0649	110	226	110	226	1	149	67.68	1.5e-18	3.2e-22	TruB family pseudouridylate synthase (N terminal domain)
-TruB_C_2	PF16198.8	CL0649	227	294	227	293	1	63	77.09	9.2e-22	1.9e-25	tRNA pseudouridylate synthase B C-terminal domain
-PUA	PF01472.23	CL0178	297	370	297	370	1	74	65.09	4.5e-18	9.3e-22	PUA domain

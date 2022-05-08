@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ThiF	PF00899.24	CL0063	55	446	55	445	1	218	189.66	4.4e-56	1.1e-59	ThiF family
-ThiF	PF00899.24	CL0063	451	950	451	949	1	218	263.61	1.0e-78	2.7e-82	ThiF family
-UBA_E1_SCCH	PF10585.12	-	638	884	638	884	1	256	327.96	5.8e-98	1.5e-101	Ubiquitin-activating enzyme, SCCH domain
-E1_UFD	PF09358.13	-	955	1053	955	1053	1	93	119.34	9.2e-35	2.3e-38	Ubiquitin fold domain
-E1_FCCH	PF16190.8	-	227	296	227	296	1	70	112.44	8.6e-33	2.2e-36	Ubiquitin-activating enzyme E1 FCCH domain
-E1_4HB	PF16191.8	-	297	366	298	366	2	71	96.98	5.6e-28	1.4e-31	Ubiquitin-activating enzyme E1 four-helix bundle

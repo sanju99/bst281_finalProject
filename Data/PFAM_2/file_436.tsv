@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CoA_binding	PF02629.22	CL0063	53	146	53	146	1	96	111.89	2.0e-32	3.0e-36	CoA binding domain
-Ligase_CoA	PF00549.22	CL0506	199	324	199	324	1	153	81.93	4.4e-23	6.7e-27	CoA-ligase
-Succ_CoA_lig	PF13607.9	CL0506	193	336	193	303	1	106	34.01	2.4e-08	3.6e-12	Succinyl-CoA ligase like flavodoxin domain

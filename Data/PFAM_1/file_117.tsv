@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Ig_3	PF13927.9	CL0011	25	112	31	112	10	79	45.85	7.0e-12	1.8e-15	Immunoglobulin domain
-Ig_3	PF13927.9	CL0011	220	305	220	303	1	77	39.68	5.9e-10	1.5e-13	Immunoglobulin domain
-I-set	PF07679.19	CL0011	23	131	25	113	3	78	40.31	2.7e-10	6.8e-14	Immunoglobulin I-set domain
-I-set	PF07679.19	CL0011	221	318	224	318	4	90	30.07	4.2e-07	1.1e-10	Immunoglobulin I-set domain
-ig	PF00047.28	CL0011	27	122	33	115	7	79	40.96	1.8e-10	4.6e-14	Immunoglobulin domain

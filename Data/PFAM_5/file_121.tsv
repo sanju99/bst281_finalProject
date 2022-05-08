@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ubiquitin	PF00240.26	CL0072	3	74	3	74	1	72	95.52	1.2e-27	1.9e-31	Ubiquitin family
-Rad60-SLD	PF11976.11	CL0072	1	71	2	71	2	72	60.38	1.2e-16	1.8e-20	Ubiquitin-2 like Rad60 SUMO-like
-Ubiquitin_2	PF14560.9	CL0072	2	70	9	60	12	71	23.63	5.8e-05	8.8e-09	Ubiquitin-like domain

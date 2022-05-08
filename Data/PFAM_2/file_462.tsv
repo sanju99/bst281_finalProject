@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Enolase_C	PF00113.25	CL0256	142	432	143	430	2	294	497.00	1.8e-149	2.8e-153	Enolase, C-terminal TIM barrel domain
-Enolase_N	PF03952.19	CL0227	3	134	3	134	1	131	199.54	2.1e-59	3.3e-63	Enolase, N-terminal domain
-MR_MLE_C	PF13378.9	CL0256	196	412	272	371	58	156	30.02	4.0e-07	6.1e-11	Enolase C-terminal domain-like

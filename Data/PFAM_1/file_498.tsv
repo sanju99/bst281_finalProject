@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RNB	PF00773.22	-	467	797	467	793	1	319	329.78	2.1e-98	6.3e-102	RNB domain
-OB_Dis3	PF17849.4	CL0021	370	438	372	438	3	77	77.00	9.0e-22	2.7e-25	Dis3-like cold-shock domain 2 (CSD2)
-PIN_4	PF13638.9	CL0280	66	195	68	193	3	129	54.99	1.1e-14	3.4e-18	PIN domain
-Rrp44_CSD1	PF17216.6	CL0021	225	351	227	319	3	92	49.68	3.4e-13	1.0e-16	Rrp44-like cold shock domain
-Rrp44_S1	PF17215.6	CL0021	846	925	847	918	2	81	43.95	1.8e-11	5.6e-15	S1 domain
-CSD2	PF17876.4	CL0021	373	443	374	442	3	72	29.39	7.3e-07	2.2e-10	Cold shock domain

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-EST1_DNA_bind	PF10373.12	CL0020	751	1107	751	1104	1	282	208.02	2.1e-61	3.2e-65	Est1 DNA/RNA binding domain
-PIN_4	PF13638.9	CL0280	1248	1409	1249	1408	2	129	75.44	5.2e-21	8.0e-25	PIN domain
-EST1	PF10374.12	CL0020	638	743	639	742	2	134	54.22	2.2e-14	3.3e-18	Telomerase activating protein Est1

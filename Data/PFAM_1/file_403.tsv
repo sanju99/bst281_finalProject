@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RRM_1	PF00076.25	CL0221	73	143	74	143	2	70	53.53	1.7e-14	2.6e-18	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	206	275	206	274	1	69	51.68	6.4e-14	9.7e-18	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	655	723	655	722	1	69	67.36	8.1e-19	1.2e-22	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-HnRNP_M_NLS	PF11532.11	-	41	70	41	70	1	30	64.27	9.2e-18	1.4e-21	HnRNP M nuclear localisation signal

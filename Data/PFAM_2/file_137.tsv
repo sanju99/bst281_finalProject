@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-NFACT_N	PF05833.14	CL0303	6	525	7	515	2	419	132.06	2.7e-38	4.1e-42	NFACT N-terminal and middle domains
-NFACT-R_1	PF05670.16	CL0684	529	639	529	639	1	111	117.33	5.1e-34	7.8e-38	NFACT protein RNA binding domain
-NFACT-C	PF11923.11	-	973	1066	975	1066	3	108	107.20	4.1e-31	6.3e-35	NFACT protein C-terminal domain

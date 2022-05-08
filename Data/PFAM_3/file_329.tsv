@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-zf-C3HC4_3	PF13920.9	CL0229	371	419	372	418	2	49	39.48	4.0e-10	1.4e-13	Zinc finger, C3HC4 type (RING finger)
-zf-RING_2	PF13639.9	CL0229	373	413	374	413	2	44	35.76	8.5e-09	3.0e-12	Ring finger domain
-zf-RING_5	PF14634.9	CL0229	374	414	375	414	2	44	30.84	2.2e-07	7.9e-11	zinc-RING finger domain
-zf-C3HC4_2	PF13923.9	CL0229	374	412	375	412	2	40	30.44	2.6e-07	9.4e-11	Zinc finger, C3HC4 type (RING finger)
-Prok-RING_4	PF14447.9	CL0229	375	423	375	419	1	43	29.43	5.7e-07	2.0e-10	Prokaryotic RING finger family 4
-zf-RING_UBOX	PF13445.9	CL0229	375	410	375	410	1	40	29.26	7.3e-07	2.6e-10	RING-type zinc-finger
-zf-C3HC4	PF00097.28	CL0229	375	412	375	412	1	41	29.13	7.1e-07	2.5e-10	Zinc finger, C3HC4 type (RING finger)

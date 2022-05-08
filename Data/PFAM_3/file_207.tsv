@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-HECT	PF00632.28	CL0552	731	1024	733	1024	3	304	214.47	2.6e-63	3.9e-67	HECT-domain (ubiquitin-transferase)
-RCC1	PF00415.21	CL0186	156	206	157	206	2	50	41.20	2.0e-10	3.1e-14	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	209	258	209	258	1	50	54.89	1.1e-14	1.6e-18	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	261	310	261	309	1	49	52.58	5.6e-14	8.6e-18	Regulator of chromosome condensation (RCC1) repeat
-RCC1	PF00415.21	CL0186	315	373	315	368	2	44	29.09	1.2e-06	1.9e-10	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	140	169	140	169	1	30	37.86	1.2e-09	1.8e-13	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	194	222	194	222	2	30	30.09	3.2e-07	4.9e-11	Regulator of chromosome condensation (RCC1) repeat
-RCC1_2	PF13540.9	CL0186	297	327	297	327	1	30	26.94	3.1e-06	4.8e-10	Regulator of chromosome condensation (RCC1) repeat

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CDC37_M	PF08565.14	-	161	276	162	273	2	115	80.01	1.3e-22	2.0e-26	Cdc37 Hsp90 binding domain
-CDC37_C	PF08564.13	-	287	359	290	355	6	78	59.98	2.1e-16	3.2e-20	Cdc37 C terminal domain
-CDC37_N	PF03234.17	-	1	164	1	107	1	105	55.24	1.4e-14	2.2e-18	Cdc37 N terminal kinase binding

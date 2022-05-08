@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-HECT	PF00632.28	CL0552	1013	1318	1014	1316	2	304	329.07	3.3e-98	3.3e-102	HECT-domain (ubiquitin-transferase)
-WW	PF00397.29	CL0680	612	641	612	641	1	31	40.24	2.8e-10	2.8e-14	WW domain
-WW	PF00397.29	CL0680	769	798	769	798	1	31	42.85	4.2e-11	4.3e-15	WW domain
-WW	PF00397.29	CL0680	842	871	842	871	1	31	43.17	3.3e-11	3.4e-15	WW domain
-WW	PF00397.29	CL0680	894	923	894	923	1	31	42.94	3.9e-11	4.0e-15	WW domain

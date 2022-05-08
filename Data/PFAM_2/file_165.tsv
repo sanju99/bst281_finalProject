@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Vitellogenin_N	PF01347.25	CL0020	46	598	46	597	1	621	348.70	6.4e-104	1.3e-107	Lipoprotein amino terminal region
-Vit_open_b-sht	PF09172.14	-	632	937	632	937	1	303	265.30	7.3e-79	1.5e-82	Vitellinogen, open beta-sheet
-DUF1081	PF06448.14	-	960	1071	960	1071	1	114	137.30	2.9e-40	6.0e-44	Domain of Unknown Function (DUF1081)
-ApoB100_C	PF12491.11	-	4494	4550	4494	4549	1	56	107.15	3.2e-31	6.5e-35	Apolipoprotein B100 C terminal

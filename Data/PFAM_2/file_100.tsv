@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Thiolase_N	PF00108.26	CL0046	54	324	54	324	1	260	287.79	7.7e-86	1.2e-89	Thiolase, N-terminal domain
-Thiolase_C	PF02803.21	CL0046	331	471	331	470	1	122	165.47	4.0e-49	6.1e-53	Thiolase, C-terminal domain
-ketoacyl-synt	PF00109.29	CL0046	89	195	128	181	165	218	29.58	5.3e-07	8.2e-11	Beta-ketoacyl synthase, N-terminal domain

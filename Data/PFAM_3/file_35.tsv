@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ABC_tran	PF00005.30	CL0023	1361	1507	1361	1506	1	136	95.60	3.8e-27	5.8e-31	ABC transporter
-ABC_tran	PF00005.30	CL0023	2273	2418	2273	2417	1	136	88.95	4.3e-25	6.6e-29	ABC transporter
-ABC2_membrane_3	PF12698.10	CL0181	896	1270	938	1270	66	346	82.21	4.0e-23	6.1e-27	ABC-2 family transporter protein
-ABC2_membrane_3	PF12698.10	CL0181	1744	2203	1744	2167	1	325	106.45	1.7e-30	2.6e-34	ABC-2 family transporter protein
-AAA_21	PF13304.9	CL0023	2336	2453	2387	2450	236	301	40.92	2.2e-10	3.4e-14	AAA domain, putative AbiEii toxin, Type IV TA system

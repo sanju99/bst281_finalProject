@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Kelch_1	PF01344.28	CL0186	334	384	334	384	1	46	35.43	6.2e-09	2.5e-12	Kelch motif
-Kelch_1	PF01344.28	CL0186	386	431	393	430	8	45	32.90	3.8e-08	1.6e-11	Kelch motif
-Kelch_1	PF01344.28	CL0186	483	533	486	532	5	45	23.70	2.9e-05	1.2e-08	Kelch motif
-Kelch_1	PF01344.28	CL0186	535	582	539	581	5	45	30.35	2.4e-07	9.8e-11	Kelch motif
-BTB	PF00651.34	CL0033	36	143	36	141	1	109	90.07	1.2e-25	4.7e-29	BTB/POZ domain
-BACK	PF07707.18	CL0033	148	250	149	249	2	102	79.07	2.4e-22	9.8e-26	BTB And C-terminal Kelch
-Kelch_5	PF13854.9	CL0186	331	373	331	372	1	39	25.26	1.1e-05	4.4e-09	Kelch motif

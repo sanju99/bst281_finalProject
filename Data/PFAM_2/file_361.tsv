@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AAA	PF00004.32	CL0023	245	381	245	381	1	132	134.10	4.3e-39	6.5e-43	ATPase family associated with various cellular activities (AAA)
-AAA_lid_3	PF17862.4	CL0671	403	464	403	447	1	34	53.23	2.1e-14	3.1e-18	AAA+ lid domain
-Vps4_C	PF09336.13	CL0671	439	489	451	489	22	61	32.75	5.7e-08	8.8e-12	Vps4 C terminal oligomerisation domain

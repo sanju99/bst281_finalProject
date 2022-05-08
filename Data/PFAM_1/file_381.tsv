@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GCR	PF02155.18	-	26	401	26	401	1	377	672.44	1.9e-202	2.9e-206	Glucocorticoid receptor
-Hormone_recep	PF00104.33	-	549	741	553	734	6	205	105.91	2.3e-30	3.5e-34	Ligand-binding domain of nuclear hormone receptor
-zf-C4	PF00105.21	CL0167	419	488	420	487	2	69	97.19	6.2e-28	9.4e-32	Zinc finger, C4 type (two domains)

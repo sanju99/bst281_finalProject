@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Y_phosphatase	PF00102.30	CL0031	1065	1297	1065	1296	1	234	274.69	6.8e-82	1.4e-85	Protein-tyrosine phosphatase
-fn3	PF00041.24	CL0159	120	199	120	187	1	74	25.43	1.4e-05	2.9e-09	Fibronectin type III domain
-fn3	PF00041.24	CL0159	368	445	369	438	3	77	25.16	1.7e-05	3.5e-09	Fibronectin type III domain
-PTP_tm	PF18861.4	CL0159	835	965	835	964	1	125	115.87	1.5e-33	3.1e-37	TM proximal of protein tyrosine phosphatase, receptor type J

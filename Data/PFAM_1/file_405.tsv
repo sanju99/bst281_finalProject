@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-FAT	PF02259.26	CL0020	1513	1908	1513	1908	1	346	434.96	2.3e-130	7.1e-134	FAT domain
-PI3_PI4_kinase	PF00454.30	CL0016	2181	2431	2183	2430	3	249	256.14	4.4e-76	1.3e-79	Phosphatidylinositol 3- and 4-kinase
-DUF3385	PF11865.11	CL0020	854	1024	854	1024	1	161	196.19	3.6e-58	1.1e-61	Domain of unknown function (DUF3385)
-FRB_dom	PF08771.14	-	2015	2113	2015	2113	1	99	154.41	8.9e-46	2.7e-49	FKBP12-rapamycin binding domain
-FATC	PF02260.23	-	2518	2549	2519	2549	2	32	61.72	4.1e-17	1.3e-20	FATC domain

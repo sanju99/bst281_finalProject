@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RNA_pol_Rpb2_6	PF00562.31	CL0410	707	1080	707	1080	1	389	428.16	3.4e-128	1.2e-131	RNA polymerase Rpb2, domain 6
-RNA_pol_Rpb2_1	PF04563.18	-	38	442	38	441	1	202	228.36	6.6e-68	2.3e-71	RNA polymerase beta subunit
-RNA_pol_Rpb2_2	PF04561.17	-	201	394	201	394	1	190	188.52	9.8e-56	3.5e-59	RNA polymerase Rpb2, domain 2
-RNA_pol_Rpb2_7	PF04560.23	-	1082	1174	1082	1172	1	85	116.31	6.5e-34	2.3e-37	RNA polymerase Rpb2, domain 7
-RNA_pol_Rpb2_4	PF04566.16	-	567	629	567	629	1	62	85.17	2.9e-24	1.0e-27	RNA polymerase Rpb2, domain 4
-RNA_pol_Rpb2_3	PF04565.19	-	468	532	468	532	1	68	83.29	1.1e-23	3.9e-27	RNA polymerase Rpb2, domain 3
-RNA_pol_Rpb2_5	PF04567.20	-	653	700	653	700	1	67	60.40	2.3e-16	8.3e-20	RNA polymerase Rpb2, domain 5

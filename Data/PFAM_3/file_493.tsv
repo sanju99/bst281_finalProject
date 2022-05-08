@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-STAR_dimer	PF16544.8	-	10	68	10	63	1	51	93.21	5.3e-27	8.1e-31	Homodimerisation region of STAR domain protein
-Quaking_NLS	PF16551.8	-	312	341	312	341	1	30	73.05	1.1e-20	1.7e-24	Putative nuclear localisation signal of quaking
-KH_1	PF00013.32	CL0007	83	140	97	133	9	43	25.65	8.4e-06	1.3e-09	KH domain

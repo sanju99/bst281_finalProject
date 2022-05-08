@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SMP_LBD	PF17047.8	CL0648	191	370	191	370	1	180	411.96	2.1e-124	2.1e-128	Synaptotagmin-like mitochondrial-lipid-binding domain
-C2	PF00168.33	CL0154	385	491	385	491	1	103	72.02	4.4e-20	4.5e-24	C2 domain
-C2	PF00168.33	CL0154	537	635	541	629	6	97	50.57	2.1e-13	2.1e-17	C2 domain
-C2	PF00168.33	CL0154	801	910	802	910	2	103	53.51	2.5e-14	2.6e-18	C2 domain

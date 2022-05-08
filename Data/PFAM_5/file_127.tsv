@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CAF-1_p60_C	PF15512.9	-	381	549	381	549	1	174	238.13	8.7e-71	1.8e-74	Chromatin assembly factor complex 1 subunit p60, C-terminal
-WD40	PF00400.35	CL0186	57	94	64	94	9	38	17.87	0.0047	9.5e-07	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	119	157	120	157	2	38	29.15	1.3e-06	2.6e-10	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	161	199	161	198	1	37	15.11	0.035	7.1e-06	WD domain, G-beta repeat
-ANAPC4_WD40	PF12894.10	CL0186	104	180	109	179	16	89	22.77	9.3e-05	1.9e-08	Anaphase-promoting complex subunit 4 WD40 domain

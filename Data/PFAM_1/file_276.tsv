@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CENP-F_N	PF10481.12	-	1	307	1	307	1	304	495.77	6.1e-149	9.4e-153	Cenp-F N-terminal domain
-CENP-F_leu_zip	PF10473.12	-	1893	2035	1893	2035	1	140	35.20	1.2e-08	1.8e-12	Leucine-rich repeats of kinetochore protein Cenp-F/LEK1
-CENP-F_leu_zip	PF10473.12	-	2131	2270	2131	2270	1	140	170.54	2.1e-50	3.2e-54	Leucine-rich repeats of kinetochore protein Cenp-F/LEK1
-CENP-F_leu_zip	PF10473.12	-	2313	2452	2313	2452	1	140	171.51	1.0e-50	1.6e-54	Leucine-rich repeats of kinetochore protein Cenp-F/LEK1
-CENP-F_C_Rb_bdg	PF10490.12	-	2967	3013	2970	3013	4	47	80.78	3.9e-23	6.0e-27	Rb-binding domain of kinetochore protein Cenp-F/LEK1

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Radical_SAM	PF04055.24	CL0036	77	266	79	209	3	139	58.17	1.4e-15	2.2e-19	Radical SAM superfamily
-Fer4_14	PF13394.9	CL0344	77	184	80	163	5	94	22.32	0.00012	1.8e-08	4Fe-4S single cluster domain
-Fer4_12	PF13353.9	CL0344	73	201	77	174	9	107	24.25	4.0e-05	6.1e-09	4Fe-4S single cluster domain

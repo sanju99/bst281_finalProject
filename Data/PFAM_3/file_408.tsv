@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RhoGAP	PF00620.30	CL0409	260	405	260	404	1	148	147.42	2.9e-43	4.4e-47	RhoGAP domain
-CRAL_TRIO_2	PF13716.9	CL0512	82	216	82	215	1	138	141.26	2.6e-41	3.9e-45	Divergent CRAL/TRIO domain
-CRAL_TRIO	PF00650.23	CL0512	68	206	70	204	3	150	35.11	1.1e-08	1.7e-12	CRAL/TRIO domain

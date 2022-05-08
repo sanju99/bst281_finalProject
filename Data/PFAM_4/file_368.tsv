@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Arfaptin	PF06456.16	CL0145	117	352	117	352	1	229	284.79	5.2e-85	7.9e-89	Arfaptin-like domain
-PDZ	PF00595.27	CL0466	22	102	23	99	2	79	41.01	2.0e-10	3.0e-14	PDZ domain
-PDZ_6	PF17820.4	CL0466	48	99	50	97	3	47	27.58	2.2e-06	3.4e-10	PDZ domain

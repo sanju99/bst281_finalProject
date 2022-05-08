@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ubiquitin	PF00240.26	CL0072	3	74	3	74	1	72	116.69	3.1e-34	6.3e-38	Ubiquitin family
-Ribosomal_L40e	PF01020.20	CL0167	78	127	78	127	1	50	112.41	7.1e-33	1.5e-36	Ribosomal L40e family
-Rad60-SLD	PF11976.11	CL0072	1	71	1	71	1	72	61.44	5.6e-17	1.1e-20	Ubiquitin-2 like Rad60 SUMO-like
-Ubiquitin_2	PF14560.9	CL0072	1	70	11	69	14	80	24.05	4.3e-05	8.7e-09	Ubiquitin-like domain

@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RanGAP1_C	PF07834.14	-	371	585	409	585	5	178	250.05	1.1e-74	1.7e-78	RanGAP1 C-terminal domain
-LRR_6	PF13516.9	CL0022	113	132	114	130	5	21	11.30	0.33	5.0e-05	Leucine Rich repeat
-LRR_6	PF13516.9	CL0022	234	257	235	257	2	24	9.27	1.5	0.00022	Leucine Rich repeat
-LRR_6	PF13516.9	CL0022	291	314	293	308	3	18	10.12	0.78	0.00012	Leucine Rich repeat
-LRR_6	PF13516.9	CL0022	321	341	323	341	5	23	9.69	1.1	0.00016	Leucine Rich repeat

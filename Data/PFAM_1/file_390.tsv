@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-STAT_alpha	PF01017.23	-	143	309	144	305	2	165	184.45	1.7e-54	4.3e-58	STAT protein, all-alpha domain
-STAT_int	PF02865.20	-	2	120	2	119	1	118	143.87	3.1e-42	8.0e-46	STAT protein, protein interaction domain
-STAT_bind	PF02864.18	CL0073	321	458	323	458	3	135	142.87	9.5e-42	2.4e-45	STAT protein, DNA binding domain
-STAT1_TAZ2bind	PF12162.11	-	715	739	715	739	1	23	44.04	1.2e-11	3.1e-15	STAT1 TAZ2 binding domain
-SH2	PF00017.27	CL0541	573	657	578	638	2	53	37.05	2.8e-09	7.2e-13	SH2 domain

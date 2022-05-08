@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CAF1-p150_C2	PF15539.9	-	665	954	665	954	1	288	631.37	2.0e-190	4.0e-194	CAF1 complex subunit p150, region binding to CAF1-p60 at C-term
-CAF1-p150_N	PF15557.9	-	1	226	1	226	1	230	429.50	4.0e-129	8.2e-133	CAF1 complex subunit p150, region binding to PCNA
-CAF-1_p150	PF11600.11	-	320	479	320	479	1	164	228.46	3.9e-68	8.0e-72	Chromatin assembly factor 1 complex p150 subunit, N-terminal
-CAF1A	PF12253.11	-	558	632	558	629	1	74	85.71	2.0e-24	4.0e-28	Chromatin assembly factor 1 subunit A

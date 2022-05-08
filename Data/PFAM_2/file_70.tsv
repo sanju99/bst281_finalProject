@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AAA	PF00004.32	CL0023	202	335	202	335	1	132	149.55	7.1e-44	1.8e-47	ATPase family associated with various cellular activities (AAA)
-Prot_ATP_ID_OB	PF16450.8	CL0021	89	144	89	144	1	56	44.22	1.5e-11	3.9e-15	Proteasomal ATPase OB C-terminal domain
-AAA_lid_3	PF17862.4	CL0671	357	401	358	401	2	45	36.88	2.6e-09	6.7e-13	AAA+ lid domain
-AAA_2	PF07724.17	CL0023	197	313	202	295	6	105	33.48	4.7e-08	1.2e-11	AAA domain (Cdc48 subfamily)
-AAA_5	PF07728.17	CL0023	201	324	201	323	1	136	30.49	3.4e-07	8.5e-11	AAA domain (dynein-related subfamily)

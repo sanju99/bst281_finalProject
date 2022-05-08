@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-YchF-GTPase_C	PF06071.16	CL0072	305	388	305	388	1	84	138.58	6.3e-41	9.7e-45	Protein of unknown function (DUF933)
-MMR_HSR1	PF01926.26	CL0023	24	231	24	136	1	87	80.17	1.3e-22	2.0e-26	50S ribosome-binding GTPase
-FeoB_N	PF02421.21	CL0023	23	74	24	68	2	46	29.63	4.5e-07	6.9e-11	Ferrous iron transport protein B

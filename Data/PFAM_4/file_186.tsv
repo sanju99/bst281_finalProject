@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Trnau1ap	PF17654.4	-	185	284	186	284	2	118	131.38	3.1e-38	3.1e-42	Selenocysteine tRNA 1 associated proteins
-RRM_1	PF00076.25	CL0221	5	75	5	73	1	67	42.01	6.7e-11	6.8e-15	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	98	169	98	161	1	63	49.39	3.3e-13	3.4e-17	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

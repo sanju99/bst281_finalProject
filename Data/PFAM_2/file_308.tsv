@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DnaJ	PF00226.34	CL0392	3	66	4	66	2	63	91.47	2.9e-26	6.0e-30	DnaJ domain
-zf-C2H2_jaz	PF12171.11	CL0361	313	339	314	339	2	27	44.07	1.8e-11	3.7e-15	Zinc-finger double-stranded RNA-binding
-zf-met	PF12874.10	CL0361	314	338	314	338	1	25	33.11	5.3e-08	1.1e-11	Zinc-finger of C2H2 type

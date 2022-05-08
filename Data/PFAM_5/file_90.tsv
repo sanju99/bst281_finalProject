@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-MAP2_projctn	PF08377.13	-	377	1505	377	1505	1	1134	2299.86	0.0e+00	0.0e+00	MAP2/Tau projection domain
-Tubulin-binding	PF00418.22	-	1660	1691	1664	1691	5	31	42.51	4.8e-11	4.9e-15	Tau and MAP protein, tubulin-binding repeat
-Tubulin-binding	PF00418.22	-	1692	1722	1692	1721	1	30	54.92	6.4e-15	6.5e-19	Tau and MAP protein, tubulin-binding repeat
-Tubulin-binding	PF00418.22	-	1723	1754	1723	1754	1	31	56.72	1.8e-15	1.8e-19	Tau and MAP protein, tubulin-binding repeat

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CUB	PF00431.23	CL0164	33	141	33	141	1	110	92.71	1.9e-26	2.8e-30	CUB domain
-CUB	PF00431.23	CL0164	154	265	154	262	1	107	102.58	1.6e-29	2.4e-33	CUB domain
-NTR	PF01759.24	CL0353	309	412	310	411	2	106	59.41	2.7e-16	4.2e-20	UNC-6/NTR/C345C module

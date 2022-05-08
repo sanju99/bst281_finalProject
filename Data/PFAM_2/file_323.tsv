@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-tRNA-synt_2	PF00152.23	CL0040	166	608	167	606	2	312	313.84	1.2e-93	1.8e-97	tRNA synthetases class II (D, K and N)
-GAD	PF02938.17	CL0250	356	452	357	452	2	95	49.77	3.4e-13	5.2e-17	GAD domain
-tRNA_anti-codon	PF01336.28	CL0021	66	149	66	149	1	76	34.78	1.3e-08	2.0e-12	OB-fold nucleic acid binding domain

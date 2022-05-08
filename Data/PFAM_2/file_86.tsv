@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-TDP43_N	PF18694.4	-	4	77	4	76	1	73	112.27	8.1e-33	1.2e-36	Transactive response DNA-binding protein N-terminal domain
-RRM_1	PF00076.25	CL0221	106	172	106	164	1	60	54.33	9.5e-15	1.4e-18	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	193	243	193	241	1	53	42.30	5.4e-11	8.2e-15	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

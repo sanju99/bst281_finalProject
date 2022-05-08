@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-EF1G	PF00647.22	-	275	381	275	381	1	107	164.71	5.6e-49	1.7e-52	Elongation factor 1 gamma, conserved domain
-GST_N	PF02798.23	CL0172	2	81	3	81	2	76	77.06	1.1e-21	3.3e-25	Glutathione S-transferase, N-terminal domain
-GST_C	PF00043.28	CL0497	106	198	108	198	3	93	64.84	6.6e-18	2.0e-21	Glutathione S-transferase, C-terminal domain
-GST_C_2	PF13410.9	CL0497	125	191	126	191	2	68	33.42	3.5e-08	1.1e-11	Glutathione S-transferase, C-terminal domain
-GST_N_3	PF13417.9	CL0172	6	84	17	80	12	68	25.83	1.0e-05	3.1e-09	Glutathione S-transferase, N-terminal domain
-GST_C_3	PF14497.9	CL0497	112	205	125	198	15	95	24.08	3.3e-05	1.0e-08	Glutathione S-transferase, C-terminal domain

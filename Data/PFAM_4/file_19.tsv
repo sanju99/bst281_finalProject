@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Myosin_head	PF00063.24	CL0023	71	749	72	749	2	677	925.80	1.5e-278	2.3e-282	Myosin head (motor domain)
-DIL	PF01843.22	CL0020	1680	1783	1680	1781	1	103	110.50	4.5e-32	6.9e-36	DIL domain
-IQ	PF00612.30	CL0220	765	785	767	785	3	21	13.25	0.062	9.4e-06	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	788	808	790	805	3	18	17.54	0.0026	3.9e-07	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	813	833	814	833	2	21	14.79	0.02	3.0e-06	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	836	856	836	856	1	21	14.01	0.035	5.4e-06	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	861	881	863	881	3	21	23.66	2.8e-05	4.2e-09	IQ calmodulin-binding motif
-IQ	PF00612.30	CL0220	884	904	884	904	1	21	20.17	0.00037	5.6e-08	IQ calmodulin-binding motif

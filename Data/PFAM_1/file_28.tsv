@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Filament	PF00038.24	-	342	494	342	486	1	146	139.23	2.3e-40	4.8e-44	Intermediate filament protein
-Filament	PF00038.24	-	523	591	526	590	247	311	78.77	6.0e-22	1.2e-25	Intermediate filament protein
-Pkinase	PF00069.28	CL0016	36	249	53	221	56	212	69.33	3.5e-19	7.1e-23	Protein kinase domain
-Keratin_2_head	PF16208.8	-	253	339	276	339	95	161	51.29	1.5e-13	3.0e-17	Keratin type II head
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	28	252	49	224	56	224	41.58	9.6e-11	2.0e-14	Protein tyrosine and serine/threonine kinase

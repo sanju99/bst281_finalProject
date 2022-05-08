@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	552	807	555	807	5	264	233.67	2.6e-69	7.9e-73	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	552	803	555	796	5	250	112.09	2.9e-32	8.9e-36	Protein tyrosine and serine/threonine kinase
-C1_1	PF00130.25	CL0006	139	191	139	189	1	51	50.17	1.9e-13	5.9e-17	Phorbol esters/diacylglycerol binding domain (C1 domain)
-C1_1	PF00130.25	CL0006	265	317	265	314	1	50	49.99	2.2e-13	6.7e-17	Phorbol esters/diacylglycerol binding domain (C1 domain)
-Kdo	PF06293.17	CL0016	559	708	583	696	47	166	21.85	0.00011	3.2e-08	Lipopolysaccharide kinase (Kdo/WaaP) family

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Peptidase_M28	PF04389.20	CL0035	388	594	388	576	1	182	46.13	4.8e-12	7.3e-16	Peptidase family M28
-TFR_dimer	PF04253.18	-	637	750	638	749	2	124	39.90	4.1e-10	6.2e-14	Transferrin receptor-like dimerisation domain
-PA	PF02225.25	CL0364	228	345	228	345	1	92	40.56	2.3e-10	3.4e-14	PA domain

@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	712	968	713	965	2	256	294.16	8.1e-88	2.1e-91	Protein tyrosine and serine/threonine kinase
-Recep_L_domain	PF01030.27	CL0022	57	168	57	167	1	109	107.35	4.6e-31	1.2e-34	Receptor L domain
-Recep_L_domain	PF01030.27	CL0022	361	481	361	480	1	109	95.22	2.7e-27	6.8e-31	Receptor L domain
-GF_recep_IV	PF14843.9	CL0547	505	637	505	636	1	131	157.25	1.9e-46	4.8e-50	Growth factor receptor domain IV
-Pkinase	PF00069.28	CL0016	712	967	712	964	1	258	134.70	4.0e-39	1.0e-42	Protein kinase domain
-Furin-like	PF00757.23	CL0547	177	338	185	338	10	149	101.26	4.9e-29	1.2e-32	Furin-like cysteine rich region

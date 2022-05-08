@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Topoisom_I	PF01028.23	CL0382	432	665	432	663	1	228	336.35	7.4e-101	1.1e-104	Eukaryotic DNA topoisomerase I, catalytic core
-Topoisom_I_N	PF02919.18	-	215	429	215	429	1	213	330.95	3.0e-99	4.6e-103	Eukaryotic DNA topoisomerase I, DNA binding fragment
-Topo_C_assoc	PF14370.9	-	695	765	695	765	1	70	115.50	8.0e-34	1.2e-37	C-terminal topoisomerase domain

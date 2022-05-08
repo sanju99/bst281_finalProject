@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DIX	PF00778.20	CL0072	782	858	783	858	2	77	97.49	3.3e-28	6.6e-32	DIX domain
-RGS	PF00615.22	CL0272	88	210	88	210	1	118	90.76	8.2e-26	1.7e-29	Regulator of G protein signaling domain
-AXIN1_TNKS_BD	PF16646.8	-	8	82	11	82	5	72	89.32	2.1e-25	4.2e-29	Axin-1 tankyrase binding domain
-Axin_b-cat_bind	PF08833.13	-	465	498	465	496	1	32	48.71	5.3e-13	1.1e-16	Axin beta-catenin binding motif

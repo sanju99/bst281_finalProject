@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AAA_2	PF07724.17	CL0023	284	503	285	502	2	170	141.18	3.8e-41	1.2e-44	AAA domain (Cdc48 subfamily)
-ClpB_D2-small	PF10431.12	CL0671	509	593	509	582	1	70	50.62	1.6e-13	4.8e-17	C-terminal, D2-small domain, of ClpB protein
-AAA	PF00004.32	CL0023	289	438	289	404	1	100	50.76	2.4e-13	7.4e-17	ATPase family associated with various cellular activities (AAA)
-AAA_5	PF07728.17	CL0023	288	366	288	364	1	78	23.92	3.6e-05	1.1e-08	AAA domain (dynein-related subfamily)
-Sigma54_activat	PF00158.29	CL0023	267	373	282	363	18	105	21.43	0.00018	5.4e-08	Sigma-54 interaction domain

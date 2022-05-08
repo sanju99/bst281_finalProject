@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-NuDC	PF16273.8	-	96	156	96	156	1	66	73.10	2.1e-20	3.3e-24	Nuclear distribution C domain
-CS	PF04969.19	CL0190	170	247	170	247	1	77	64.71	1.3e-17	2.0e-21	CS domain
-Nudc_N	PF14050.9	-	9	60	9	59	1	59	43.73	2.2e-11	3.4e-15	N-terminal conserved domain of Nudc.

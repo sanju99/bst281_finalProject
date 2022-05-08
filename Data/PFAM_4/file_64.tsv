@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PID	PF00640.26	CL0266	567	701	567	700	1	139	119.44	1.2e-34	1.9e-38	Phosphotyrosine interaction domain (PTB/PID)
-SH3_9	PF14604.9	CL0010	495	544	495	543	1	47	45.56	5.5e-12	8.5e-16	Variant SH3 domain
-SH3_1	PF00018.31	CL0010	494	541	494	541	1	48	26.53	3.8e-06	5.8e-10	SH3 domain

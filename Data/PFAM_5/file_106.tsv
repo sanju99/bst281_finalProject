@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-POU2F1_C	PF19536.2	-	447	733	447	729	1	282	406.09	9.2e-122	1.4e-125	POU domain, class 2, transcription factor 1 C-terminal
-Pou	PF00157.20	CL0123	283	354	284	354	2	72	122.55	5.3e-36	8.1e-40	Pou domain - N-terminal to homeobox domain
-Homeodomain	PF00046.32	CL0123	380	436	380	436	1	57	62.72	2.3e-17	3.5e-21	Homeodomain

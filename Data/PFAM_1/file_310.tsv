@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SRP54	PF00448.25	CL0023	101	296	102	296	2	196	260.61	8.6e-78	2.6e-81	SRP54-type protein, GTPase domain
-SRP_SPB	PF02978.22	CL0123	326	431	326	431	1	101	107.53	4.7e-31	1.4e-34	Signal peptide binding domain
-SRP54_N	PF02881.22	-	6	83	6	83	1	75	71.39	5.7e-20	1.8e-23	SRP54-type protein, helical bundle domain
-AAA_33	PF13671.9	CL0023	103	233	103	220	1	104	27.02	4.5e-06	1.4e-09	AAA domain
-cobW	PF02492.22	CL0023	102	267	103	252	2	154	23.73	3.1e-05	9.5e-09	CobW/HypB/UreG, nucleotide-binding domain

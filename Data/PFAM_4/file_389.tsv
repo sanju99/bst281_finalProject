@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-zf-CCCH_2	PF14608.9	CL0537	601	618	601	618	2	19	21.48	0.00028	1.4e-08	RNA-binding, Nab2-type zinc finger
-zf-CCCH_2	PF14608.9	CL0537	621	639	621	639	1	19	20.04	0.00078	4.0e-08	RNA-binding, Nab2-type zinc finger
-zf-CCCH_2	PF14608.9	CL0537	640	656	641	656	2	18	13.61	0.084	4.3e-06	RNA-binding, Nab2-type zinc finger
-zf-CCCH_2	PF14608.9	CL0537	681	698	681	698	1	19	18.98	0.0017	8.7e-08	RNA-binding, Nab2-type zinc finger
-zf-CCCH_2	PF14608.9	CL0537	701	717	701	717	2	19	14.57	0.042	2.1e-06	RNA-binding, Nab2-type zinc finger

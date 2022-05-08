@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AAA_23	PF13476.9	CL0023	6	235	6	233	1	198	123.04	2.4e-35	4.8e-39	AAA domain
-Rad50_zn_hook	PF04423.17	-	659	712	660	712	2	52	47.88	9.3e-13	1.9e-16	Rad50 zinc hook motif
-AAA_15	PF13175.9	CL0023	17	471	28	454	21	319	41.41	1.4e-10	2.8e-14	AAA ATPase domain
-SbcC_Walker_B	PF13558.9	CL0023	1174	1251	1176	1249	4	88	27.75	2.6e-06	5.2e-10	SbcC/RAD50-like, Walker B motif

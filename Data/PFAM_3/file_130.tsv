@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-XRN_M	PF17846.4	-	272	610	272	597	1	338	328.52	7.3e-98	1.9e-101	Xrn1 helical domain
-XRN_N	PF03159.21	CL0280	1	227	1	227	1	251	314.20	6.3e-94	1.6e-97	XRN 5'-3' exonuclease N-terminus
-XRN1_D1	PF18332.4	-	646	845	656	844	13	190	117.38	7.1e-34	1.8e-37	Exoribonuclease Xrn1 D1 domain
-SH3_12	PF18129.4	CL0010	1101	1171	1102	1171	2	67	66.52	1.8e-18	4.6e-22	Xrn1 SH3-like domain
-XRN1_D2_D3	PF18334.4	-	848	935	850	934	3	86	27.12	3.9e-06	9.9e-10	Exoribonuclease Xrn1 D2/D3 domain

@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-E1-E2_ATPase	PF00122.23	-	163	354	164	354	2	181	152.96	6.8e-45	2.1e-48	E1-E2 ATPase
-Cation_ATPase_C	PF00689.24	-	799	1008	799	1008	1	182	151.23	2.6e-44	8.0e-48	Cation transporting ATPase, C-terminus
-Cation_ATPase	PF13246.9	CL0137	426	521	427	521	2	91	80.34	8.5e-23	2.6e-26	Cation transport ATPase (P-type)
-Hydrolase	PF00702.29	CL0137	370	729	372	729	3	210	58.90	9.1e-16	2.8e-19	haloacid dehalogenase-like hydrolase
-Cation_ATPase_N	PF00690.29	-	43	111	44	111	2	69	60.36	1.1e-16	3.4e-20	Cation transporter/ATPase, N-terminus

@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Integrin_beta	PF00362.21	CL0128	138	382	138	382	1	248	374.09	3.9e-112	1.2e-115	Integrin beta chain VWA domain
-Integrin_b_cyt	PF08725.14	-	752	795	752	795	1	44	79.40	1.2e-22	3.7e-26	Integrin beta cytoplasmic domain
-Integrin_B_tail	PF07965.15	-	640	727	640	727	1	84	69.98	1.9e-19	5.8e-23	Integrin beta tail domain
-I-EGF_1	PF18372.4	CL0001	466	495	466	495	1	29	43.15	3.1e-11	9.5e-15	Integrin beta epidermal growth factor like domain 1
-PSI_integrin	PF17205.6	CL0630	25	76	25	76	1	46	44.78	8.0e-12	2.5e-15	Integrin plexin domain
-EGF_2	PF07974.16	CL0001	599	630	599	630	1	32	24.93	2.1e-05	6.3e-09	EGF-like domain

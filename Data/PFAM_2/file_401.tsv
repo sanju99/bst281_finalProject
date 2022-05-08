@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	62	314	64	314	3	264	240.44	2.2e-71	5.7e-75	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	63	311	65	310	4	257	126.39	1.3e-36	3.2e-40	Protein tyrosine and serine/threonine kinase
-POLO_box	PF00659.21	CL0708	472	529	472	526	1	58	43.98	1.9e-11	4.9e-15	POLO box duplicated region
-POLO_box	PF00659.21	CL0708	569	633	569	633	1	61	56.82	1.9e-15	4.7e-19	POLO box duplicated region
-Pkinase_fungal	PF17667.4	CL0016	152	255	166	245	309	396	25.38	6.1e-06	1.5e-09	Fungal protein kinase

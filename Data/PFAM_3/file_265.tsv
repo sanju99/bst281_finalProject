@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RRM_1	PF00076.25	CL0221	4	66	4	64	1	68	60.78	9.2e-17	1.4e-20	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	80	142	81	142	2	70	54.83	6.6e-15	1.0e-18	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-zf-CCHC	PF00098.26	CL0511	160	177	161	176	2	17	30.67	2.4e-07	3.6e-11	Zinc knuckle
-RRM_5	PF13893.9	CL0221	2	91	12	78	38	107	17.30	0.0031	4.8e-07	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_5	PF13893.9	CL0221	87	161	111	147	64	100	11.39	0.21	3.2e-05	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

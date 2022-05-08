@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-AAA	PF00004.32	CL0023	170	300	170	300	1	132	142.01	1.5e-41	4.7e-45	ATPase family associated with various cellular activities (AAA)
-Vps4_C	PF09336.13	CL0671	381	441	381	441	1	61	101.79	1.6e-29	4.9e-33	Vps4 C terminal oligomerisation domain
-MIT	PF04212.21	-	8	74	8	74	1	65	83.32	9.8e-24	3.0e-27	MIT (microtubule interacting and transport) domain
-AAA_lid_3	PF17862.4	CL0671	323	364	325	357	3	35	31.78	1.0e-07	3.2e-11	AAA+ lid domain
-TIP49	PF06068.16	CL0023	108	239	138	219	25	103	24.22	1.8e-05	5.6e-09	TIP49 P-loop domain

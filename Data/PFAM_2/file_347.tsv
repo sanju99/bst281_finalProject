@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RL10P_insert	PF17777.4	-	111	180	111	180	1	71	75.08	3.4e-21	5.2e-25	Insertion domain in 60S ribosomal protein L10P
-Ribosomal_L10	PF00466.23	-	5	106	8	104	4	97	73.89	9.7e-21	1.5e-24	Ribosomal protein L10
-Ribosomal_60s	PF00428.22	-	231	316	231	316	1	88	73.80	1.4e-20	2.1e-24	60s Acidic ribosomal protein

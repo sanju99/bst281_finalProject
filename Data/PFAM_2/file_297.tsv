@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ABC2_membrane	PF01061.27	CL0181	397	608	397	608	1	210	117.14	7.4e-34	1.1e-37	ABC-2 type transporter
-ABC_tran	PF00005.30	CL0023	88	241	89	241	2	137	100.66	1.0e-28	1.6e-32	ABC transporter
-ABC2_membrane_7	PF19055.3	CL0181	270	352	270	325	1	57	35.22	6.8e-09	1.0e-12	ABC-2 type transporter

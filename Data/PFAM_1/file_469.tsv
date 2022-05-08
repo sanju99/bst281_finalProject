@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ADH_zinc_N	PF00107.29	CL0063	160	288	160	284	1	126	88.65	3.4e-25	5.3e-29	Zinc-binding dehydrogenase
-ADH_zinc_N_2	PF13602.9	CL0063	192	327	193	327	2	133	72.34	7.9e-20	1.2e-23	Zinc-binding dehydrogenase
-ADH_N	PF08240.15	CL0296	35	124	36	109	2	75	42.25	6.3e-11	9.6e-15	Alcohol dehydrogenase GroES-like domain

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ABC_membrane	PF00664.26	CL0241	297	585	302	585	6	274	112.51	3.0e-32	4.6e-36	ABC transporter transmembrane region
-ABC_membrane	PF00664.26	CL0241	994	1266	994	1252	1	259	128.47	4.0e-37	6.2e-41	ABC transporter transmembrane region
-ABC_tran	PF00005.30	CL0023	688	840	688	839	1	136	85.97	3.6e-24	5.4e-28	ABC transporter
-ABC_tran	PF00005.30	CL0023	1329	1477	1329	1477	1	137	86.52	2.4e-24	3.7e-28	ABC transporter

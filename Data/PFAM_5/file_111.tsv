@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	40	313	43	311	4	260	162.96	9.6e-48	2.0e-51	Protein kinase domain
-PTEN_C2	PF10409.12	CL0154	570	709	570	708	1	134	103.04	1.1e-29	2.2e-33	C2 domain of PTEN tumour-suppressor protein
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	40	313	41	313	2	259	100.25	1.2e-28	2.4e-32	Protein tyrosine and serine/threonine kinase

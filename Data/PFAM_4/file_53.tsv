@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SNF2-rel_dom	PF00176.26	CL0023	757	1052	757	1052	1	318	259.84	2.8e-77	1.2e-80	SNF2-related domain
-Helicase_C	PF00271.34	CL0023	1080	1194	1081	1194	2	111	70.57	1.4e-19	5.8e-23	Helicase conserved C-terminal domain
-SnAC	PF14619.9	-	1322	1389	1322	1389	1	73	72.42	3.6e-20	1.5e-23	Snf2-ATP coupling, chromatin remodelling complex
-Bromodomain	PF00439.28	-	1462	1551	1478	1549	10	81	69.69	1.8e-19	7.5e-23	Bromodomain
-HSA	PF07529.16	-	461	531	462	531	2	71	69.83	1.9e-19	7.8e-23	HSA domain
-BRK	PF07533.19	-	611	654	611	654	1	44	62.60	2.0e-17	8.3e-21	BRK domain
-QLQ	PF08880.14	-	171	205	171	205	1	35	53.09	2.1e-14	8.4e-18	QLQ
-ResIII	PF04851.18	CL0023	744	915	754	913	4	169	38.55	1.2e-09	4.8e-13	Type III restriction enzyme, res subunit

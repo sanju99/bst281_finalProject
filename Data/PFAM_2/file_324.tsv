@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-tRNA_synthFbeta	PF17759.4	CL0040	377	585	377	584	1	214	183.71	3.1e-54	6.4e-58	Phenylalanyl tRNA synthetase beta chain CLM domain
-PhetRS_B1	PF18262.4	CL0123	1	90	1	90	1	83	118.90	9.0e-35	1.8e-38	Phe-tRNA synthetase beta subunit B1 domain
-B3_4	PF03483.20	CL0383	117	279	118	279	2	174	89.71	1.8e-25	3.7e-29	B3/4 domain
-B5	PF03484.18	CL0123	308	374	309	374	3	67	51.87	7.6e-14	1.6e-17	tRNA synthetase B5 domain

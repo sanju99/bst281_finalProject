@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-FXMRP1_C_core	PF12235.11	-	364	491	364	491	1	129	131.07	4.2e-38	1.3e-41	Fragile X-related 1 protein core C terminal
-FXR_C1	PF16096.8	-	502	577	502	577	1	76	114.88	1.6e-33	4.7e-37	Fragile X-related 1 protein C-terminal region 2
-KH_9	PF17904.4	CL0007	133	217	133	217	1	85	103.92	5.0e-30	1.5e-33	FMRP KH0 domain
-Tudor_FRX1	PF18336.4	CL0049	14	62	14	62	1	49	103.75	3.8e-30	1.2e-33	Fragile X mental retardation Tudor domain
-KH_1	PF00013.32	CL0007	230	290	231	289	2	64	21.59	0.00015	4.7e-08	KH domain
-KH_1	PF00013.32	CL0007	293	363	295	362	3	65	42.91	3.4e-11	1.0e-14	KH domain
-Agenet	PF05641.15	CL0049	72	127	72	127	1	61	36.69	4.9e-09	1.5e-12	Agenet domain

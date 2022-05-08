@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Glyco_transf_24	PF18404.4	CL0110	1256	1523	1256	1523	1	268	489.70	2.2e-147	6.8e-151	Glucosyltransferase 24
-Thioredoxin_14	PF18402.4	CL0172	450	699	451	699	1	253	218.39	1.6e-64	5.0e-68	Thioredoxin-like domain
-Thioredoxin_15	PF18403.4	CL0172	722	955	727	955	6	213	207.82	1.9e-61	5.9e-65	Thioredoxin-like domain
-Thioredoxin_12	PF18400.4	CL0172	57	238	57	234	1	189	182.65	7.5e-54	2.3e-57	Thioredoxin-like domain
-UDP-g_GGTase	PF06427.14	CL0110	1115	1222	1115	1221	1	108	132.12	8.6e-39	2.6e-42	UDP-glucose:Glycoprotein Glucosyltransferase
-Thioredoxin_13	PF18401.4	CL0172	310	450	312	440	3	127	122.56	1.1e-35	3.5e-39	Thioredoxin-like domain

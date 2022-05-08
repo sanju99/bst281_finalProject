@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-MIF4G	PF02854.22	CL0020	786	1014	787	1012	2	210	232.05	5.9e-69	9.1e-73	MIF4G domain
-MA3	PF02847.20	CL0020	1267	1379	1267	1378	1	112	101.22	3.4e-29	5.3e-33	MA3 domain
-W2	PF02020.21	CL0020	1545	1624	1546	1623	2	78	67.79	7.3e-19	1.1e-22	eIF4-gamma/eIF5/eIF2-epsilon

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-40S_SA_C	PF16122.8	-	202	295	202	295	1	95	87.94	9.1e-25	9.3e-29	40S ribosomal protein SA C-terminus
-Ribosomal_S2	PF00318.23	CL0067	18	118	19	112	2	97	40.06	2.6e-10	2.6e-14	Ribosomal protein S2
-Ribosomal_S2	PF00318.23	CL0067	111	184	113	182	143	212	44.07	1.5e-11	1.6e-15	Ribosomal protein S2

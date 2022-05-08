@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-ParA	PF10609.12	CL0023	12	263	13	262	2	245	327.40	5.6e-98	2.0e-101	NUBPL iron-transfer P-loop NTPase
-CbiA	PF01656.26	CL0023	17	195	17	137	1	54	39.56	5.3e-10	1.9e-13	CobQ/CobB/MinD/ParA nucleotide binding domain
-AAA_31	PF13614.9	CL0023	14	60	16	52	3	39	30.51	3.2e-07	1.2e-10	AAA domain
-MipZ	PF09140.14	CL0023	15	149	15	138	1	111	33.74	2.4e-08	8.5e-12	ATPase MipZ
-ArsA_ATPase	PF02374.18	CL0023	15	57	17	52	3	38	24.81	1.2e-05	4.3e-09	Anion-transporting ATPase

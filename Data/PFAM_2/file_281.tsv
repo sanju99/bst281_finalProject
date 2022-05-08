@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-CC2-LZ	PF16516.8	-	408	507	408	505	1	98	102.52	1.4e-29	2.1e-33	Leucine zipper of domain CC2 of NEMO, NF-kappa-B essential modulator
-NEMO	PF11577.11	-	37	104	37	104	1	68	95.54	1.5e-27	2.2e-31	NF-kappa-B essential modulator NEMO
-zf_C2H2_10	PF18414.4	CL0361	551	576	551	576	1	26	62.84	1.6e-17	2.4e-21	C2H2 type zinc-finger

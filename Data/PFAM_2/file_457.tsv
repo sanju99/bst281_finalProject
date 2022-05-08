@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Tnp_22_dsRBD	PF17490.5	-	251	315	253	315	3	65	50.68	1.5e-13	1.5e-17	L1 transposable element dsRBD-like domain
-Tnp_22_dsRBD	PF17490.5	-	798	862	799	860	2	63	52.60	3.8e-14	3.9e-18	L1 transposable element dsRBD-like domain
-Transposase_22	PF02994.17	CL0221	699	795	700	795	2	98	68.90	3.9e-19	4.0e-23	L1 transposable element RBD-like domain

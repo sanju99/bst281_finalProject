@@ -1,8 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-WD40	PF00400.35	CL0186	215	259	234	259	13	38	12.78	0.19	2.9e-05	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	263	309	264	309	2	38	24.97	2.7e-05	4.1e-09	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	313	351	315	351	3	38	16.31	0.015	2.2e-06	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	397	435	397	435	1	38	35.06	1.7e-08	2.7e-12	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	439	478	440	477	2	37	17.83	0.0048	7.4e-07	WD domain, G-beta repeat
-WD40	PF00400.35	CL0186	482	520	482	519	1	37	30.03	6.7e-07	1.0e-10	WD domain, G-beta repeat
-PRP4	PF08799.14	CL0306	108	136	108	135	1	28	51.75	4.7e-14	7.2e-18	pre-mRNA processing factor 4 (PRP4) like

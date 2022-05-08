@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Peptidase_M41	PF01434.21	CL0126	561	744	562	743	2	190	222.29	5.1e-66	1.0e-69	Peptidase family M41
-AAA	PF00004.32	CL0023	344	477	345	476	2	131	142.86	8.3e-42	1.7e-45	ATPase family associated with various cellular activities (AAA)
-AAA_lid_3	PF17862.4	CL0671	505	547	508	546	6	44	51.21	8.8e-14	1.8e-17	AAA+ lid domain
-FtsH_ext	PF06480.18	-	146	242	150	240	4	107	37.13	3.4e-09	7.0e-13	FtsH Extracellular

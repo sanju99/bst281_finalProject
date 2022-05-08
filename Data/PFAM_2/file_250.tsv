@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SPT16	PF08644.14	CL0266	529	689	529	689	1	151	192.89	3.6e-57	7.4e-61	FACT complex subunit (SPT16/CDC68)
-FACT-Spt16_Nlob	PF14826.9	CL0356	5	167	5	166	1	160	175.09	9.7e-52	2.0e-55	FACT complex subunit SPT16 N-terminal lobe domain
-Peptidase_M24	PF00557.27	-	181	411	182	411	2	209	119.81	1.4e-34	2.8e-38	Metallopeptidase family M24
-Rtt106	PF08512.15	CL0266	808	895	813	894	10	87	62.34	4.5e-17	9.2e-21	Histone chaperone Rttp106-like

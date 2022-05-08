@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Tugs	PF17840.4	CL0072	96	142	96	142	1	47	87.84	3.9e-25	6.0e-29	Tethering Ubl4a to BAGS domain
-ubiquitin	PF00240.26	CL0072	3	74	3	73	1	71	71.95	2.8e-20	4.3e-24	Ubiquitin family
-Rad60-SLD	PF11976.11	CL0072	1	71	1	67	1	68	36.42	3.6e-09	5.5e-13	Ubiquitin-2 like Rad60 SUMO-like

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SPOC	PF07744.16	CL0616	712	888	713	887	2	150	126.72	7.4e-37	1.1e-40	SPOC domain
-RRM_1	PF00076.25	CL0221	339	408	339	408	1	70	51.67	6.4e-14	9.8e-18	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	420	482	420	480	1	66	31.70	1.1e-07	1.7e-11	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

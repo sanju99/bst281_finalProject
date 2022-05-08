@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Uso1_p115_head	PF04869.17	CL0020	344	628	347	628	4	314	205.18	1.4e-60	2.2e-64	Uso1 / p115 like vesicle tethering protein, head region
-Arm_vescicular	PF18770.4	CL0020	269	329	270	329	2	61	109.15	7.2e-32	1.1e-35	Armadillo tether-repeat of vescicular transport factor
-Uso1_p115_C	PF04871.16	-	780	953	785	951	8	121	34.20	2.8e-08	4.3e-12	Uso1 / p115 like vesicle tethering protein, C terminal region

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SLC12	PF03522.18	-	801	1212	801	1212	1	418	546.80	3.8e-164	7.7e-168	Solute carrier family 12
-AA_permease	PF00324.24	CL0062	290	793	290	792	1	478	509.40	9.1e-153	1.9e-156	Amino acid permease
-AA_permease_N	PF08403.13	-	202	266	202	253	1	52	86.04	9.5e-25	1.9e-28	Amino acid permease N-terminal
-AA_permease_2	PF13520.9	CL0062	296	749	316	733	28	406	65.86	3.4e-18	7.0e-22	Amino acid permease

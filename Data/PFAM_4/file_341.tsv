@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RRP7	PF12923.10	-	160	280	162	280	3	119	121.39	2.3e-35	3.5e-39	Ribosomal RNA-processing protein 7 (RRP7) C-terminal domain
-RRM_Rrp7	PF17799.4	CL0221	20	107	22	89	4	71	33.20	4.5e-08	6.9e-12	Rrp7 RRM-like N-terminal domain
-RRM_1	PF00076.25	CL0221	61	102	61	92	1	32	20.96	0.00025	3.8e-08	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-HERV-K_env_2	PF13804.9	-	115	283	115	283	1	169	399.63	1.1e-120	1.7e-124	Retro-transcribing viruses envelope glycoprotein
-HERV-K_REC	PF15695.8	-	19	105	19	105	1	87	184.62	2.5e-55	3.8e-59	Rec (regulator of expression encoded by corf) of HERV-K-113
-GP41	PF00517.20	-	486	682	486	658	1	178	75.40	6.0e-21	9.1e-25	Retroviral envelope protein

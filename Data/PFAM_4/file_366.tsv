@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GTP_EFTU	PF00009.30	CL0023	179	344	183	341	6	192	110.15	1.0e-31	2.1e-35	Elongation factor Tu GTP binding domain
-IF-2	PF11987.11	-	495	607	508	606	18	115	104.41	3.7e-30	7.5e-34	Translation-initiation factor 2
-MMR_HSR1	PF01926.26	CL0023	182	289	183	289	2	114	36.34	5.1e-09	1.0e-12	50S ribosome-binding GTPase
-Ras	PF00071.25	CL0023	182	342	184	302	3	124	23.12	4.9e-05	9.9e-09	Ras family

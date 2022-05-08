@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Ribosomal_S4e	PF00900.23	CL0021	95	169	95	169	1	75	128.08	9.3e-38	2.4e-41	Ribosomal family S4e
-40S_S4_C	PF16121.8	-	212	259	212	259	1	48	99.44	6.7e-29	1.7e-32	40S ribosomal protein S4 C-terminus
-RS4NT	PF08071.15	-	3	39	3	39	1	37	74.17	7.0e-21	1.8e-24	RS4NT (NUC023) domain
-S4	PF01479.28	CL0492	42	90	43	90	2	48	25.49	8.7e-06	2.2e-09	S4 domain
-KOW	PF00467.32	CL0107	177	211	178	211	2	32	24.35	2.2e-05	5.6e-09	KOW motif

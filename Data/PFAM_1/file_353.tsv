@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-TRAF_BIRC3_bd	PF16673.8	-	267	330	267	330	1	64	105.28	1.1e-30	1.7e-34	TNF receptor-associated factor BIRC3 binding domain
-zf-TRAF	PF02176.21	CL0389	178	235	178	235	1	60	68.54	6.4e-19	9.7e-23	TRAF-type zinc finger
-zf-C3HC4	PF00097.28	CL0229	34	72	34	72	1	41	27.55	2.2e-06	3.4e-10	Zinc finger, C3HC4 type (RING finger)

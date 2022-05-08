@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Molybdopterin	PF00384.25	-	301	629	301	628	1	431	253.80	3.3e-75	8.5e-79	Molybdopterin oxidoreductase
-Fer2_4	PF13510.9	CL0486	29	107	32	106	4	81	63.40	1.6e-17	4.2e-21	2Fe-2S iron-sulfur cluster binding domain
-NADH_dhqG_C	PF09326.14	-	658	710	658	710	1	51	60.11	2.7e-16	6.9e-20	NADH-ubiquinone oxidoreductase subunit G, C-terminal
-NADH-G_4Fe-4S_3	PF10588.12	-	113	152	113	152	1	40	59.73	1.5e-16	3.9e-20	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
-Fer2	PF00111.30	CL0486	34	97	35	96	2	77	37.33	2.1e-09	5.3e-13	2Fe-2S iron-sulfur cluster binding domain

@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GTP_EFTU	PF00009.30	CL0023	5	238	5	237	1	194	182.85	5.4e-54	8.2e-58	Elongation factor Tu GTP binding domain
-GTP_EFTU_D3	PF03143.20	-	333	442	336	441	4	107	104.12	4.8e-30	7.4e-34	Elongation factor Tu C-terminal domain
-GTP_EFTU_D2	PF03144.28	CL0575	260	327	260	325	1	72	56.07	4.0e-15	6.1e-19	Elongation factor Tu domain 2

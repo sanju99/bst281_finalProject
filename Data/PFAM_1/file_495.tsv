@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Importin_rep_6	PF18829.4	CL0020	773	882	773	880	1	108	110.37	5.9e-32	2.7e-35	Importin repeat 6
-Importin_rep_4	PF18808.4	CL0020	276	365	279	365	4	90	92.13	2.3e-26	1.0e-29	Importin repeat
-HEAT_2	PF13646.9	CL0020	367	477	370	474	3	87	33.19	5.6e-08	2.6e-11	HEAT repeats
-HEAT	PF02985.25	CL0020	409	438	413	436	6	29	20.68	0.00036	1.6e-07	HEAT repeat
-HEAT	PF02985.25	CL0020	916	944	917	943	3	30	21.71	0.00017	7.6e-08	HEAT repeat
-HEAT_EZ	PF13513.9	CL0020	380	434	380	434	1	55	28.71	1.5e-06	7.0e-10	HEAT-like repeat

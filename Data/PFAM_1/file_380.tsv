@@ -1,9 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PROCN	PF08083.14	-	395	801	396	801	2	407	777.38	2.7e-234	1.1e-237	PROCN (NUC071) domain
-PRP8_domainIV	PF12134.11	-	1760	1989	1760	1988	1	229	429.46	3.2e-129	1.3e-132	PRP8 domain IV core
-U6-snRNA_bdg	PF10596.12	CL0363	1442	1600	1442	1600	1	159	296.52	4.7e-89	1.9e-92	U6-snRNA interacting domain of PrP8
-PRO8NT	PF08082.14	-	58	209	58	209	1	152	285.69	8.3e-86	3.4e-89	PRO8NT (NUC069), PrP8 N-terminal domain
-U5_2-snRNA_bdg	PF10597.12	-	1210	1343	1210	1343	1	134	243.01	7.9e-73	3.2e-76	U5-snRNA binding site 2 of PrP8
-PROCT	PF08084.14	-	2212	2333	2212	2332	1	122	175.29	4.3e-52	1.8e-55	PROCT (NUC072) domain
-RRM_4	PF10598.12	-	986	1077	986	1076	1	91	160.44	1.1e-47	4.4e-51	RNA recognition motif of the spliceosomal PrP8
-JAB	PF01398.24	CL0366	2099	2205	2101	2204	3	117	49.26	4.7e-13	1.9e-16	JAB1/Mov34/MPN/PAD-1 ubiquitin protease

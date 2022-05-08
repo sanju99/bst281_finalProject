@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Pkinase	PF00069.28	CL0016	207	494	210	491	4	259	115.27	3.4e-33	6.9e-37	Protein kinase domain
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	207	494	208	493	2	258	111.92	3.3e-32	6.7e-36	Protein tyrosine and serine/threonine kinase
-TGF_beta_GS	PF08515.15	-	178	205	178	205	1	28	44.48	8.8e-12	1.8e-15	Transforming growth factor beta type I GS-motif
-Activin_recp	PF01064.26	CL0117	32	105	33	103	2	80	26.76	8.4e-06	1.7e-09	Activin types I and II receptor domain

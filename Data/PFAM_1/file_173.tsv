@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Ras	PF00071.25	CL0023	11	172	11	171	1	161	219.00	2.7e-65	5.6e-69	Ras family
-Roc	PF08477.16	CL0023	11	125	11	125	1	119	117.48	4.1e-34	8.4e-38	Ras of Complex, Roc, domain of DAPkinase
-Arf	PF00025.24	CL0023	2	170	10	163	15	168	55.56	4.9e-15	9.9e-19	ADP-ribosylation factor family
-Gtr1_RagA	PF04670.15	CL0023	11	165	11	107	1	105	23.71	2.9e-05	5.9e-09	Gtr1/RagA G protein conserved region

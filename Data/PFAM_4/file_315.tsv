@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-RRM_1	PF00076.25	CL0221	13	83	13	82	1	69	65.16	4.0e-18	1.2e-21	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	101	168	101	168	1	69	70.72	7.3e-20	2.2e-23	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	193	262	193	261	1	69	86.20	1.1e-24	3.3e-28	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-RRM_1	PF00076.25	CL0221	296	364	296	363	1	69	66.78	1.2e-18	3.8e-22	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
-PABP	PF00658.21	-	544	609	545	609	2	66	102.20	1.3e-29	3.8e-33	Poly-adenylate binding protein, unique domain
-RRM_5	PF13893.9	CL0221	91	183	101	173	29	99	11.31	0.22	6.8e-05	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)

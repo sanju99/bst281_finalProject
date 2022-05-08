@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-Amino_oxidase	PF01593.27	CL0063	288	826	288	825	1	451	449.53	1.9e-134	6.6e-138	Flavin containing amine oxidoreductase
-SWIRM	PF04433.20	CL0123	177	264	185	264	9	90	61.16	1.0e-16	3.7e-20	SWIRM domain
-NAD_binding_8	PF13450.9	CL0063	283	346	283	338	1	56	49.99	2.8e-13	1.0e-16	NAD(P)-binding Rossmann-like domain
-DAO	PF01266.27	CL0063	280	513	280	328	1	48	32.36	8.1e-08	2.9e-11	FAD dependent oxidoreductase
-Pyr_redox	PF00070.30	CL0063	280	328	280	314	1	35	22.81	0.00011	3.8e-08	Pyridine nucleotide-disulphide oxidoreductase
-FAD_binding_2	PF00890.27	CL0063	280	327	281	317	2	37	20.66	0.00021	7.4e-08	FAD binding domain

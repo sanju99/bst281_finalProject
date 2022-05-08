@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-FKBP_C	PF00254.31	CL0487	113	201	115	200	3	93	54.12	1.5e-14	5.5e-18	FKBP-type peptidyl-prolyl cis-trans isomerase
-TPR_2	PF07719.20	CL0020	306	339	307	339	2	34	25.23	1.1e-05	4.1e-09	Tetratricopeptide repeat
-TPR_14	PF13428.9	CL0020	306	349	308	349	3	44	24.71	2.7e-05	9.6e-09	Tetratricopeptide repeat
-TPR_8	PF13181.9	CL0020	306	339	307	339	2	34	21.99	0.00013	4.7e-08	Tetratricopeptide repeat

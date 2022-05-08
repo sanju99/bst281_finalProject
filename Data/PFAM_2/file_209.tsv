@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-JAB	PF01398.24	CL0366	26	139	28	138	3	117	111.09	3.2e-32	5.0e-36	JAB1/Mov34/MPN/PAD-1 ubiquitin protease
-MitMem_reg	PF13012.9	-	173	307	173	296	1	97	60.73	1.7e-16	2.6e-20	Maintenance of mitochondrial structure and function
-Prok-JAB	PF14464.9	CL0366	35	154	38	129	5	92	26.39	5.4e-06	8.2e-10	Prokaryotic homologs of the JAB domain

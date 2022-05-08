@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-PK_Tyr_Ser-Thr	PF07714.20	CL0016	18	285	21	284	5	258	178.22	1.9e-52	4.0e-56	Protein tyrosine and serine/threonine kinase
-Pkinase	PF00069.28	CL0016	17	285	21	280	5	257	174.67	2.6e-51	5.2e-55	Protein kinase domain
-Death	PF00531.25	CL0041	584	669	585	666	2	83	80.29	9.6e-23	1.9e-26	Death domain
-RHIM	PF12721.10	-	529	549	531	547	4	20	19.93	0.00038	7.8e-08	RIP homotypic interaction motif

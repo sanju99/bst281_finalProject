@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DNA_pol_B	PF00136.24	CL0194	541	973	541	973	1	459	476.17	1.1e-142	1.6e-146	DNA polymerase family B
-DNA_pol_B_exo1	PF03104.22	CL0219	130	477	131	477	2	337	282.50	4.8e-84	7.3e-88	DNA polymerase family B, exonuclease domain
-zf-C4pol	PF14260.9	-	1012	1082	1012	1082	1	70	69.58	2.5e-19	3.8e-23	C4-type zinc-finger of DNA polymerase delta

@@ -1,5 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-LRR_9	PF14580.9	CL0022	6	164	18	146	18	146	60.96	1.1e-16	2.3e-20	Leucine-rich repeat
-LRR_4	PF12799.10	CL0022	88	133	88	130	1	40	32.15	1.1e-07	2.3e-11	Leucine Rich repeats (2 copies)
-LRR_8	PF13855.9	CL0022	64	125	64	123	1	59	31.21	1.5e-07	3.0e-11	Leucine rich repeat
-LRR_6	PF13516.9	CL0022	86	103	87	102	2	17	13.31	0.074	1.5e-05	Leucine Rich repeat

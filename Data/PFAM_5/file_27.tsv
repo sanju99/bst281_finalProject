@@ -1,6 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SAM_1	PF00536.33	CL0003	645	709	646	708	2	63	59.21	4.4e-16	4.5e-20	SAM domain (Sterile alpha motif)
-SAM_1	PF00536.33	CL0003	718	780	721	780	5	64	63.27	2.4e-17	2.4e-21	SAM domain (Sterile alpha motif)
-SAM_2	PF07647.20	CL0003	645	708	647	708	4	65	26.19	7.0e-06	7.1e-10	SAM domain (Sterile alpha motif)
-SAM_2	PF07647.20	CL0003	719	780	723	780	8	66	35.53	8.5e-09	8.7e-13	SAM domain (Sterile alpha motif)
-SAM_2	PF07647.20	CL0003	804	874	807	873	4	65	52.82	3.4e-14	3.5e-18	SAM domain (Sterile alpha motif)

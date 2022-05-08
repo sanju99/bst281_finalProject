@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DNA_pol3_delta2	PF13177.9	CL0023	18	188	19	185	2	158	41.77	1.2e-10	1.9e-14	DNA polymerase III, delta subunit
-AAA	PF00004.32	CL0023	38	185	38	180	1	125	30.36	4.9e-07	7.5e-11	ATPase family associated with various cellular activities (AAA)
-Rad17	PF03215.18	CL0023	1	171	3	164	8	171	29.86	5.3e-07	8.1e-11	Rad17 P-loop domain

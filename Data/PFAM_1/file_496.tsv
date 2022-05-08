@@ -1,4 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-DUF3535	PF12054.11	-	586	1052	586	1051	1	440	427.67	7.4e-128	2.6e-131	Domain of unknown function (DUF3535)
-SNF2-rel_dom	PF00176.26	CL0023	1198	1585	1284	1585	46	318	194.78	1.8e-57	6.4e-61	SNF2-related domain
-Helicase_C	PF00271.34	CL0023	1615	1744	1640	1744	12	111	61.54	9.0e-17	3.2e-20	Helicase conserved C-terminal domain

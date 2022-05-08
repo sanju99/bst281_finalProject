@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-GTP_EFTU	PF00009.30	CL0023	127	440	129	381	3	154	155.87	9.9e-46	3.0e-49	Elongation factor Tu GTP binding domain
-EFTUD2	PF16004.8	-	3	110	4	110	2	121	128.04	2.9e-37	9.0e-41	116 kDa U5 small nuclear ribonucleoprotein component N-terminus
-EFG_IV	PF03764.21	CL0329	703	824	707	823	9	120	80.37	9.7e-23	3.0e-26	Elongation factor G, domain IV
-EFG_C	PF00679.27	CL0437	826	915	826	914	1	88	78.80	2.6e-22	7.8e-26	Elongation factor G C-terminus
-GTP_EFTU_D2	PF03144.28	CL0575	489	566	491	566	3	74	47.16	2.4e-12	7.4e-16	Elongation factor Tu domain 2
-EFG_III	PF14492.9	CL0437	584	656	586	648	4	67	31.95	1.1e-07	3.3e-11	Elongation Factor G, domain III

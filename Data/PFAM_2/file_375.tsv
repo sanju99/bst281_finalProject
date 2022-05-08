@@ -1,7 +1,0 @@
-Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
-SMC_N	PF02463.22	CL0023	3	1211	3	1208	1	216	164.87	2.0e-48	6.1e-52	RecF/RecN/SMC N terminal domain
-SMC_hinge	PF06470.16	-	512	629	515	629	4	117	88.54	4.0e-25	1.2e-28	SMC proteins Flexible Hinge Domain
-AAA_21	PF13304.9	CL0023	27	79	27	50	1	24	32.14	1.1e-07	3.2e-11	AAA domain, putative AbiEii toxin, Type IV TA system
-AAA_23	PF13476.9	CL0023	7	298	7	296	2	197	50.05	5.4e-13	1.6e-16	AAA domain
-AAA_15	PF13175.9	CL0023	3	345	4	326	3	259	50.01	3.4e-13	1.0e-16	AAA ATPase domain
-AAA_29	PF13555.9	CL0023	4	57	4	50	1	47	29.98	3.5e-07	1.1e-10	P-loop containing region of AAA domain

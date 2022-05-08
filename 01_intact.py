@@ -101,8 +101,6 @@ interact_taxa = pd.Series(list(set(virus_human["Taxname A"]).union(virus_human["
 interact_taxa = list(interact_taxa)
 
 keep_taxa = [name for name in interact_taxa if "virus" in name or "HIV" in name or "SARS" in name or "Homo sapiens" in name]
-drop_taxa = [name for name in interact_taxa if name not in keep_taxa]
-
 virus_human = virus_human.loc[(virus_human["Taxname A"].isin(keep_taxa)) & (virus_human["Taxname B"].isin(keep_taxa))].reset_index(drop=True)
 
 ## Some human-human interactions were found to be related to viral infection, which is why they're in this database. Keep them separately for now.

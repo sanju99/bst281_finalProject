@@ -1,133 +1,141 @@
-Taxid,Taxname,Species,Size(Mb),num_unique_interactions,num_publications
-11295,Rabies virus ERA,Rabies lyssavirus,0.0119167647058823,2,2
-11137,Human coronavirus 229E,Human coronavirus 229E,0.027317,8,5
-1235996,Human betacoronavirus 2c EMC/2012,Middle East respiratory syndrome-related coronavirus,0.030119,4,3
-2697049,Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome-related coronavirus,0.029274,42,166
-211044,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),Influenza A virus,0.044116317231042,8,6
-64320,Zika virus,Zika virus,0.010891,1,1
-39054,Enterovirus A71,Enterovirus A,0.007413,1,1
-31631,Human coronavirus OC43,Betacoronavirus 1,0.0440889194446982,3,3
-277944,Human coronavirus NL63,Human coronavirus NL63,0.027553,5,10
-284218,Influenza A virus (A/Viet Nam/1203/2004(H5N1)),Influenza A virus,0.044116317231042,3,1
-121791,Nipah henipavirus,Nipah henipavirus,0.0182182,8,1
-256753,SARS coronavirus GZ02,Severe acute respiratory syndrome-related coronavirus,0.029274,1,1
-641501,Influenza A virus (A/California/04/2009(H1N1)),Influenza A virus,0.044116317231042,1,1
-381518,Influenza A virus (A/Wilson-Smith/1933(H1N1)),Influenza A virus,0.044116317231042,7,4
-333761,Human papillomavirus type 18,Alphapapillomavirus 7,0.007857,4,31
-28285,Human adenovirus 5,Human mastadenovirus C,0.0358364666666666,15,23
-37296,Human gammaherpesvirus 8,Human gammaherpesvirus 8,0.137969,67,3
-11116,Hepatitis C virus (isolate Japanese),Hepacivirus C,0.0094322738095238,2,3
-10299,Human alphaherpesvirus 1 strain 17,Human alphaherpesvirus 1,0.1511518333333333,8,11
-10377,Human herpesvirus 4 strain B95-8,Human gammaherpesvirus 4,0.1717282,37,17
-11679,Human immunodeficiency virus type 1 (CLONE 12),Human immunodeficiency virus 1,0.0089597123287671,3,8
-11676,Human immunodeficiency virus 1,Human immunodeficiency virus 1,0.0089597123287671,6,5
-11103,Hepacivirus C,Hepacivirus C,0.0094322738095238,4,7
-28282,Human adenovirus 12,Human mastadenovirus A,0.0338199999999999,4,10
-10515,Human adenovirus 2,Human mastadenovirus C,0.0358364666666666,3,3
-10359,Human betaherpesvirus 5,Human betaherpesvirus 5,0.2345114999999999,1,1
-10298,Human alphaherpesvirus 1,Human alphaherpesvirus 1,0.1511518333333333,2,3
-10315,Human herpesvirus 2 strain HG52,Human alphaherpesvirus 2,0.1411961904761904,1,1
-11706,HIV-1 M:B_HXB2R,Human immunodeficiency virus 1,0.0089597123287671,13,11
-11686,Human immunodeficiency virus type 1 (BRU ISOLATE),Human immunodeficiency virus 1,0.0089597123287671,4,4
-11678,Human immunodeficiency virus type 1 BH10,Human immunodeficiency virus 1,0.0089597123287671,3,3
-10579,Human papillomavirus type 8,Betapapillomavirus 1,0.0075333333333333,3,8
-10376,Human gammaherpesvirus 4,Human gammaherpesvirus 4,0.1717282,2,2
-11926,Human T-cell lymphotrophic virus type 1 (strain ATK),Primate T-lymphotropic virus 1,0.009028,1,1
-333760,Human papillomavirus type 16,Alphapapillomavirus 9,0.0386876670403587,10,64
-10580,human papillomavirus 11,Alphapapillomavirus 10,0.043290086620263,8,24
-10600,Human papillomavirus type 6b,Alphapapillomavirus 10,0.043290086620263,5,11
-333923,Human papillomavirus 5,Betapapillomavirus 1,0.0075333333333333,3,3
-1891762,Human polyomavirus 1,Human polyomavirus 1,0.005147,1,1
-10632,JC polyomavirus,Human polyomavirus 2,0.034706597781158,2,2
-10586,human papillomavirus 33,Alphapapillomavirus 9,0.0386876670403587,4,3
-420174,Hepatitis C virus isolate HC-J4,Hepacivirus C,0.0094322738095238,3,4
-421879,Hepatitis C virus isolate HCR6,Hepacivirus C,0.0094322738095238,1,1
-356411,Hepatitis C virus JFH-1,Hepacivirus C,0.0094322738095238,15,31
-63746,Hepatitis C virus (isolate H77),Hepacivirus C,0.0094322738095238,10,62
-443241,Human coronavirus HKU1 (isolate N5),Human coronavirus HKU1,0.029926,3,2
-387139,Influenza A virus (A/Aichi/2/1968(H3N2)),Influenza A virus,0.044116317231042,1,1
-10249,Vaccinia virus Copenhagen,Vaccinia virus,0.1809562307692307,4,4
-11696,HIV-1 M:B_MN,Human immunodeficiency virus 1,0.0089597123287671,1,1
-333284,Hepatitis C virus (isolate Con1),Hepacivirus C,0.0094322738095238,12,18
-10585,human papillomavirus 31,Alphapapillomavirus 9,0.0386876670403587,3,4
-31553,Papillomavirus sylvilagi (STRAIN KANSAS),Kappapapillomavirus 2,0.007868,1,1
-10614,Human papillomavirus 3,Alphapapillomavirus 2,0.0368227040854875,2,3
-10254,Vaccinia virus WR,Vaccinia virus,0.1809562307692307,5,7
-10245,Vaccinia virus,Vaccinia virus,0.1809562307692307,3,3
-10370,Human herpesvirus 6 (strain Uganda-1102),Human betaherpesvirus 6A,0.159378,1,1
-45659,Human adenovirus B3,Human mastadenovirus B,0.0350331408450704,1,1
-337052,Deltapapillomavirus 4,Deltapapillomavirus 4,0.007945,5,17
-31531,Vaccinia virus L-IPV,Vaccinia virus,0.1809562307692307,1,2
-12082,Human poliovirus 1 strain Sabin,Enterovirus C,0.00744,1,1
-11104,Hepatitis C virus (isolate 1),Hepacivirus C,0.0094322738095238,2,2
-381512,Influenza A virus (A/New Caledonia/20/1999(H1N1)),Influenza A virus,0.044116317231042,1,1
-440390,Influenza A virus (A/Turkey/651242/2006(H5N1)),Influenza A virus,0.044116317231042,1,1
-382835,Influenza A virus (A/WSN/1933(H1N1)),Influenza A virus,0.044116317231042,2,1
-392809,Influenza A virus (A/Victoria/3/1975(H3N2)),Influenza A virus,0.044116317231042,1,1
-11065,Dengue virus 2 Thailand/NGS-C/1944,Dengue virus,0.0351385723340902,4,4
-402527,Influenza A virus (A/chicken/Scotland/1959(H5N1)),Influenza A virus,0.044116317231042,2,1
-363744,Influenza A virus (A/chicken/Kurgan/3/2005(H5N1)),Influenza A virus,0.044116317231042,2,1
-644788,Influenza A virus (A/Vietnam/1194/2004(H5N1)),Influenza A virus,0.044116317231042,2,1
-380337,Influenza A virus (A/equine/Prague/1/1956(H7N7)),Influenza A virus,0.044116317231042,2,1
-329599,Influenza A virus (A/chicken/Guangdong/6/97(H9N2)),Influenza A virus,0.044116317231042,2,1
-11259,Human respiratory syncytial virus A2,Human orthopneumovirus,0.0152235,3,4
-11060,Dengue virus 2,Dengue virus,0.0351385723340902,2,2
-172148,Alkhumra hemorrhagic fever virus,Kyasanur Forest disease virus,0.010376,1,1
-11078,Kunjin virus (STRAIN MRM61C),West Nile virus,0.0109955,2,1
-11084,Tick-borne encephalitis virus,Tick-borne encephalitis virus,0.0085893333333333,1,1
-11072,Japanese encephalitis virus,Japanese encephalitis virus,0.010976,1,1
-11082,West Nile virus,West Nile virus,0.0109955,3,2
-11053,Dengue virus 1,Dengue virus,0.0351385723340902,1,1
-10583,Human papillomavirus type 1a,Mupapillomavirus 1,0.007815,4,5
-37122,Human papillomavirus type 6a,Alphapapillomavirus 10,0.043290086620263,2,1
-10621,Human papillomavirus 9,Betapapillomavirus 2,0.0073858,3,2
-333763,Human papillomavirus type 32,Alphapapillomavirus 1,0.0440768876004383,3,2
-10588,human papillomavirus 39,Alphapapillomavirus 7,0.007857,3,2
-31647,Hepatitis C virus subtype 1b,Hepacivirus C,0.0094322738095238,3,3
-31552,Human papillomavirus type 6,Alphapapillomavirus 10,0.043290086620263,1,1
-11624,Lymphocytic choriomeningitis virus (strain Armstrong),Lymphocytic choriomeningitis mammarenavirus,0.01033,1,1
-11285,Vesicular stomatitis Indiana virus strain San Juan,Indiana vesiculovirus,0.011083,1,1
-645098,Measles virus strain Ichinose-B95a,Measles morbillivirus,0.015894,1,1
-643212,Influenza A virus (A/Netherlands/602/2009(H1N1)),Influenza A virus,0.044116317231042,1,1
-388812,HIV-1 M:C_92BR025,Human immunodeficiency virus 1,0.0089597123287671,2,2
-11908,Human T-cell leukemia virus type I,Primate T-lymphotropic virus 1,0.009028,2,2
-10407,Hepatitis B virus,Hepatitis B virus,0.0032136666666666,3,4
-10593,human papillomavirus 45,Alphapapillomavirus 7,0.007857,1,1
-10598,human papillomavirus 58,Alphapapillomavirus 9,0.0386876670403587,1,1
-435895,Human herpesvirus 8 type M,Human gammaherpesvirus 8,0.137969,1,1
-11685,HIV-1 M:B_ARV2/SF2,Human immunodeficiency virus 1,0.0089597123287671,1,1
-290579,HIV-1 M:B_Lai,Human immunodeficiency virus 1,0.0089597123287671,1,1
-11689,Human immunodeficiency virus type 1 (ELI ISOLATE),Human immunodeficiency virus 1,0.0089597123287671,1,1
-31767,Hepatitis E virus (strain Burma),Orthohepevirus A,0.0070955,1,1
-31768,Hepatitis E virus (strain Mexico),Orthohepevirus A,0.0070955,1,1
-10306,Human alphaherpesvirus 1 strain KOS,Human alphaherpesvirus 1,0.1511518333333333,1,1
-11707,Human immunodeficiency virus type 1 (HXB3 ISOLATE),Human immunodeficiency virus 1,0.0089597123287671,1,1
-82830,Epstein-barr virus strain ag876,Human gammaherpesvirus 4,0.1717282,1,1
-11105,Hepatitis C virus (isolate BK),Hepacivirus C,0.0094322738095238,2,2
-868565,Human herpesvirus 8 strain GK18,Human gammaherpesvirus 8,0.137969,4,4
-11045,Rubella virus strain Therien,Rubivirus rubellae,0.009762,1,1
-10304,Human alphaherpesvirus 1 strain F,Human alphaherpesvirus 1,0.1511518333333333,1,1
-128952,"Ebola virus - Mayinga, Zaire, 1976",Zaire ebolavirus,0.018923,1,3
-11927,Human T-cell lymphotrophic virus type 1 (Caribbean isolate),Primate T-lymphotropic virus 1,0.009028,3,1
-11909,Human T-lymphotropic virus 2,Primate T-lymphotropic virus 2,0.0391400445736416,5,1
-928302,Hepatitis B virus C/ayr human/Japan/Okamoto,Hepatitis B virus,0.0032136666666666,1,1
-992212,SFTS virus HB29,Dabie bandavirus,0.006843,2,1
-211787,Human papillomavirus type 92,Betapapillomavirus 4,0.0074405,1,1
-10617,Human papillomavirus 4,Gammapapillomavirus 1,0.0438736855871402,1,1
-37958,Human papillomavirus 37,Betapapillomavirus 2,0.0073858,1,1
-247268,Human papillomavirus 93,Betapapillomavirus 1,0.0075333333333333,1,1
-37959,Human papillomavirus 38,Betapapillomavirus 2,0.0073858,1,1
-247269,Human papillomavirus type 96,Betapapillomavirus 5,0.007415,1,1
-31645,Hepatitis C virus (isolate Taiwan),Hepacivirus C,0.0094322738095238,5,3
-421877,Hepatitis C virus isolate HC-J1,Hepacivirus C,0.0094322738095238,5,8
-31635,Dengue virus 2 16681-PDK53,Dengue virus,0.0351385723340902,9,1
-648242,Adeno-associated virus 2 Srivastava/1982,Adeno-associated dependoparvovirus A,0.0481470279810484,2,1
-10360,Human herpesvirus 5 strain AD169,Human betaherpesvirus 5,0.2345114999999999,1,1
-1173018,Phlebovirus WCH/97/HN/China/2011,Phlebovirus WCH/97/HN/China/2011,0.010681,1,1
-11698,Human immunodeficiency virus type 1 (NEW YORK-5 ISOLATE),Human immunodeficiency virus 1,0.0089597123287671,3,1
-11059,Dengue virus 1 Nauru/West Pac/1974,Dengue virus,0.0351385723340902,1,1
-11250,Human orthopneumovirus,Human orthopneumovirus,0.0152235,1,1
-31547,human papillomavirus 20,Betapapillomavirus 1,0.0075333333333333,1,1
-11108,Hepatitis C virus (isolate H),Hepacivirus C,0.0094322738095238,1,1
-329389,Hepatitis C virus (isolate Glasgow),Hepacivirus C,0.0094322738095238,1,1
-11113,Hepatitis C virus isolate HC-J6,Hepacivirus C,0.0094322738095238,1,1
+Taxid,Taxname,Species,Size(Kb),num_unique_interactions,num_publications
+1263720,Betacoronavirus England 1,Middle East respiratory syndrome-related coronavirus,30.119,573,23
+694009,Severe acute respiratory syndrome-related coronavirus,Severe acute respiratory syndrome-related coronavirus,29.274,1155,77
+11295,Rabies virus ERA,Rabies lyssavirus,11.916764705882352,3651,2
+11137,Human coronavirus 229E,Human coronavirus 229E,27.317,386,5
+1235996,Human betacoronavirus 2c EMC/2012,Middle East respiratory syndrome-related coronavirus,30.119,8,4
+2697049,Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome-related coronavirus,29.274,2296,178
+211044,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),Influenza A virus,13.210598540145998,95,7
+64320,Zika virus,Zika virus,10.891,1,1
+39054,Enterovirus A71,Enterovirus A,7.413,1,1
+31631,Human coronavirus OC43,Betacoronavirus 1,30.6348,292,3
+277944,Human coronavirus NL63,Human coronavirus NL63,27.553,417,10
+284218,Influenza A virus (A/Viet Nam/1203/2004(H5N1)),Influenza A virus,13.210598540145998,311,1
+121791,Nipah henipavirus,Nipah henipavirus,18.2182,92,1
+256753,SARS coronavirus GZ02,Severe acute respiratory syndrome-related coronavirus,29.274,1,1
+641501,Influenza A virus (A/California/04/2009(H1N1)),Influenza A virus,13.210598540145998,4,1
+381518,Influenza A virus (A/Wilson-Smith/1933(H1N1)),Influenza A virus,13.210598540145998,134,4
+1335626,Middle East respiratory syndrome-related coronavirus,Middle East respiratory syndrome-related coronavirus,30.119,3,3
+333761,Human papillomavirus type 18,Alphapapillomavirus 7,7.856999999999999,477,44
+28285,Human adenovirus 5,Human mastadenovirus C,35.83646666666667,185,25
+37296,Human gammaherpesvirus 8,Human gammaherpesvirus 8,137.969,560,3
+11116,Hepatitis C virus (isolate Japanese),Hepacivirus C,9.432273809523808,4,4
+10299,Human alphaherpesvirus 1 strain 17,Human alphaherpesvirus 1,151.15183333333334,60,12
+10377,Human herpesvirus 4 strain B95-8,Human gammaherpesvirus 4,171.72820000000002,837,17
+11679,Human immunodeficiency virus type 1 (CLONE 12),Human immunodeficiency virus 1,8.959712328767123,14,9
+11676,Human immunodeficiency virus 1,Human immunodeficiency virus 1,8.959712328767123,94,5
+11103,Hepacivirus C,Hepacivirus C,9.432273809523808,8,7
+28282,Human adenovirus 12,Human mastadenovirus A,33.81999999999999,13,11
+10515,Human adenovirus 2,Human mastadenovirus C,35.83646666666667,5,5
+10359,Human betaherpesvirus 5,Human betaherpesvirus 5,234.51149999999998,1,1
+10298,Human alphaherpesvirus 1,Human alphaherpesvirus 1,151.15183333333334,20,3
+10315,Human herpesvirus 2 strain HG52,Human alphaherpesvirus 2,141.19619047619048,2,1
+11706,HIV-1 M:B_HXB2R,Human immunodeficiency virus 1,8.959712328767123,296,16
+11686,Human immunodeficiency virus type 1 (BRU ISOLATE),Human immunodeficiency virus 1,8.959712328767123,8,4
+11678,Human immunodeficiency virus type 1 BH10,Human immunodeficiency virus 1,8.959712328767123,41,3
+10579,Human papillomavirus type 8,Betapapillomavirus 1,7.533333333333334,260,9
+10376,Human gammaherpesvirus 4,Human gammaherpesvirus 4,171.72820000000002,95,2
+11926,Human T-cell lymphotrophic virus type 1 (strain ATK),Primate T-lymphotropic virus 1,9.027999999999999,14,1
+333760,Human papillomavirus type 16,Alphapapillomavirus 9,7.9542,384,74
+10580,human papillomavirus 11,Alphapapillomavirus 10,7.9542,340,29
+10600,Human papillomavirus type 6b,Alphapapillomavirus 10,7.9542,396,13
+333923,Human papillomavirus 5,Betapapillomavirus 1,7.533333333333334,188,3
+868565,Human herpesvirus 8 strain GK18,Human gammaherpesvirus 8,137.969,7,5
+1891762,Human polyomavirus 1,Human polyomavirus 1,5.146999999999999,39,1
+10632,JC polyomavirus,Human polyomavirus 2,27.518078683035583,41,2
+10586,human papillomavirus 33,Alphapapillomavirus 9,7.9542,170,3
+420174,Hepatitis C virus isolate HC-J4,Hepacivirus C,9.432273809523808,5,4
+421879,Hepatitis C virus isolate HCR6,Hepacivirus C,9.432273809523808,1,1
+356411,Hepatitis C virus JFH-1,Hepacivirus C,9.432273809523808,376,34
+63746,Hepatitis C virus (isolate H77),Hepacivirus C,9.432273809523808,200,67
+333284,Hepatitis C virus (isolate Con1),Hepacivirus C,9.432273809523808,433,20
+11698,Human immunodeficiency virus type 1 (NEW YORK-5 ISOLATE),Human immunodeficiency virus 1,8.959712328767123,74,2
+11720,Human immunodeficiency virus type 2 (ISOLATE ROD),Human immunodeficiency virus 2,10.033972972972974,1,1
+443241,Human coronavirus HKU1 (isolate N5),Human coronavirus HKU1,29.926000000000002,282,2
+10623,Kappapapillomavirus 2,Kappapapillomavirus 2,7.868,1,1
+387139,Influenza A virus (A/Aichi/2/1968(H3N2)),Influenza A virus,13.210598540145998,1,1
+10249,Vaccinia virus Copenhagen,Vaccinia virus,180.95623076923079,9,4
+11696,HIV-1 M:B_MN,Human immunodeficiency virus 1,8.959712328767123,4,1
+11105,Hepatitis C virus (isolate BK),Hepacivirus C,9.432273809523808,3,4
+10585,human papillomavirus 31,Alphapapillomavirus 9,7.9542,10,6
+31553,Papillomavirus sylvilagi (STRAIN KANSAS),Kappapapillomavirus 2,7.868,3,2
+10614,Human papillomavirus 3,Alphapapillomavirus 2,7.9542,89,4
+10254,Vaccinia virus WR,Vaccinia virus,180.95623076923079,14,7
+10245,Vaccinia virus,Vaccinia virus,180.95623076923079,2,3
+10370,Human herpesvirus 6 (strain Uganda-1102),Human betaherpesvirus 6A,159.378,1,1
+45659,Human adenovirus B3,Human mastadenovirus B,35.03314084507043,4,2
+337052,Deltapapillomavirus 4,Deltapapillomavirus 4,7.945,26,20
+31531,Vaccinia virus L-IPV,Vaccinia virus,180.95623076923079,7,2
+12082,Human poliovirus 1 strain Sabin,Enterovirus C,7.44,2,1
+11104,Hepatitis C virus (isolate 1),Hepacivirus C,9.432273809523808,3,3
+381512,Influenza A virus (A/New Caledonia/20/1999(H1N1)),Influenza A virus,13.210598540145998,6,1
+440390,Influenza A virus (A/Turkey/651242/2006(H5N1)),Influenza A virus,13.210598540145998,12,1
+382835,Influenza A virus (A/WSN/1933(H1N1)),Influenza A virus,13.210598540145998,27,1
+392809,Influenza A virus (A/Victoria/3/1975(H3N2)),Influenza A virus,13.210598540145998,59,1
+11065,Dengue virus 2 Thailand/NGS-C/1944,Dengue virus,10.693166666666665,12,4
+402527,Influenza A virus (A/chicken/Scotland/1959(H5N1)),Influenza A virus,13.210598540145998,69,1
+363744,Influenza A virus (A/chicken/Kurgan/3/2005(H5N1)),Influenza A virus,13.210598540145998,65,1
+644788,Influenza A virus (A/Vietnam/1194/2004(H5N1)),Influenza A virus,13.210598540145998,60,1
+380337,Influenza A virus (A/equine/Prague/1/1956(H7N7)),Influenza A virus,13.210598540145998,37,1
+329599,Influenza A virus (A/chicken/Guangdong/6/97(H9N2)),Influenza A virus,13.210598540145998,33,1
+31647,Hepatitis C virus subtype 1b,Hepacivirus C,9.432273809523808,4,5
+11082,West Nile virus,West Nile virus,10.9955,6,2
+11059,Dengue virus 1 Nauru/West Pac/1974,Dengue virus,10.693166666666665,1,1
+11259,Human respiratory syncytial virus A2,Human orthopneumovirus,15.223500000000001,37,4
+11060,Dengue virus 2,Dengue virus,10.693166666666665,30,2
+172148,Alkhumra hemorrhagic fever virus,Kyasanur Forest disease virus,10.376,38,1
+11078,Kunjin virus (STRAIN MRM61C),West Nile virus,10.9955,37,1
+11084,Tick-borne encephalitis virus,Tick-borne encephalitis virus,8.589333333333332,33,1
+11072,Japanese encephalitis virus,Japanese encephalitis virus,10.975999999999999,6,1
+11053,Dengue virus 1,Dengue virus,10.693166666666665,11,1
+10583,Human papillomavirus type 1a,Mupapillomavirus 1,7.815,158,5
+37122,Human papillomavirus type 6a,Alphapapillomavirus 10,7.9542,42,1
+10621,Human papillomavirus 9,Betapapillomavirus 2,7.3858,144,2
+333763,Human papillomavirus type 32,Alphapapillomavirus 1,7.9542,71,2
+10588,human papillomavirus 39,Alphapapillomavirus 7,7.856999999999999,110,2
+31552,Human papillomavirus type 6,Alphapapillomavirus 10,7.9542,39,1
+11624,Lymphocytic choriomeningitis virus (strain Armstrong),Lymphocytic choriomeningitis mammarenavirus,10.33,233,1
+11285,Vesicular stomatitis Indiana virus strain San Juan,Indiana vesiculovirus,11.083,2,1
+645098,Measles virus strain Ichinose-B95a,Measles morbillivirus,15.893999999999998,1,1
+1980519,Crimean-Congo hemorrhagic fever orthonairovirus,Crimean-Congo hemorrhagic fever orthonairovirus,19.146,1,1
+643212,Influenza A virus (A/Netherlands/602/2009(H1N1)),Influenza A virus,13.210598540145998,3,1
+388812,HIV-1 M:C_92BR025,Human immunodeficiency virus 1,8.959712328767123,7,2
+10527,Human adenovirus D9,Human mastadenovirus D,35.07171428571428,1,1
+11908,Human T-cell leukemia virus type I,Primate T-lymphotropic virus 1,9.027999999999999,12,3
+10407,Hepatitis B virus,Hepatitis B virus,3.2136666666666667,8,4
+10593,human papillomavirus 45,Alphapapillomavirus 7,7.856999999999999,1,1
+10529,Human adenovirus 31,Human mastadenovirus A,33.81999999999999,1,1
+10598,human papillomavirus 58,Alphapapillomavirus 9,7.9542,1,1
+435895,Human herpesvirus 8 type M,Human gammaherpesvirus 8,137.969,2,1
+11685,HIV-1 M:B_ARV2/SF2,Human immunodeficiency virus 1,8.959712328767123,4,1
+290579,HIV-1 M:B_Lai,Human immunodeficiency virus 1,8.959712328767123,4,1
+11689,Human immunodeficiency virus type 1 (ELI ISOLATE),Human immunodeficiency virus 1,8.959712328767123,3,1
+31767,Hepatitis E virus (strain Burma),Orthohepevirus A,7.0955,2,1
+31768,Hepatitis E virus (strain Mexico),Orthohepevirus A,7.0955,1,1
+10306,Human alphaherpesvirus 1 strain KOS,Human alphaherpesvirus 1,151.15183333333334,1,1
+11707,Human immunodeficiency virus type 1 (HXB3 ISOLATE),Human immunodeficiency virus 1,8.959712328767123,2,1
+82830,Epstein-barr virus strain ag876,Human gammaherpesvirus 4,171.72820000000002,1,1
+11045,Rubella virus strain Therien,Rubivirus rubellae,9.762,1,1
+10304,Human alphaherpesvirus 1 strain F,Human alphaherpesvirus 1,151.15183333333334,1,1
+128952,"Ebola virus - Mayinga, Zaire, 1976",Zaire ebolavirus,18.923000000000002,6,3
+11927,Human T-cell lymphotrophic virus type 1 (Caribbean isolate),Primate T-lymphotropic virus 1,9.027999999999999,70,1
+11909,Human T-lymphotropic virus 2,Primate T-lymphotropic virus 2,8.005176470588234,60,1
+928302,Hepatitis B virus C/ayr human/Japan/Okamoto,Hepatitis B virus,3.2136666666666667,1,1
+992212,SFTS virus HB29,Dabie bandavirus,6.843,3,1
+11250,Human orthopneumovirus,Human orthopneumovirus,15.223500000000001,1,1
+211787,Human papillomavirus type 92,Betapapillomavirus 4,7.4405,1,1
+10617,Human papillomavirus 4,Gammapapillomavirus 1,6.153271739130437,1,1
+37958,Human papillomavirus 37,Betapapillomavirus 2,7.3858,1,1
+247268,Human papillomavirus 93,Betapapillomavirus 1,7.533333333333334,1,1
+247269,Human papillomavirus type 96,Betapapillomavirus 5,7.415,1,1
+37959,Human papillomavirus 38,Betapapillomavirus 2,7.3858,1,1
+31547,human papillomavirus 20,Betapapillomavirus 1,7.533333333333334,1,1
+31645,Hepatitis C virus (isolate Taiwan),Hepacivirus C,9.432273809523808,4,3
+421877,Hepatitis C virus isolate HC-J1,Hepacivirus C,9.432273809523808,13,8
+11108,Hepatitis C virus (isolate H),Hepacivirus C,9.432273809523808,1,1
+329389,Hepatitis C virus (isolate Glasgow),Hepacivirus C,9.432273809523808,1,1
+31635,Dengue virus 2 16681-PDK53,Dengue virus,10.693166666666665,106,1
+648242,Adeno-associated virus 2 Srivastava/1982,Adeno-associated dependoparvovirus A,4.575764705882353,1,1
+10360,Human herpesvirus 5 strain AD169,Human betaherpesvirus 5,234.51149999999998,3,1
+11113,Hepatitis C virus isolate HC-J6,Hepacivirus C,9.432273809523808,1,1
+1173018,Phlebovirus WCH/97/HN/China/2011,Phlebovirus WCH/97/HN/China/2011,10.681000000000001,2,1

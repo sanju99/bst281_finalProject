@@ -34,5 +34,10 @@
   <li><code>GO_function</code: Pickle file that is very similar to <code>Data/GO_function.tsv</code>. The only difference is that the Genes column has been cleaned up to remove gene descriptions and contains lists of genes instead of strings.</li>
   <li><code>GO_process</code: Pickle file that is very similar to <code>Data/GO_process.tsv</code>. The only difference is that the Genes column has been cleaned up to remove gene descriptions and contains lists of genes instead of strings.</li>
   <li><code>enriched_GO_proteins.csv</code>: Tidy dataframe of proteins by Gene name and UniProt ID with their associated gene ontology annotations. This file includes ONLY genes associated with GO functions with enrichment scores greater than the mean, obtained from <code>Processed/GO_function</code>.</li>
-  <li><code>protein_domains.csv</code>: Tidy dataframe of proteins by their UniProt IDs and the numbers and types of PFAM domains they contain.</li>
-  <li><code>GO_PFAM_pairwise_share.csv.gz</code></li>
+  <li><code>protein_domains.csv</code>: Tidy dataframe of proteins in <code>enriched_GO_proteins.csv</code> by their UniProt IDs and the numbers and types of PFAM domains they contain.</li>
+  <li><code>GO_distances.csv.gz</code>: Dataframe of the number of GO functions shared by every pair of proteins in <code>enriched_GO_proteins.csv</code></li>
+  <li><code>GO_PFAM_pairwise_share.csv.gz</code>Same as <code>GO_distances.csv.gz</code>, but contains another column for the number of PFAM domains shared by every pair of proteins.</li>
+  <li><code>viral_taxids.txt</code>: List of taxonomic IDs of the viruses that predominantly infect humans extracted from the "Taxid A" column of <code>Processed/virus_human.csv</code>.</li>
+  <li><code>viral_taxonomies.csv</code>: Full taxonomic classifications for the viral taxids in <code>Processed/viral_taxids.txt</code>, obtained using the <code>Taxonomizr</code> package in R.</li>
+  <li><code>model_predictors.csv</code></li>
+  <li><code>model_predictors_human.csv</code></li>

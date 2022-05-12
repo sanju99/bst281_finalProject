@@ -48,6 +48,6 @@
 <ul>
   <li><code>01_intact.py</code>: Removes unnecessary columns from <code>Data/virus_intact.txt</code>, renames columns to make them easier to work with, keeps only virus:human interactions, adds taxonomy names from NCBI taxonomy IDs, and switches the columns so that the human protein always appears second (this makes later analyses easier). This script creates <code>Processed/virus_human.csv</code>.</li>
   <li><code>02_GO_files.py</code>: Creates <code>Data/human_genes.txt</code> <code>Data/human_genes_all.txt</code> to search on GOrilla for gene enrichment.</li>
-  <li><code>03_download_hmmer.py</code>: Downloads PFAM domain information from HMMER using <code>wget</code>. </li>
+  <li><code>03_download_hmmer.py</code>: Downloads PFAM domain information from <a href="https://www.ebi.ac.uk/Tools/hmmer/search/hmmscan" target="_blank">HMMER</a> using <code>wget</code>. </li>
   <li><code>04_process_hmmer.py</code>: Parses the tsv files downloaded by <code>03_download_hmmer.py</code> and combines them into a single file for each batch of query proteins. All the batches were combined later in <code>PFAM.ipynb</code> to generate <code>Processed/protein_domains.csv</code>.</li>
 </ul>

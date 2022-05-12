@@ -1,6 +1,6 @@
 # Final Project for BST 281, Spring 2022
 
-## Directories contained in this repository:
+## Directories in this repository:
 
 <b>Data</b>: Raw data downloaded from various databases
 
@@ -8,7 +8,7 @@
 
 <b>Analysis</b>: iPython notebooks used for analyses
 
-## Data files contained in this repository by folder:
+## Data files in this repository by folder:
 
 ### Data
 

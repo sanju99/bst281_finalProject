@@ -44,3 +44,8 @@
 </ul>
 
 ## Python scripts:
+
+<ul>
+  <li><code>01_intact.py</code>:</li>: Removes unnecessary columns from <code>Data/virus_intact.txt</code>, renames columns to make them easier to work with, keeps only virus:human interactions, adds taxonomy names from NCBI taxonomy IDs, and switches the columns so that the human protein always appears second (this makes later analyses easier). This script creates <code>Processed/virus_human.csv</code>.</li>
+  <li></li>
+</ul>

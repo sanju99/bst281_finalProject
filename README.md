@@ -19,7 +19,7 @@
   <li><code>taxids_with_names.txt</code>: Table of taxonomic IDs with associated names, obtained by searching the <a href="https://www.ncbi.nlm.nih.gov/Taxonomy/TaxIdentifier/tax_identifier.cgi" target="_blank">NCBI taxonomy browser</a>.</li>
   <li><code>human_proteins.txt</code>: List of all human proteins from the virus IntAct database</li>
   <li><code>human_proteins_fixed.tab</code>: Table of updated human proteins. It was obtained by searching <code>human_proteins.txt</code> on the UniProt website to update and clean deprecated names.</li>
-  <li><code><human_proteins_all.gz</code: Table of all ~79,000 proteins in the human proteome downloaded from <a href="https://www.uniprot.org/uniprot/?query=proteome:UP000005640" target="_blank">UniProt</a>.</li>
+  <li><code><human_proteins_all.gz</code>: Table of all ~79,000 proteins in the human proteome downloaded from <a href="https://www.uniprot.org/uniprot/?query=proteome:UP000005640" target="_blank">UniProt</a>.</li>
   <li><code>human_genes_all.txt</code>: List of all human genes to use as the background list for GOrilla enrichment searching. Gene names were extracted from <code>human_proteins_fixed.tab</code>.</li>
 </ul>
 

@@ -2,11 +2,11 @@
 
 ## Directories contained in this repository:
 
-### Data: Raw data downloaded from various databases
+<b>Data</b>: Raw data downloaded from various databases
 
-### Processed: Tidy data files used in analyses
+<b>Processed</b>: Tidy data files used in analyses
 
-### Analysis: iPython notebooks used for analyses
+<b>Analysis</b>: iPython notebooks used for analyses
 
 ## Files contained in this repository
 

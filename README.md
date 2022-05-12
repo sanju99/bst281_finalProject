@@ -13,7 +13,7 @@
 ### Data
 
 <ul>
-  <li>`virus_intact.txt`: original database of 42,154 pairwise interactions between virus and host cell proteins. </li>
+  <li><code>virus_intact.txt</code>: original database of 42,154 pairwise interactions between virus and host cell proteins. </li>
 </ul>
 
 https://www.ebi.ac.uk/intact/download/datasets#computationally

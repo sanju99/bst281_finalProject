@@ -8,7 +8,7 @@
 
 <b>Analysis</b>: iPython notebooks used for analyses
 
-## Data files in this repository by folder:
+## Data files by folder:
 
 ### Data
 
@@ -50,4 +50,12 @@
   <li><code>02_GO_files.py</code>: Creates <code>Data/human_genes.txt</code> <code>Data/human_genes_all.txt</code> to search on GOrilla for gene enrichment.</li>
   <li><code>03_download_hmmer.py</code>: Downloads PFAM domain information from <a href="https://www.ebi.ac.uk/Tools/hmmer/search/hmmscan" target="_blank">HMMER</a> using <code>wget</code>. </li>
   <li><code>04_process_hmmer.py</code>: Parses the tsv files downloaded by <code>03_download_hmmer.py</code> and combines them into a single file for each batch of query proteins. All the batches were combined later in <code>PFAM.ipynb</code> to generate <code>Processed/protein_domains.csv</code>.</li>
+</ul>
+
+## iPython Notebooks:
+
+<ul>
+  <li><code>01_protein_enrichment.ipynb</code>: Creates some summary plots of the GOrilla results in <code>Processed/GO_function</code> and <code>Processed/GO_process</code> and computes pairwise overlap in GO function between genes associated with the most highly enriched GO functions. </li>
+  <li><code>02_PFAM.ipynb</code>: Combines PFAM domains from the protein batches into <code>protein_domains.csv</code>. Performs (a very uninformative) principal component analysis and correlates the number of GO functions and PFAM domains shared between every pair of proteins in the filtered dataset.</li>
+  <li><code>03_virus_groups.ipynb</code>: Creates <code>model_predictors.csv</code> and <code>model_predictors_human.csv</code> and performs a logit ordinal regression to predict viral severity group (an ordinal variable) from the predictors in <code>model_predictors_human.csv</code>. </li>
 </ul>

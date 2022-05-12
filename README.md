@@ -38,7 +38,7 @@
   <li><code>GO_distances.csv.gz</code>: Dataframe of the number of GO functions shared by every pair of proteins in <code>enriched_GO_proteins.csv</code></li>
   <li><code>GO_PFAM_pairwise_share.csv.gz</code>Same as <code>GO_distances.csv.gz</code>, but contains another column for the number of PFAM domains shared by every pair of proteins.</li>
   <li><code>viral_taxids.txt</code>: List of taxonomic IDs of the viruses that predominantly infect humans extracted from the "Taxid A" column of <code>Processed/virus_human.csv</code>.</li>
-  <li><code>viral_taxonomies.csv</code>: Full taxonomic classifications for the viral taxids in <code>Processed/viral_taxids.txt</code>, obtained using the <code>Taxonomizr</code> package in R.</li>
+  <li><code>viral_taxonomies.csv</code>: Full taxonomic classifications for the viral taxids in <code>Processed/viral_taxids.txt</code>, obtained using the <code>Taxonomizr</code> <a href="https://cran.r-project.org/web/packages/taxonomizr/vignettes/usage.html" target="_blank">package<a/> in R.</li>
   <li><code>model_predictors.csv</code>: Dataframe of predictors (genome size, number of publications, and number of unique interactions with human proteins) for a linear model.</li>
   <li><code>model_predictors_human.csv</code>: Same as <code>model_predictors.csv</code>, but excluding viruses that don't normally infect humans. Animal viruses are included in the dataset because many that are closely related to human viruses have been studied in laboratory settings.</li>
 </ul>

@@ -150,6 +150,5 @@ assert virus_human["Taxid B"].unique() == 9606
 assert 'Homo sapiens' not in virus_human["Taxname A"].values
 assert 9606 not in virus_human["Taxid A"].values
 
-# save both files to CSVs
+# save only the virus-human file to a CSV
 virus_human.to_csv("Processed/virus_human.csv", index=False)
-human_human.to_csv("Processed/human_important_for_virus.csv", index=False)

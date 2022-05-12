@@ -19,7 +19,7 @@
   <li><code>taxids_with_names.txt</code>: Table of taxonomic IDs with associated names, obtained by searching the <a href="https://www.ncbi.nlm.nih.gov/Taxonomy/TaxIdentifier/tax_identifier.cgi" target="_blank">NCBI taxonomy browser</a>.</li>
   <li><code>human_proteins.txt</code>: List of all human proteins from the virus IntAct database</li>
   <li><code>human_proteins_fixed.tab</code>: Table of updated human proteins. It was obtained by searching <code>human_proteins.txt</code> on the UniProt website to update and clean deprecated names.</li>
-  <li><code>human_genes.txt</code>: Table of human genes from the host:virus database. Gene names were extracted from <code>human_proteins_fixed.tab</code>.<li>
+  <li><code>human_genes.txt</code>: Table of human genes from the host:virus database. Gene names were extracted from <code>human_proteins_fixed.tab</code>.</li>
   <li><code>human_proteins_all.gz</code>: Table of all ~79,000 proteins in the human proteome downloaded from <a href="https://www.uniprot.org/uniprot/?query=proteome:UP000005640" target="_blank">UniProt</a>.</li>
   <li><code>human_genes_all.txt</code>: List of all human genes to use as the background list for GOrilla enrichment searching. Gene names were extracted from <code>human_proteins_all.gz</code>.</li>
   <li><code>GO_function.tsv</code>: GOrilla function results returned from searching <code>human_genes.txt</code> and <code>human_genes_all.txt</code> using the "Two unranked lists of genes" feature</li>
@@ -29,4 +29,10 @@
 ### Processed:
 
 <ul>
-  <li><code>virus_human.csv</code>This file includes columns for taxonomies that were added in later steps
+  <li><code>virus_human.csv</code>: Protein-protein interactions between viruses and humans. This file includes columns for taxonomies that were added in later steps. All viral proteins are in columns labeled <code>A</code>, and all human proteins are in columns labeled <code>B</code>. </li>
+  <li><code>human_important_for_virus.csv</code>: Pairwise interactions between human proteins that are involved in viral infection. This file is not used in this project, but these interactions were present in <code>Data/virus_intact.txt</code> downloaded from IntAct.</li>
+  <li><code>GO_function</code: Pickle file that is very similar to <code>Data/GO_function.tsv</code>. The only difference is that the Genes column has been cleaned up to remove gene descriptions and contains lists of genes instead of strings.</li>
+  <li><code>GO_process</code: Pickle file that is very similar to <code>Data/GO_process.tsv</code>. The only difference is that the Genes column has been cleaned up to remove gene descriptions and contains lists of genes instead of strings.</li>
+  <li><code>enriched_GO_proteins.csv</code>: Tidy dataframe of proteins by Gene name and UniProt ID with their associated gene ontology annotations. This file includes ONLY genes associated with GO functions with enrichment scores greater than the mean, obtained from <code>Processed/GO_function</code>.</li>
+  <li><code>protein_domains.csv</code>: Tidy dataframe of proteins by their UniProt IDs and the numbers and types of PFAM domains they contain.</li>
+  <li><code>GO_PFAM_pairwise_share.csv.gz</code></li>

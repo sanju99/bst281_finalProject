@@ -8,6 +8,8 @@
 
 <b>Analysis</b>: iPython notebooks used for analyses
 
+<b>Figures</b>: Figures included in the final figure for this module
+
 ## Data files by folder:
 
 ### Data
